@@ -384,6 +384,42 @@ export function UseCases() {
   );
 }
 
+/** A product screenshot with a drawn stand-in until the real capture lands in /public/screens. */
+function Screen({ src, alt, step }: { src: string; alt: string; step: number }) {
+  const [missing, setMissing] = useState(false);
+  if (!missing) {
+    // eslint-disable-next-line @next/next/no-img-element
+    return <img src={src} alt={alt} loading="lazy" onError={() => setMissing(true)} className="block aspect-[16/10] w-full bg-paper object-cover object-top" />;
+  }
+  const mocks = [
+    <div key="a" className="space-y-3 p-5 font-body text-xs">
+      <p className="font-display text-sm font-bold">Tutor Mode · institute defaults</p>
+      {[["Teacher name", "Riya Ma'am"], ["Voice", "Riya (your voice)"], ["Languages", "English · हिंदी"], ["Strictness", "Normal"]].map(([k, v]) => (
+        <div key={k} className="flex items-center justify-between rounded-lg border-2 border-ink bg-white px-3 py-2"><span className="text-ink-500">{k}</span><span className="font-semibold">{v}</span></div>
+      ))}
+      <div className="flex gap-2"><span className="rounded-lg border-2 border-ink bg-white px-3 py-2">Photo only</span><span className="rounded-lg border-2 border-ink bg-signal-100 px-3 py-2 font-semibold">Animated avatar ✓</span></div>
+    </div>,
+    <div key="b" className="space-y-2 p-5 font-body text-xs">
+      <p className="font-display text-sm font-bold">Physics · Tutor Mode</p>
+      {[["Force and motion", "Video · 12 min", "4 credits"], ["Newton's laws", "PDF · 6 pages", "6 credits"], ["Practice set", "Quiz · 10 Qs", "2 credits"]].map(([a, b, c]) => (
+        <div key={a} className="grid grid-cols-[1fr_auto_auto] items-center gap-3 rounded-lg border-2 border-ink bg-white px-3 py-2"><span className="font-semibold">{a}</span><span className="text-ink-500">{b}</span><span className="rounded-full bg-sticky px-2 py-0.5 font-bold">{c}</span></div>
+      ))}
+      <div className="flex justify-end"><span className="rounded-full bg-signal px-3 py-1.5 font-display font-bold text-white">Convert 3 slides · 12 credits</span></div>
+    </div>,
+    <div key="c" className="grid grid-cols-[1fr_9rem] gap-0 font-body text-xs">
+      <div className="grid-paper p-4 font-chalk"><p className="text-base font-bold">Newton&apos;s second law</p><p>● F = m × a</p><p>● Double the mass, halve the acceleration</p></div>
+      <div className="space-y-2 border-s-2 border-ink p-3"><p className="rounded-xl bg-paper-2 px-2 py-1">If I double the mass…?</p><p className="ms-4 rounded-xl bg-ink px-2 py-1 text-paper">It halves</p><span className="rounded-full bg-mint-100 px-2 py-0.5 font-bold">✓ Correct</span></div>
+    </div>,
+    <div key="d" className="p-5 font-body text-xs">
+      <p className="font-display text-sm font-bold">Insights · Batch 2026</p>
+      {[["Priya", 82, "Gas exchange"], ["Aman", 64, "Newton's 2nd law"], ["Sara", 91, "—"], ["Rahul", 47, "Units, Vectors"]].map(([n, p, w]) => (
+        <div key={String(n)} className="mt-2 grid grid-cols-[5rem_1fr_8rem] items-center gap-2"><span className="font-semibold">{n}</span><span className="h-2 rounded-full bg-ink-100"><span className="block h-2 rounded-full bg-mint" style={{ width: `${p}%` }} /></span><span className="truncate text-ink-500">{w}</span></div>
+      ))}
+    </div>,
+  ];
+  return <div className="aspect-[16/10] w-full overflow-hidden bg-paper">{mocks[step % mocks.length]}</div>;
+}
+
 /** The admin journey: what it takes to make one of these. Real screens when present. */
 export function CreateSteps() {
   const steps = [
@@ -434,8 +470,7 @@ export function CreateSteps() {
                   <span className="size-2.5 rounded-full bg-signal" /><span className="size-2.5 rounded-full bg-sticky" /><span className="size-2.5 rounded-full bg-mint" />
                   <span className="ms-2 truncate font-display text-xs font-semibold text-ink-500">admin.vacademy.io</span>
                 </div>
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={s.shot} alt={s.alt} loading="lazy" className="block aspect-[16/10] w-full bg-paper object-cover object-top" />
+                <Screen src={s.shot} alt={s.alt} step={i} />
               </figure>
             </li>
           ))}
