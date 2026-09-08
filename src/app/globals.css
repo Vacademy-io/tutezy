@@ -45,6 +45,7 @@ h1, h2, h3, .display {
   text-wrap: balance;
 }
 
+@layer components {
 /* Squared paper behind the whiteboard mockups. */
 .grid-paper {
   background-color: #fff;
@@ -92,6 +93,7 @@ h1, h2, h3, .display {
   background-image: linear-gradient(transparent 62%, var(--color-sticky) 62%);
   background-size: 100% 100%;
   padding-inline: 0.1em;
+}
 }
 
 /* Ticker */
