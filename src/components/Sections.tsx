@@ -6,6 +6,7 @@ import { LessonDemo } from "./LessonDemo";
 import { whatsappLink } from "@/lib/leadSubmit";
 
 export const DEMO_HREF = "#demo";
+export const TRY_HREF = "https://learner.vacademy.io/try";
 const WA_TEXT = "Hi, I'd like a demo of Tutezy for my students.";
 
 export function Nav() {
@@ -13,15 +14,16 @@ export function Nav() {
   const links = [
     ["#how", "How it works"],
     ["#features", "Inside a lesson"],
-    ["#who", "Who it's for"],
+    ["#usecases", "Use cases"],
+    ["#create", "Setup"],
     ["#pricing", "Pricing"],
     ["#faq", "FAQ"],
   ];
   return (
     <header className="sticky top-0 z-40 border-b-2 border-ink bg-paper/95 backdrop-blur">
-      <div className="mx-auto flex max-w-6xl items-center gap-4 px-4 py-3 sm:px-6">
+      <div className="wrap flex items-center gap-4 py-3">
         <a href="#top" className="flex items-center gap-2" aria-label="Tutezy home">
-          <Image src="/logo.png" alt="tutezy.ai" width={150} height={60} className="h-9 w-auto sm:h-10" priority />
+          <Image src="/logo.png" alt="tutezy.ai" width={520} height={150} className="h-10 w-auto sm:h-12" priority />
         </a>
         <span className="hidden rounded-full border border-ink px-2 py-0.5 font-display text-[11px] font-semibold text-ink-700 md:inline">by Vacademy</span>
         <nav className="ms-auto hidden items-center gap-6 md:flex" aria-label="Sections">
@@ -56,7 +58,7 @@ export function Nav() {
 export function Hero() {
   return (
     <section id="top" className="dot-paper">
-      <div className="mx-auto grid max-w-6xl items-center gap-10 px-4 py-14 sm:px-6 lg:grid-cols-[1.05fr_1fr] lg:py-20">
+      <div className="wrap grid items-center gap-10 py-14 lg:grid-cols-[1fr_1.1fr] lg:py-20">
         <div>
           <p className="inline-flex items-center gap-2 rounded-full border-2 border-ink bg-white px-3 py-1 font-display text-xs font-bold uppercase tracking-wide">
             <span className="size-2 rounded-full bg-mint" /> Personalised learning · AI live classes
@@ -72,6 +74,9 @@ export function Hero() {
           <div className="mt-7 flex flex-wrap items-center gap-3">
             <a href={DEMO_HREF} className="btn-hard rounded-full bg-signal px-6 py-3 font-display text-base font-bold text-white">
               Book a 20-minute demo
+            </a>
+            <a href={TRY_HREF} className="btn-hard rounded-full bg-sticky px-5 py-3 font-display text-base font-bold text-ink">
+              Try a 3-minute lesson →
             </a>
             <a
               href={whatsappLink(WA_TEXT)}
@@ -172,7 +177,7 @@ export function HowItWorks() {
     },
   ];
   return (
-    <section id="how" className="mx-auto max-w-6xl px-4 py-16 sm:px-6 lg:py-24">
+    <section id="how" className="wrap py-16 lg:py-24">
       <h2 className="text-3xl font-extrabold sm:text-4xl">From your content to a live class, in three steps</h2>
       <p className="mt-3 max-w-2xl text-ink-700">No re-authoring. No scripts to write. The lesson comes from what your teachers already made.</p>
       <ol className="mt-10 grid gap-6 md:grid-cols-3">
@@ -271,7 +276,7 @@ export function Features() {
   ];
   return (
     <section id="features" className="border-y-2 border-ink bg-white">
-      <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 lg:py-24">
+      <div className="wrap py-16 lg:py-24">
         <h2 className="text-3xl font-extrabold sm:text-4xl">Inside a Tutezy lesson</h2>
         <p className="mt-3 max-w-2xl text-ink-700">Everything a good one-to-one tutor does, done for every student at once.</p>
         <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
@@ -290,7 +295,7 @@ export function Features() {
 
 export function Audience() {
   return (
-    <section id="who" className="mx-auto max-w-6xl px-4 py-16 sm:px-6 lg:py-24">
+    <section id="who" className="wrap py-16 lg:py-24">
       <h2 className="text-3xl font-extrabold sm:text-4xl">Built for institutes. Loved by solo teachers.</h2>
       <div className="mt-10 grid gap-6 lg:grid-cols-2">
         <div className="card-hard p-7">
@@ -327,7 +332,7 @@ export function Audience() {
 export function TeacherBand() {
   return (
     <section className="border-y-2 border-ink bg-paper-2">
-      <div className="mx-auto grid max-w-6xl items-center gap-8 px-4 py-14 sm:px-6 lg:grid-cols-[1fr_1.3fr] lg:py-20">
+      <div className="wrap grid items-center gap-8 py-14 lg:grid-cols-[1fr_1.3fr] lg:py-20">
         <div>
           <p className="inline-block rounded-full bg-ink px-3 py-1 font-display text-xs font-bold uppercase tracking-wide text-paper">Same teacher, every screen</p>
           <h2 className="mt-4 text-3xl font-extrabold sm:text-4xl">Your teachers, in every student&apos;s room</h2>
@@ -345,6 +350,112 @@ export function TeacherBand() {
         <div className="card-hard overflow-hidden p-0">
           <Image src="/hero-art.png" alt="A teacher writing a = F ÷ m on a whiteboard, with the same lesson and her avatar on a laptop" width={1536} height={1024} className="h-auto w-full" />
         </div>
+      </div>
+    </section>
+  );
+}
+
+/** What institutes run on it — not only courses. */
+export function UseCases() {
+  const cases = [
+    { t: "Course lessons", d: "Every chapter of an existing course becomes a live, one-to-one lesson the student can question.", tone: "bg-sky", icon: "📘" },
+    { t: "Doubt-solving sessions", d: "Students bring the doubt; the teacher explains on the board, checks they got it, and logs the concept for the human teacher.", tone: "bg-signal-100", icon: "❓" },
+    { t: "Post-assessment solution sessions", d: "After a test, each student is walked through the questions they got wrong — their mistakes, not the class average.", tone: "bg-mint-100", icon: "📝" },
+    { t: "Mentoring & study planning", d: "Weekly check-ins on what to study next, paced to the student's weak concepts and the exam calendar.", tone: "bg-lilac", icon: "🧭" },
+    { t: "Interview & viva preparation", d: "Mock questions asked aloud, answers heard and graded, model answers written on the board — as many rounds as they want.", tone: "bg-sticky", icon: "🎤" },
+    { t: "Revision before exams", d: "Rapid-fire recap boards from the whole syllabus with quick checks, in the student's preferred language and pace.", tone: "bg-paper-2", icon: "⚡" },
+    { t: "Spoken language practice", d: "Conversation drills in English or Hindi with instant correction — the teacher listens and replies by voice.", tone: "bg-white", icon: "🗣️" },
+    { t: "Onboarding & training", d: "Product, process or compliance training for staff and franchise partners, with a record of who understood what.", tone: "bg-sky", icon: "🏢" },
+  ];
+  return (
+    <section id="usecases" className="wrap py-16 lg:py-24">
+      <h2 className="text-3xl font-extrabold sm:text-4xl">Not just courses. Every session an institute runs.</h2>
+      <p className="mt-3 max-w-2xl text-ink-700">Anything a teacher does one to one, Tutezy can do for every student — with a record of what each of them understood.</p>
+      <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        {cases.map((c) => (
+          <article key={c.t} className={`card-hard p-5 ${c.tone}`}>
+            <span className="text-3xl" aria-hidden="true">{c.icon}</span>
+            <h3 className="mt-3 text-lg font-bold">{c.t}</h3>
+            <p className="mt-1.5 text-sm text-ink-700">{c.d}</p>
+          </article>
+        ))}
+      </div>
+    </section>
+  );
+}
+
+/** The admin journey: what it takes to make one of these. Real screens when present. */
+export function CreateSteps() {
+  const steps = [
+    {
+      n: "1",
+      t: "Turn on Tutor Mode",
+      d: "In the Vacademy admin, open Settings → Tutor Mode. Name the teacher, upload a photo, pick a voice (or clone yours), choose English/Hindi and strictness. Every course inherits these; any course can override.",
+      shot: "/screens/01-tutor-mode-settings.png",
+      alt: "Tutor Mode settings: teacher name, voice, avatar, languages",
+    },
+    {
+      n: "2",
+      t: "Pick a course and see the cost",
+      d: "Open any course's Tutor Mode tab. Tutezy lists every slide — PDFs, videos, slides, quizzes — and shows the credits it will take to convert them before you press anything.",
+      shot: "/screens/02-course-tutor-tab.png",
+      alt: "A course's Tutor Mode tab with the credit estimate",
+    },
+    {
+      n: "3",
+      t: "Compile and review",
+      d: "One click compiles a teaching plan per slide: boards, examples, diagrams, checks, hints, recap. Preview any board exactly as the student will see it; recompile the ones you want tighter.",
+      shot: "/screens/03-compiled-plan-preview.png",
+      alt: "A compiled lesson plan with its boards and checks",
+    },
+    {
+      n: "4",
+      t: "Students learn. You get the insights.",
+      d: "Learners find a 'Learn with the teacher' button on every converted chapter. Insights show concept mastery per student and per batch, minutes taught, and a CSV for the academic head.",
+      shot: "/screens/04-insights.png",
+      alt: "Tutor insights: weak concepts per student and per batch",
+    },
+  ];
+  return (
+    <section id="create" className="border-y-2 border-ink bg-white">
+      <div className="wrap py-16 lg:py-24">
+        <h2 className="text-3xl font-extrabold sm:text-4xl">Setting it up takes an afternoon, not a project</h2>
+        <p className="mt-3 max-w-2xl text-ink-700">Four screens. No content team, no scripts, no new app for students.</p>
+        <ol className="mt-10 space-y-10">
+          {steps.map((s, i) => (
+            <li key={s.n} className={`grid items-center gap-6 lg:grid-cols-2 ${i % 2 ? "lg:[&>*:first-child]:order-2" : ""}`}>
+              <div>
+                <span className="grid size-12 place-items-center rounded-full border-2 border-ink bg-signal font-display text-xl font-extrabold text-white shadow-hard-sm">{s.n}</span>
+                <h3 className="mt-4 text-2xl font-bold">{s.t}</h3>
+                <p className="mt-2 max-w-prose text-ink-700">{s.d}</p>
+              </div>
+              <figure className="card-hard overflow-hidden p-0">
+                <div className="flex items-center gap-1.5 border-b-2 border-ink bg-paper-2 px-3 py-2">
+                  <span className="size-2.5 rounded-full bg-signal" /><span className="size-2.5 rounded-full bg-sticky" /><span className="size-2.5 rounded-full bg-mint" />
+                  <span className="ms-2 truncate font-display text-xs font-semibold text-ink-500">admin.vacademy.io</span>
+                </div>
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src={s.shot} alt={s.alt} loading="lazy" className="block aspect-[16/10] w-full bg-paper object-cover object-top" />
+              </figure>
+            </li>
+          ))}
+        </ol>
+      </div>
+    </section>
+  );
+}
+
+/** The self-serve taste: three minutes with the teacher, no sign-up. */
+export function TryBand() {
+  return (
+    <section className="wrap py-10">
+      <div className="card-hard flex flex-wrap items-center justify-between gap-6 bg-sticky p-7 sm:p-9">
+        <div className="max-w-2xl">
+          <p className="font-display text-xs font-bold uppercase tracking-wide text-ink-700">No sign-up · 3 minutes · voice or text</p>
+          <h2 className="mt-2 text-3xl font-extrabold sm:text-4xl">Don&apos;t take our word for it. Take a lesson.</h2>
+          <p className="mt-2 text-ink-700">Tell the teacher your name, pick a topic, and she starts teaching — board, voice, questions and all. One free session per visitor.</p>
+        </div>
+        <a href={TRY_HREF} className="btn-hard rounded-full bg-ink px-6 py-3 font-display text-base font-bold text-paper">Start my 3-minute lesson →</a>
       </div>
     </section>
   );

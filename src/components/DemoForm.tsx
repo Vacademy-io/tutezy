@@ -43,7 +43,7 @@ export function DemoForm() {
 
   return (
     <section id="demo" className="dot-paper">
-      <div className="mx-auto grid max-w-6xl gap-10 px-4 py-16 sm:px-6 lg:grid-cols-[1fr_1.1fr] lg:py-24">
+      <div className="wrap grid gap-10 py-16 lg:grid-cols-[1fr_1.1fr] lg:py-24">
         <div>
           <h2 className="text-3xl font-extrabold sm:text-4xl">See Tutezy teach <span className="mark-sticky">your</span> chapter</h2>
           <p className="mt-4 text-lg text-ink-700">

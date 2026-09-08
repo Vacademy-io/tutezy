@@ -29,7 +29,7 @@ const FAQ: Array<[string, string]> = [
 
 export function Faq() {
   return (
-    <section id="faq" className="mx-auto max-w-4xl px-4 py-16 sm:px-6 lg:py-24">
+    <section id="faq" className="wrap max-w-5xl py-16 lg:py-24">
       <h2 className="text-3xl font-extrabold sm:text-4xl">Questions institutes ask us</h2>
       <div className="mt-8 divide-y-2 divide-ink border-y-2 border-ink">
         {FAQ.map(([q, a]) => (
@@ -49,9 +49,9 @@ export function Faq() {
 export function Footer() {
   return (
     <footer className="border-t-2 border-ink bg-ink text-paper">
-      <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-6 px-4 py-10 sm:px-6">
+      <div className="wrap flex flex-wrap items-center justify-between gap-6 py-10">
         <div>
-          <Image src="/logo.png" alt="tutezy.ai" width={150} height={60} className="h-9 w-auto rounded-md bg-white p-1" />
+          <Image src="/logo-full.png" alt="tutezy.ai — Personalized Learning | AI Live Classes" width={600} height={240} className="h-16 w-auto rounded-lg bg-white px-3 py-1" />
           <p className="mt-3 max-w-sm text-sm text-ink-300">A product of Vacademy — the education OS used by institutes for courses, tests, live classes and CRM.</p>
         </div>
         <nav className="flex flex-wrap gap-x-6 gap-y-2 text-sm font-semibold" aria-label="Footer">

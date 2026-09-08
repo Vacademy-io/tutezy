@@ -46,6 +46,15 @@ h1, h2, h3, .display {
 }
 
 @layer components {
+/* Page container: wide, with a modest gutter (the owner wants less side margin). */
+.wrap {
+  margin-inline: auto;
+  width: 100%;
+  max-width: 96rem;
+  padding-inline: 1rem;
+}
+@media (min-width: 640px) { .wrap { padding-inline: 1.5rem; } }
+@media (min-width: 1280px) { .wrap { padding-inline: 2.5rem; } }
 /* Squared paper behind the whiteboard mockups. */
 .grid-paper {
   background-color: #fff;

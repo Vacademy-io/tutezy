@@ -15,7 +15,7 @@ export function Pricing() {
   const p = P[cur];
   return (
     <section id="pricing" className="border-y-2 border-ink bg-white">
-      <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 lg:py-24">
+      <div className="wrap py-16 lg:py-24">
         <div className="flex flex-wrap items-end justify-between gap-4">
           <div>
             <h2 className="text-3xl font-extrabold sm:text-4xl">Pay per minute. No seats, no minimums.</h2>
