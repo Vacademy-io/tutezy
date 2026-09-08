@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { LessonDemo } from "./LessonDemo";
 import { whatsappLink } from "@/lib/leadSubmit";
 
@@ -387,9 +387,15 @@ export function UseCases() {
 /** A product screenshot with a drawn stand-in until the real capture lands in /public/screens. */
 function Screen({ src, alt, step }: { src: string; alt: string; step: number }) {
   const [missing, setMissing] = useState(false);
+  const ref = useRef<HTMLImageElement>(null);
+  // A 404 that happened before hydration never replays onError: check the element.
+  useEffect(() => {
+    const el = ref.current;
+    if (el && el.complete && el.naturalWidth === 0) setMissing(true);
+  }, []);
   if (!missing) {
     // eslint-disable-next-line @next/next/no-img-element
-    return <img src={src} alt={alt} loading="lazy" onError={() => setMissing(true)} className="block aspect-[16/10] w-full bg-paper object-cover object-top" />;
+    return <img ref={ref} src={src} alt={alt} loading="eager" onError={() => setMissing(true)} className="block aspect-[16/10] w-full bg-paper object-cover object-top" />;
   }
   const mocks = [
     <div key="a" className="space-y-3 p-5 font-body text-xs">
