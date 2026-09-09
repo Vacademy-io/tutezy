@@ -515,3 +515,63 @@ export function TryBand() {
     </section>
   );
 }
+
+/** The teacher asks first. A visitor says what they want; she answers and hands them the matching 3-minute lesson. */
+export function AskRiya() {
+  const wants = [
+    { k: "chapters", label: "Teach my course chapters", topic: "photosynthesis", reply: "Give me any chapter — a PDF, a recording, slides — and I'll teach it on the board, one to one, in your teacher's voice. Try a chapter of mine first." },
+    { k: "doubts", label: "Clear doubts after class", topic: "newton-second-law", reply: "Students bring the doubt, I explain it on the board, check they've got it, and note the concept for their teacher. Here's how I handle a physics one." },
+    { k: "exam", label: "Walk through tough exam questions", topic: "neet-biology-tough", reply: "I take the question they got wrong, show the trap, then the fast method — and come back to it later. Watch me do a NEET one." },
+    { k: "interview", label: "Run mock interviews", topic: "aptitude-interview", reply: "I ask, I wait, I listen, then I give feedback and the model answer. Three questions in three minutes — want to try?" },
+    { k: "revise", label: "Revise before exams", topic: "jee-maths-problem", reply: "Rapid boards, quick checks, at the pace the student picks — and I keep a list of what still needs work." },
+    { k: "train", label: "Train my team", topic: "hr-training-feedback", reply: "Onboarding, compliance, skills: I set up a situation, your people try it, and I coach the attempt. Here's a feedback-skills practice round." },
+    { k: "language", label: "Practise a language", topic: "spanish-basics", reply: "We talk. I correct as we go, and we build up to a real conversation. Start with your first Spanish coffee order." },
+  ];
+  const [pick, setPick] = useState<(typeof wants)[number] | null>(null);
+  return (
+    <section className="border-y-2 border-ink bg-white" aria-label="Ask the teacher">
+      <div className="wrap py-10 lg:py-14">
+        <div className="card-hard bg-paper p-5 sm:p-7">
+          <div className="flex items-start gap-4">
+            <span className="relative grid size-12 shrink-0 place-items-center rounded-full bg-lilac font-display text-lg font-bold">
+              R
+              <span className="absolute -bottom-0.5 -end-0.5 size-3.5 rounded-full border-2 border-white bg-mint" />
+            </span>
+            <div className="min-w-0 flex-1">
+              <p className="font-display text-xs font-bold uppercase tracking-wide text-ink-500">Riya · your Tutezy teacher</p>
+              <p className="mt-1 rounded-2xl rounded-ss-sm bg-white px-4 py-3 font-display text-lg font-bold sm:text-xl">
+                Hi! How do you want me to teach your courses, or your students?
+              </p>
+              <div className="mt-4 flex flex-wrap gap-2">
+                {wants.map((w) => (
+                  <button
+                    key={w.k}
+                    type="button"
+                    onClick={() => setPick(w)}
+                    aria-pressed={pick?.k === w.k}
+                    className={`btn-hard rounded-full px-4 py-2 font-display text-sm font-bold ${pick?.k === w.k ? "bg-ink text-paper" : "bg-white text-ink"}`}
+                  >
+                    {w.label}
+                  </button>
+                ))}
+              </div>
+              {pick && (
+                <div className="mt-4 rounded-2xl rounded-ss-sm border-2 border-ink bg-white px-4 py-3">
+                  <p className="text-ink-700">{pick.reply}</p>
+                  <div className="mt-3 flex flex-wrap gap-2">
+                    <a href={`${TRY_HREF}?topic=${encodeURIComponent(pick.topic)}`} className="btn-hard rounded-full bg-signal px-4 py-2 font-display text-sm font-bold text-white">
+                      Try it now · 3 minutes, no sign-up
+                    </a>
+                    <a href={DEMO_HREF} className="btn-hard rounded-full bg-white px-4 py-2 font-display text-sm font-bold text-ink">
+                      Book a demo on my content
+                    </a>
+                  </div>
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
