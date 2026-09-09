@@ -87,7 +87,10 @@ export function Hero() {
               WhatsApp us
             </a>
           </div>
-          <ul className="mt-6 flex flex-wrap gap-x-5 gap-y-2 text-sm font-semibold text-ink-700">
+          <p className="mt-6 inline-block rounded-md border-2 border-ink bg-white px-3 py-1.5 font-display text-sm font-bold">
+            Your content <span className="text-signal">+</span> Tutezy AI <span className="text-signal">=</span> an interactive, personalised learning experience
+          </p>
+          <ul className="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-sm font-semibold text-ink-700">
             <li>✓ Works with your videos, PDFs &amp; slides</li>
             <li>✓ Your teacher&apos;s voice &amp; avatar</li>
             <li>✓ Reports for every student</li>
@@ -294,41 +297,52 @@ export function Features() {
 }
 
 export function Audience() {
+  const who = [
+    { t: "Course creators & course platforms", how: "Sell recorded or live courses with an AI mentor included.", ai: "Students ask, clarify, revise and get personalised support all the way through the course.", tone: "bg-sky", icon: "🎓" },
+    { t: "K-12 schools", how: "A personalised learning companion beside classroom teaching.", ai: "Doubts, practice, revision and learning at each child's own pace, beyond school hours.", tone: "bg-sticky", icon: "🏫" },
+    { t: "1-to-1 tuition & mentorship", how: "An AI mentor between live sessions.", ai: "Practice, revision and basic doubts handled 24/7 while the human tutor takes the live hour.", tone: "bg-mint-100", icon: "🤝" },
+    { t: "Coaching & test-prep institutes", how: "Add an AI mentor to existing courses and batches.", ai: "Doubt solving, mock questions, revision and exam preparation for every student at once.", tone: "bg-signal-100", icon: "🎯" },
+    { t: "Universities & colleges", how: "An assistant per subject, course or programme.", ai: "Students interact with course content and get instant academic help.", tone: "bg-lilac", icon: "🏛️" },
+    { t: "Corporate & HR training", how: "Onboarding, compliance, product and skill programmes.", ai: "Employees learn at their own pace and question the training material instead of skimming it.", tone: "bg-paper-2", icon: "🏢" },
+    { t: "Professional training & certification", how: "Certification programmes with a mentor throughout.", ai: "Learners don't just watch videos; a mentor walks with them through the whole programme.", tone: "bg-white", icon: "📜" },
+    { t: "Tutors & independent educators", how: "Scale teaching beyond live classes.", ai: "Homework help, practice, revision and concept clarification for every learner, in your voice.", tone: "bg-sky", icon: "👩‍🏫" },
+    { t: "Content & training companies", how: "Turn videos, PDFs, notes and books into interactive learning.", ai: "Learners interact with the content through a mentor instead of consuming it statically.", tone: "bg-mint-100", icon: "🎬" },
+    { t: "Skill development platforms", how: "AI help inside coding, communication, business and tech courses.", ai: "Personalised guidance, practice, feedback and support on every skill.", tone: "bg-sticky", icon: "🛠️" },
+  ];
   return (
     <section id="who" className="wrap py-16 lg:py-24">
-      <h2 className="text-3xl font-extrabold sm:text-4xl">Built for institutes. Loved by solo teachers.</h2>
-      <div className="mt-10 grid gap-6 lg:grid-cols-2">
-        <div className="card-hard p-7">
-          <p className="inline-block rounded-full bg-ink px-3 py-1 font-display text-xs font-bold uppercase tracking-wide text-paper">Coaching &amp; institutes</p>
-          <h3 className="mt-4 text-2xl font-bold">Doubt-clearing that scales with the batch, not the staff</h3>
-          <ul className="mt-4 space-y-2.5 text-ink-700">
-            <li>▸ Turn on Tutor Mode per course; every existing chapter becomes a live lesson.</li>
-            <li>▸ One set of institute defaults: teacher name, voice, avatar, languages, strictness. Courses override what they need.</li>
-            <li>▸ Prepaid credits with a live balance; lessons stop politely when it runs out. No surprise bills.</li>
-            <li>▸ Batch-level insights and CSV export for academic heads; per-student weak concepts for teachers.</li>
-            <li>▸ Runs inside the Vacademy learner app you already ship — web, Android, iOS.</li>
-          </ul>
-        </div>
-        <div className="card-hard bg-sticky p-7">
-          <p className="inline-block rounded-full bg-ink px-3 py-1 font-display text-xs font-bold uppercase tracking-wide text-paper">Solo teachers &amp; creators</p>
-          <h3 className="mt-4 text-2xl font-bold">Be in every student&apos;s room, in your own voice</h3>
-          <ul className="mt-4 space-y-2.5 text-ink-700">
-            <li>▸ Upload your recorded lectures; Tutezy turns them into interactive lessons students can question.</li>
-            <li>▸ Clone your voice once, add your avatar, and every learner gets you, one to one.</li>
-            <li>▸ Pay only for minutes actually taught — start with a few hundred rupees of credits.</li>
-            <li>▸ See who is stuck where, before the next live class.</li>
-          </ul>
-        </div>
+      <h2 className="text-3xl font-extrabold sm:text-4xl">Who can use Tutezy?</h2>
+      <p className="mt-3 max-w-3xl text-ink-700">
+        Any education, training or learning business that wants to add an AI mentor or instructor to what it already delivers. The content
+        stays yours; the mentor stays with the learner.
+      </p>
+      <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
+        {who.map((w) => (
+          <article key={w.t} className={`card-hard flex flex-col p-5 ${w.tone}`}>
+            <span className="text-2xl" aria-hidden="true">{w.icon}</span>
+            <h3 className="mt-2 text-base font-bold leading-snug">{w.t}</h3>
+            <p className="mt-2 text-sm font-semibold text-ink">{w.how}</p>
+            <p className="mt-1.5 text-sm text-ink-700">{w.ai}</p>
+          </article>
+        ))}
       </div>
-      <div className="mt-8 flex flex-wrap items-center justify-between gap-4 rounded-2xl border-2 border-ink bg-ink px-6 py-5 text-paper">
-        <p className="font-display text-lg font-bold">See it teach your own chapter. We set it up on the call.</p>
+      <div className="card-hard mt-10 flex flex-wrap items-center justify-between gap-6 bg-ink p-7 text-paper">
+        <div className="max-w-2xl">
+          <p className="font-display text-xs font-bold uppercase tracking-wide text-signal">The core idea</p>
+          <p className="mt-2 font-display text-2xl font-bold sm:text-3xl">
+            Your content <span className="text-signal">+</span> Tutezy AI <span className="text-signal">=</span> an interactive, personalised learning experience.
+          </p>
+          <p className="mt-3 text-ink-300">
+            Move from content delivery to AI-powered learning. Selling courses, running a school, tutoring one to one, coaching for exams or
+            training a workforce: Tutezy adds a mentor that stays with the learner through the whole journey.
+          </p>
+        </div>
         <a href={DEMO_HREF} className="btn-hard rounded-full bg-signal px-5 py-2.5 font-display font-bold text-white">Book a demo</a>
       </div>
     </section>
   );
 }
 
-/** The illustration band: the teacher on both sides of the screen. */
 export function TeacherBand() {
   return (
     <section className="border-y-2 border-ink bg-paper-2">
