@@ -4,6 +4,7 @@ import Image from "next/image";
 import { useEffect, useRef, useState } from "react";
 import { LessonDemo } from "./LessonDemo";
 import { whatsappLink } from "@/lib/leadSubmit";
+import { HOME_ANCHORS } from "@/lib/site";
 
 export const DEMO_HREF = "#demo";
 export const TRY_HREF = "https://learner.vacademy.io/try";
@@ -11,18 +12,11 @@ const WA_TEXT = "Hi, I'd like a demo of Tutezy for my students.";
 
 export function Nav() {
   const [open, setOpen] = useState(false);
-  const links = [
-    ["#how", "How it works"],
-    ["#features", "Inside a lesson"],
-    ["#usecases", "Use cases"],
-    ["#create", "Setup"],
-    ["#pricing", "Pricing"],
-    ["#faq", "FAQ"],
-  ];
+  const links = [...HOME_ANCHORS, ["/compare/", "Compare"]] as const;
   return (
     <header className="sticky top-0 z-40 border-b-2 border-ink bg-paper/95 backdrop-blur">
       <div className="wrap flex items-center gap-4 py-3">
-        <a href="#top" className="flex items-center gap-2" aria-label="Tutezy home">
+        <a href="/" className="flex items-center gap-2" aria-label="Tutezy home">
           <Image src="/logo.png" alt="tutezy.ai" width={520} height={150} className="h-10 w-auto sm:h-12" priority />
         </a>
         <span className="hidden rounded-full border border-ink px-2 py-0.5 font-display text-[11px] font-semibold text-ink-700 md:inline">by Vacademy</span>

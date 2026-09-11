@@ -1,0 +1,76 @@
+# Tutezy by Vacademy
+
+> Tutezy is a live AI tutor for institutes, schools, course creators and
+> corporate trainers. It turns the content an organisation already has
+> (PDFs, recorded videos, slides, question banks) into one-to-one whiteboard
+> lessons taught live by an AI teacher that speaks in the institute's own
+> teacher's cloned voice, asks questions, listens to spoken or typed answers,
+> gives hints, revisits weak concepts and reports mastery per student.
+> Lessons are taught in English and Hindi. Pricing is per learner-minute
+> (₹3 / $0.03; ₹5 / $0.05 with the animated avatar) with no seat licences.
+> Made by Vacademy (vacademy.io), an education operating system used by
+> coaching institutes, schools and training companies. Site: https://tutezy.ai
+
+## What makes Tutezy different from a chatbot
+
+- It teaches a syllabus rather than answering prompts: every slide is compiled
+  once into a teaching plan (topics, concepts, board steps, narration, checks,
+  hints, misconceptions), then taught live by a state machine that calls the
+  model only where judgment is needed (grading an answer, remediating, answering
+  a doubt).
+- It writes on a whiteboard as it speaks, sentence by sentence; the live model
+  never emits raw HTML, so boards stay faithful to the source material.
+- It is grounded in the institute's own content, not the open web.
+- It is the institute's teacher: name, photo, cloned voice (15-second sample,
+  consent-gated, private to the institute) and optional lip-synced avatar.
+- It checks understanding after each concept with a structured decision (score
+  against a rubric, capped remediation loops, weak flag), revisits weak concepts
+  before moving on, and opens the next lesson with a recap.
+- It reports: per-student concept mastery, weak spots per batch, minutes taught,
+  CSV export. Every credit spent is itemised.
+- Students use it inside the Vacademy learner app (web, Android, iOS). No new app.
+
+## Pricing (September 2026)
+
+- Live lesson: ₹3 / $0.03 per learner per minute (voice or text, whiteboard,
+  checks, revisits, notes, insights included).
+- With animated teacher avatar shown: ₹5 / $0.05 per learner-minute.
+- Teacher voice clone: ₹2,000 / $20 one-time per voice.
+- Custom teacher avatar from one photo: ₹10,000 / $100 one-time per teacher.
+  Stock avatars are free.
+- Lesson preparation (compiling a slide) is a small one-time credit cost shown
+  before conversion.
+- Prepaid credits, no seat licences, no minimums; volume pricing above 1,000
+  students. Example: 100 students × 30 minutes = 3,000 minutes = ₹9,000 / $90.
+
+## Who it is for
+
+Coaching and test-prep institutes (NEET, JEE, UPSC, banking, CA), K-12 schools,
+course creators and course platforms, universities and colleges, corporate and
+HR training, professional certification providers, independent tutors, content
+and training companies, skill-development platforms.
+
+## Pages
+
+- [Home](https://tutezy.ai/): overview, animated lesson, pricing, demo form
+- [What is Tutezy?](https://tutezy.ai/what-is-tutezy/): plain-language definition
+- [How it works](https://tutezy.ai/how-it-works/): compile step and live runtime
+- [Pricing](https://tutezy.ai/pricing/): rates in INR and USD, worked examples
+- [Hindi AI tutor](https://tutezy.ai/hindi-ai-tutor/): bilingual teaching
+- [FAQ](https://tutezy.ai/faq/): 30 questions institutes ask
+- [About](https://tutezy.ai/about/): Vacademy, contact
+- [For coaching institutes](https://tutezy.ai/for/coaching-institutes/)
+- [For schools](https://tutezy.ai/for/schools/)
+- [For course creators](https://tutezy.ai/for/course-creators/)
+- [For corporate training](https://tutezy.ai/for/corporate-training/)
+- [For independent tutors](https://tutezy.ai/for/tutors/)
+- [For universities](https://tutezy.ai/for/universities/)
+- [Compare](https://tutezy.ai/compare/): vs ChatGPT, Khanmigo, recorded courses, human tutoring
+- [Full text for language models](https://tutezy.ai/llms-full.txt)
+
+## Try and contact
+
+- Free 3-minute lesson, no sign-up: https://learner.vacademy.io/try
+- Book a 20-minute demo: https://tutezy.ai/#demo
+- WhatsApp: +91 99933 36616
+- Parent company: https://vacademy.io

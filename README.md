@@ -30,3 +30,16 @@ No environment variables. Demo requests post from the browser to the Vacademy CR
 `postcss.config.mjs` must stay tiny (see the npm-worm note in the platform repo). Check before every push:
 
     wc -c postcss.config.mjs   # < 150 bytes
+
+## SEO / AI-answer pages
+
+- Every public page is registered in `src/lib/site.ts`; that registry drives `sitemap.xml`,
+  `robots.txt` (`src/app/{sitemap,robots}.ts`), the footer, the home "Read before you decide"
+  section and breadcrumbs. Add a page = add a registry entry + a `page.tsx`.
+- Guide pages use `PageShell` (`src/components/PageShell.tsx`): metadata, BreadcrumbList +
+  Article JSON-LD, optional FAQPage block, related links, CTA. Audience pages use
+  `AudiencePage`, comparisons use `ComparePage`.
+- `public/llms.txt` is hand-written; `out/llms-full.txt` is generated from the exported HTML by
+  `scripts/llms-full.mjs` as part of `pnpm build`.
+- After deploy: submit `https://tutezy.ai/sitemap.xml` in Google Search Console and Bing
+  Webmaster Tools, and check Cloudflare → Security → Bots that "Block AI bots" is OFF.
