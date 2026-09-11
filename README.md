@@ -39,7 +39,7 @@ No environment variables. Demo requests post from the browser to the Vacademy CR
 - Guide pages use `PageShell` (`src/components/PageShell.tsx`): metadata, BreadcrumbList +
   Article JSON-LD, optional FAQPage block, related links, CTA. Audience pages use
   `AudiencePage`, comparisons use `ComparePage`.
-- `public/llms.txt` is hand-written; `out/llms-full.txt` is generated from the exported HTML by
+- `public/llms.txt` is hand-written; `public/llms-full.txt` is generated (and committed) from the exported HTML by
   `scripts/llms-full.mjs` as part of `pnpm build`.
 - After deploy: submit `https://tutezy.ai/sitemap.xml` in Google Search Console and Bing
   Webmaster Tools, and check Cloudflare → Security → Bots that "Block AI bots" is OFF.

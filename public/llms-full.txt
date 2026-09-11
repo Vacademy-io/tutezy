@@ -1,0 +1,1879 @@
+# Tutezy by Vacademy — full site text
+
+Generated 2026-09-11 from https://tutezy.ai. Short summary: https://tutezy.ai/llms.txt
+
+
+---
+
+# Tutezy by Vacademy — a live AI teacher for every student
+URL: https://tutezy.ai/
+
+Personalised learning · AI live classes
+
+# Every student gets a live teacher . Every minute.
+Tutezy turns the content you already have into live whiteboard lessons: a teacher who speaks in your voice and face , asks, listens, corrects, and comes back to what each student found hard. In English and Hindi. Paid per minute, not per seat.
+Book a 20-minute demo Try a 3-minute lesson → WhatsApp us
+Your content + Tutezy AI = an interactive, personalised learning experience
+
+- ✓ Works with your videos, PDFs & slides
+- ✓ Your teacher's voice & avatar
+- ✓ Reports for every student
+
+asks · listens · corrects Physics · Force and motion · Board 1 of 4 Live
+
+Board is clear. Ready when you are.
+
+R Riya Ma'am
+Speaking
+
+Namaste Priya! Today: what makes a force, and how we measure it.
+
+🎤 Answer Type or speak…
+
+₹3 / min · no seats
+
+R Riya · your Tutezy teacher
+Hi! How do you want me to teach your courses, or your students?
+Teach my course chapters Clear doubts after class Walk through tough exam questions Run mock interviews Revise before exams Train my team Practise a language
+
+Whiteboard lessons compiled from your content ✦ Voice lessons in English & हिंदी ✦ Checks, hints & remediation ✦ Weak-concept revisits ✦ Notes written as the lesson goes ✦ Your teacher's cloned voice ✦ Animated teacher avatar ✦ Insights & CSV export ✦ Pay per minute ✦ Whiteboard lessons compiled from your content ✦ Voice lessons in English & हिंदी ✦ Checks, hints & remediation ✦ Weak-concept revisits ✦ Notes written as the lesson goes ✦ Your teacher's cloned voice ✦ Animated teacher avatar ✦ Insights & CSV export ✦ Pay per minute ✦
+
+## From your content to a live class, in three steps
+No re-authoring. No scripts to write. The lesson comes from what your teachers already made.
+
+- 01
+
+### Bring what you already teach with
+Slides, PDFs (even scanned), recorded videos, question banks. Tutezy reads them — transcribing videos and OCR-ing scans — and shows the credit cost before it converts anything.
+PDF Video Slides Quiz
+
+- 02
+
+### Tutezy compiles a lesson plan per slide
+Boards, examples, diagrams, quick checks, hints and a recap — reviewed for quality before a student ever sees it. Your teacher name, voice, pace and strictness are set once per institute or per course.
+
+- Board 1 · Define
+- Board 2 · Example + diagram
+- Check · MCQ
+- Board 3 · Recap
+
+- 03
+
+### Students learn live, one to one
+The teacher writes on the board while speaking, asks a question, waits, nudges if the student goes quiet, corrects with a hint, and comes back later to the concepts they got wrong. Every lesson ends with notes and a summary.
+R Live · 12:04
+
+## Inside a Tutezy lesson
+Everything a good one-to-one tutor does, done for every student at once.
+Photosynthesis
+● Light + CO₂ + H₂O → sugar + O₂
+● Happens in the chloroplast…
+
+### A whiteboard that writes as the teacher speaks
+Headings, bullets, tables, diagrams and worked examples appear sentence by sentence — the way a good teacher paces a board, not a slide dump.
+
+Which gas do plants take in?
+Oxygen?
+Close — look at the arrow. What goes in?
+
+### Asks, waits, and actually listens
+MCQs, short answers and predict-then-reveal prompts. Students answer by voice or text. Silence for a minute? The teacher nudges. Wrong? A hint first, then the answer kept on the board.
+
+- Light reaction
+- Gas exchange revisit
+- Chloroplast
+
+### Comes back to what was hard
+Every miss is tracked per concept. Before moving on, the teacher revisits the weak ones with a fresh question, and the next lesson opens with a recap written by the model.
+
+R Riya Ma'am
+Cloned voice · Avatar on
+
+### Your teacher's voice and face
+Clone a teacher's voice from a 15-second sample. Add an animated, lip-synced avatar built from one photo — or pick a stock one. Consent-gated and private to your institute.
+
+Slower Slow Medium ✓ Fast English हिंदी
+
+### Students set the pace and the language
+Slower, slow, medium, fast — and a switch between English and Hindi mid-lesson. The board and the voice follow. Notes are written live and kept.
+
+### Insights your academic head can act on
+Per-student concept mastery, weak spots across a batch, minutes taught, and a CSV export for the whole institute. Every credit spent is itemised.
+
+No sign-up · 3 minutes · voice or text
+
+## Don't take our word for it. Take a lesson.
+Tell the teacher your name, pick a topic, and she starts teaching — board, voice, questions and all. One free session per visitor.
+
+Start my 3-minute lesson →
+
+## Not just courses. Every session an institute runs.
+Anything a teacher does one to one, Tutezy can do for every student — with a record of what each of them understood.
+📘
+
+### Course lessons
+Every chapter of an existing course becomes a live, one-to-one lesson the student can question.
+
+❓
+
+### Doubt-solving sessions
+Students bring the doubt; the teacher explains on the board, checks they got it, and logs the concept for the human teacher.
+
+📝
+
+### Post-assessment solution sessions
+After a test, each student is walked through the questions they got wrong — their mistakes, not the class average.
+
+🧭
+
+### Mentoring & study planning
+Weekly check-ins on what to study next, paced to the student's weak concepts and the exam calendar.
+
+🎤
+
+### Interview & viva preparation
+Mock questions asked aloud, answers heard and graded, model answers written on the board — as many rounds as they want.
+
+⚡
+
+### Revision before exams
+Rapid-fire recap boards from the whole syllabus with quick checks, in the student's preferred language and pace.
+
+🗣️
+
+### Spoken language practice
+Conversation drills in English or Hindi with instant correction — the teacher listens and replies by voice.
+
+🏢
+
+### Onboarding & training
+Product, process or compliance training for staff and franchise partners, with a record of who understood what.
+
+Same teacher, every screen
+
+## Your teachers, in every student's room
+The board they would draw. The words they would use. The voice students already trust. Tutezy keeps the teacher at the centre and simply lets them be in a hundred places at once — while they see, next morning, exactly who needs them in person.
+
+- ✓ Teacher name, photo, voice, avatar
+- ✓ Strictness: gentle, normal, strict
+- ✓ English & Hindi, per course
+- ✓ Weak concepts, per student
+
+## Setting it up takes an afternoon, not a project
+Four screens. No content team, no scripts, no new app for students.
+
+- 1
+
+### Turn on Tutor Mode
+In the Vacademy admin, open Settings → Tutor Mode. Name the teacher, upload a photo, pick a voice (or clone yours), choose English/Hindi and strictness. Every course inherits these; any course can override.
+
+admin.vacademy.io
+
+- 2
+
+### Pick a course and see the cost
+Open any course's Tutor Mode tab. Tutezy lists every slide — PDFs, videos, slides, quizzes — and shows the credits it will take to convert them before you press anything.
+
+admin.vacademy.io
+
+- 3
+
+### Compile and review
+One click compiles a teaching plan per slide: boards, examples, diagrams, checks, hints, recap. Preview any board exactly as the student will see it; recompile the ones you want tighter.
+
+admin.vacademy.io
+
+- 4
+
+### Students learn. You get the insights.
+Learners find a 'Learn with the teacher' button on every converted chapter. Insights show concept mastery per student and per batch, minutes taught, and a CSV for the academic head.
+
+admin.vacademy.io
+
+## Who can use Tutezy?
+Any education, training or learning business that wants to add an AI mentor or instructor to what it already delivers. The content stays yours; the mentor stays with the learner.
+🎓
+
+### Course creators & course platforms
+Sell recorded or live courses with an AI mentor included.
+Students ask, clarify, revise and get personalised support all the way through the course.
+
+🏫
+
+### K-12 schools
+A personalised learning companion beside classroom teaching.
+Doubts, practice, revision and learning at each child's own pace, beyond school hours.
+
+🤝
+
+### 1-to-1 tuition & mentorship
+An AI mentor between live sessions.
+Practice, revision and basic doubts handled 24/7 while the human tutor takes the live hour.
+
+🎯
+
+### Coaching & test-prep institutes
+Add an AI mentor to existing courses and batches.
+Doubt solving, mock questions, revision and exam preparation for every student at once.
+
+🏛️
+
+### Universities & colleges
+An assistant per subject, course or programme.
+Students interact with course content and get instant academic help.
+
+🏢
+
+### Corporate & HR training
+Onboarding, compliance, product and skill programmes.
+Employees learn at their own pace and question the training material instead of skimming it.
+
+📜
+
+### Professional training & certification
+Certification programmes with a mentor throughout.
+Learners don't just watch videos; a mentor walks with them through the whole programme.
+
+👩‍🏫
+
+### Tutors & independent educators
+Scale teaching beyond live classes.
+Homework help, practice, revision and concept clarification for every learner, in your voice.
+
+🎬
+
+### Content & training companies
+Turn videos, PDFs, notes and books into interactive learning.
+Learners interact with the content through a mentor instead of consuming it statically.
+
+🛠️
+
+### Skill development platforms
+AI help inside coding, communication, business and tech courses.
+Personalised guidance, practice, feedback and support on every skill.
+
+The core idea
+Your content + Tutezy AI = an interactive, personalised learning experience.
+Move from content delivery to AI-powered learning. Selling courses, running a school, tutoring one to one, coaching for exams or training a workforce: Tutezy adds a mentor that stays with the learner through the whole journey.
+
+Book a demo
+
+## Pay per minute. No seats, no minimums.
+Buy credits, use them across every course and every student. A minute only counts while a student is actually in a lesson.
+
+₹ INR $ USD
+
+Live lesson
+₹3 /min
+Per student, per minute of lesson. Voice or text, whiteboard, checks, revisits, notes and insights included.
+
+With animated avatar
+₹5 /min
+Everything above, plus a lip-synced teacher on screen. Students can hide it; you pay only while it is shown.
+
+Teacher voice clone
+₹2,000
+One-time, per voice. A 15-second sample; private to your institute.
+
+Custom teacher avatar
+₹10,000
+One-time, per teacher. Built from one photo, with consent. Stock avatars are free.
+
+What a batch costs
+100 students × 30 minutes of live lessons
+₹9,000
+3,000 minutes at ₹3/min. Lesson preparation is a small one-time cost per slide and is shown before you convert.
+
+- ✓ Credits never expire while your account is active
+- ✓ Live balance, itemised usage, CSV export
+- ✓ Volume pricing for institutes above 1,000 students
+Get a quote on the demo
+
+## See Tutezy teach your chapter
+A 20-minute call. Bring one chapter — a PDF, a recording or slides — and we convert it live, in your teacher's voice if you like.
+
+- 1 We call you on WhatsApp within a working day to fix a slot.
+- 2 On the call: your content in, a live lesson out, pricing for your numbers.
+- 3 Pilot with one batch. Credits to start are on us.
+Prefer WhatsApp? Message us →
+
+### Book a demo
+Your name WhatsApp number India +91UAE +971US/CA +1UK +44Singapore +65Australia +61Nepal +977Bangladesh +880
+Email (optional) Institute / brand You are An institute / coachingA solo teacher / creatorSomething elseRoughly how many students? Pick oneUnder 100100 – 500500 – 2,0002,000+Anything we should prepare? (optional)
+Request my demo No spam. One WhatsApp message to fix the slot, that's it.
+
+## Questions institutes ask us
+Does it replace our teachers?+
+No. It multiplies them. Your teachers' content, name, voice and face teach every student one to one, while the teacher sees who is stuck where before the next live class.
+
+What content works?+
+PDFs (including scanned ones — we OCR them), recorded videos (we transcribe them), slides and presentations, and question banks. You see the credit cost before anything is converted.
+
+Which languages?+
+Lessons are taught in English and Hindi today, and a student can switch mid-lesson. More Indian languages are on the roadmap; ask on the demo.
+
+How does pricing work?+
+Prepaid credits. A live lesson costs ₹3 ($0.03) per student per minute, ₹5 ($0.05) with the animated avatar on. Voice cloning is ₹2,000 ($20) per voice and a custom avatar ₹10,000 ($100) per teacher, one time. There are no seat licences.
+
+Is the teacher's likeness safe?+
+Voice clones and avatars are created only with recorded consent, are private to your institute, and can be disabled at any time. Nobody else on the platform can pick them.
+
+Do students need a new app?+
+No. Tutezy runs inside the Vacademy learner app — web, Android and iOS — next to your courses, tests and live classes. If you are not on Vacademy yet, the demo covers onboarding.
+
+More in the full FAQ (30 questions) .
+
+## Read before you decide
+Plain-language pages on what Tutezy is, what it costs, how it works for your kind of institute, and where it is not the right tool.
+
+### Understand Tutezy
+
+- What is Tutezy?
+- How it works
+- Pricing
+- Hindi AI tutor
+- FAQ
+- About
+
+### Tutezy for your kind of institute
+
+- Coaching & test-prep
+- K-12 schools
+- Course creators
+- Corporate & HR
+- Independent tutors
+- Universities
+
+### Compared with the alternatives
+
+- Compare
+- Tutezy vs ChatGPT
+- Tutezy vs Khanmigo
+- Tutezy vs recorded courses
+- Tutezy vs human tutoring
+
+
+---
+
+# What is Tutezy? A live AI teacher from your own content | Tutezy
+URL: https://tutezy.ai/what-is-tutezy/
+
+- Home
+- › What is Tutezy?
+Definition
+
+# What is Tutezy?
+Tutezy is a live AI tutor that an institute switches on for a course. It takes the content the institute already has and teaches it to each student one to one, on a whiteboard, in the institute’s own teacher’s voice, with questions, hints, revisits and a report back.
+
+In short
+
+- ✦ Category: AI tutor / personalised teaching mode for institutes, not a consumer study app.
+- ✦ Input: your PDFs (incl. scanned), recorded videos, slides, question banks.
+- ✦ Output: a live one-to-one whiteboard lesson per slide, with voice, checks, hints, remediation and notes.
+- ✦ Teacher: your teacher’s name, photo, cloned voice and optional animated avatar.
+- ✦ Languages: English and Hindi, switchable mid-lesson.
+- ✦ Price: ₹3 / $0.03 per learner-minute; no seats, no minimums.
+- ✦ Maker: Vacademy , the education OS for courses, tests, live classes and CRM.
+
+## The one-sentence version
+Your content + Tutezy AI = an interactive, personalised learning experience. An institute does not write scripts or re-author anything. It points Tutezy at a course, reviews the compiled lessons, and every student who opens that course is taught by a teacher who explains on a board, waits for an answer, corrects, and comes back to what that student found hard.
+
+## What a student actually experiences
+The student opens a chapter and presses Learn with the teacher. The teacher greets them by name (or picks up where they left off), and starts writing on the board while speaking: a heading, a definition, a worked example, a diagram — sentence by sentence, the way a good teacher paces a board rather than dumping a slide. After each concept the teacher asks a question. The student answers by voice or by typing. If they go quiet for a while the teacher nudges. If they are wrong, they get a hint first, then the answer, kept on the board. Concepts the student missed are revisited before the lesson moves on, and the next lesson opens with a recap the student can actually use. Notes are written as the lesson goes and kept.
+The student sets the pace (slower, slow, medium, fast) and can switch between English and Hindi mid-lesson. The board and the voice follow. If the institute has turned it on, an animated, lip-synced avatar of the teacher is on screen; students can hide it.
+
+## What the institute does
+
+- Turn on Tutor Mode in the Vacademy admin: teacher name, photo, voice (stock or cloned from a 15-second sample), languages, strictness. Every course inherits these; any course can override.
+- Pick a course and see the cost. Tutezy lists every slide and shows the credits it will take to convert them before anything is pressed.
+- Compile and review. One click compiles a teaching plan per slide: boards, examples, diagrams, checks, hints, recap. Any board can be previewed exactly as the student will see it and recompiled if it needs tightening.
+- Read the insights. Concept mastery per student and per batch, minutes taught, weak spots, and a CSV export for the academic head. Every credit spent is itemised.
+The full mechanism is on the how it works page; the setup screens are on the home page .
+
+## What Tutezy is not
+
+- Not a general chatbot. It does not browse the web and it does not answer whatever is typed at it. It teaches the institute’s material, and it can answer doubts about that material. See Tutezy vs ChatGPT .
+- Not a fixed curriculum. Consumer AI tutors come with their own syllabus. Tutezy has none of its own; it is only as broad as the content you give it. See Tutezy vs Khanmigo .
+- Not a video generator. Nothing is pre-rendered. The board is drawn live from a compiled plan and the conversation is live, which is why it can react to a wrong answer. See Tutezy vs recorded courses .
+- Not a replacement for teachers. It is the teacher, multiplied. The human sees who is stuck where before the next live class. See Tutezy vs human tutoring .
+
+## Where it runs, and what it costs
+Tutezy is a module of Vacademy . Students use it inside the Vacademy learner app (web, Android, iOS), so an institute already on Vacademy adds it in an afternoon; an institute that is not gets onboarding covered on the demo. It is billed per learner-minute of live lesson — ₹3 or $0.03, ₹5 / $0.05 with the avatar on — from prepaid credits. There are no seat licences and no minimums. Details and worked examples are on the pricing page .
+
+## Try it before you read further
+There is a free, no-sign-up 3-minute lesson on one of ten sample topics — photosynthesis, Newton’s second law, a tough NEET biology question, a JEE maths problem, Spanish basics, an HR feedback practice round and others. It is the real product with a short timer, not a video.
+
+## Frequently asked questions
+Is Tutezy a chatbot?+
+No. A chatbot waits for a question. Tutezy teaches a syllabus: it opens the board, explains, asks, listens, corrects and moves the student forward through the chapter, and it reports what each student understood. A student can ask doubts along the way, but the lesson has a plan.
+
+Does Tutezy make up content?+
+Lessons are compiled from the institute’s own slides, PDFs, videos and question banks. The live model does not write boards from scratch; it plays the compiled plan and is called only to grade answers, give hints, answer doubts and adapt pace. That is what keeps the lesson faithful to the source.
+
+Who is Tutezy for?+
+Coaching and test-prep institutes, K-12 schools, universities, course creators and course platforms, corporate and HR training teams, certification providers and independent tutors — any organisation that already has teaching material and wants each learner taught one to one.
+
+Which languages does Tutezy teach in?+
+English and Hindi. Boards and narration are compiled in both, so a student can switch mid-lesson. More Indian languages are on the roadmap.
+
+What does Tutezy cost?+
+₹3 ($0.03) per learner per minute of live lesson, ₹5 ($0.05) with the animated avatar on. Voice cloning is ₹2,000 ($20) per voice and a custom avatar ₹10,000 ($100), both one-time. No seat licences.
+
+Do students need a new app?+
+No. Tutezy runs inside the Vacademy learner app on web, Android and iOS, next to the institute’s courses, tests and live classes.
+
+## Go deeper
+
+- How it works How Tutezy works: compile once, teach every student live
+- Pricing Tutezy pricing: ₹3 / $0.03 per learner-minute, no seats
+- Hindi AI tutor Hindi AI tutor: live lessons in हिंदी and English
+- FAQ Tutezy FAQ: 30 questions institutes ask
+- About About Tutezy and Vacademy
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp
+
+
+---
+
+# How Tutezy works: compile once, teach every student live | Tutezy
+URL: https://tutezy.ai/how-it-works/
+
+- Home
+- › How it works
+Mechanism
+
+# How Tutezy works
+Two halves. A compile step turns each slide into a reviewed teaching plan. A live runtime teaches that plan one to one, calling the AI model only where judgment is needed. This is why lessons are faithful, fast and ₹3 a minute.
+
+The design in five lines
+
+- ✦ Compile, don’t improvise. Every slide becomes a plan: topics → concepts → board steps, narration, checks, hints.
+- ✦ Boards are operations, not free text. The live model never writes raw HTML; it applies whitelisted board ops to a reviewed board.
+- ✦ Narration is compiled too, in English and Hindi, so language switches are instant and the voice can be cached.
+- ✦ “Concept is clear” is a structured decision with a score, a rubric and a capped remediation loop, never a vibe.
+- ✦ Nothing existing changes. Tutezy sits beside courses, tests and progress tracking in Vacademy; it does not replace them.
+
+## Part 1 — Compile: from a slide to a teaching plan
+When an institute converts a course, Tutezy reads each published slide — an HTML document, a PDF (scanned ones are OCR-ed), a recorded video (transcribed), a slide deck, a quiz — and compiles it with a strong model into a teaching plan. A plan is strictly hierarchical:
+Level | What it is | What it carries |
+
+Teaching plan | One slide version | Objectives, key terms, the list of topics |
+Topic | One whiteboard’s worth | The board is cleared when the topic ends |
+Concept | One phase of a topic | Board operations, default narration (EN + HI), teaching notes, a check |
+Check | The question after a concept | Type (MCQ, short answer, predict-then-reveal), expected answer, rubric, common misconceptions with hints, pass threshold |
+
+Board content is an ordered list of whitelisted operations — heading, bullet, formula, table, SVG diagram, image, highlight, note, clear — each with a stable element id. Diagrams are generated as SVG wherever the thing is structural, because an SVG part has an id the teacher can later point at (“look at the arrow”). Every image or diagram carries a text description of what it shows, so the teacher can refer to it. Concept ids are stable across recompiles, so a student’s mastery survives when the institute tightens a board.
+The institute sees the credit cost per slide before converting, watches progress per slide, and can preview any board exactly as a student will see it. Compiling a 40-slide course typically costs under ₹200 in credits.
+
+## Part 2 — Live: a state machine that calls the model only when it must
+When a student presses Learn with the teacher, the browser opens a socket to the tutor runtime, which loads the plan for that slide, the student’s saved state and their last summary. Then it runs a loop, per concept:
+
+- Teach. Board operations are streamed and drawn sentence by sentence while the compiled narration plays in the teacher’s voice. No model call is needed for this step.
+- Check. The concept’s question is asked aloud and shown. The student answers by voice (transcribed) or text. Silence for a while triggers a nudge.
+- Decide. This is the model call. It returns JSON, not prose: a score against the rubric, whether to remediate or advance, what to say, which board ops to apply (a highlight, an extra line written for this student), and a state delta (mastery, misconception noted, weak flag).
+- Remediate or move on. Wrong answers get a hint first, then the answer kept on the board; loops are capped. Weak concepts are queued for a revisit before the topic closes.
+- Record. The attempt and the new learner state are saved. When the slide finishes, the ordinary Vacademy progress records are written, so the rest of the platform (drip, certificates, reports) carries on as usual.
+Because narration is compiled, the same sentence is spoken to every student, which lets the voice be cached and keeps live cost low. The student can still change pace (the voice speed changes) and language (the other compiled narration is played, no model call). Doubts are answered by the model against the material on the board.
+
+## Voice, listening and languages
+
+- Speaking: Indian-accented neural voices by default; an institute can clone a teacher’s voice from a 15-second sample (consent recorded, private to the institute). Pace is remembered per student.
+- Listening: student speech is transcribed in short chunks; answers can also be typed.
+- Languages: English and Hindi in the current release. Boards are compiled in the course language, and narration in both, so the mid-lesson switch is instant. See the Hindi AI tutor page.
+- Avatar: optionally, a lip-synced animated teacher built from one photo, or a stock one. Billed only while shown.
+
+## Teacher identity and strictness
+Institute-level defaults — teacher name, photo, voice, avatar, languages, strictness (gentle, normal, strict) — are set once and inherited by every course; any course can override them. Voice clones and custom avatars are created only with recorded consent, are private to the institute, and can be disabled at any time.
+
+## What the institute gets back
+Per student: concept mastery, misconceptions noted, minutes taught, notes and a session summary. Per batch: weak concepts across the cohort, so the human teacher knows what to reteach in the next live class. Everything exports to CSV. Every credit spent — compile, lesson minutes, avatar minutes — is itemised.
+
+## Why this architecture matters to a buyer
+
+- Fidelity: the teacher cannot drift from your material, because the boards were compiled from it and reviewed.
+- Cost: a flash-class model handles three or four decision turns a minute; compiled narration is cached. That is how the price lands at ₹3 a learner-minute.
+- Reviewability: an academic head can open any board before a single student sees it.
+- Safety: the live model works within a whitelist of board operations and a plan; it does not author arbitrary content or fetch from the web.
+
+## Frequently asked questions
+Why compile lessons instead of letting the AI improvise?+
+Improvised lessons drift from the source, cost more per minute and cannot be reviewed before a student sees them. Compiling once means the institute can preview every board, the live session is fast and cheap, and the teacher says the same correct thing to every student.
+
+What happens if a student asks something outside the slide?+
+The teacher answers doubts about the material being taught, then brings the lesson back to the plan. It does not wander into unrelated topics or the open web.
+
+How does Tutezy decide a concept is clear?+
+After each check the model returns a structured decision: a score against a rubric, whether to remediate or advance, and a weak-concept flag. Remediation loops are capped so a student is never stuck. Weak concepts are revisited before moving on and carried into the next lesson’s recap.
+
+Can a lesson be resumed?+
+Yes. Learner state — position, mastery per concept, misconceptions and a rolling summary — is saved per student per batch. Reopening a chapter resumes from where the student stopped, with a short recap.
+
+How long does compiling take?+
+Minutes per slide, running in the background with progress shown per slide. A typical chapter is ready well within an hour; the institute reviews boards as they finish.
+
+Does ordinary progress tracking still work?+
+Yes. When the teacher marks a slide done, the same learner-progress records the rest of Vacademy uses are written, so certificates, drip rules and reports are unaffected.
+
+## Go deeper
+
+- What is Tutezy? What is Tutezy? A live AI teacher from your own content
+- Pricing Tutezy pricing: ₹3 / $0.03 per learner-minute, no seats
+- Hindi AI tutor Hindi AI tutor: live lessons in हिंदी and English
+- FAQ Tutezy FAQ: 30 questions institutes ask
+- About About Tutezy and Vacademy
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp
+
+
+---
+
+# Tutezy pricing: ₹3 / $0.03 per learner-minute, no seats | Tutezy
+URL: https://tutezy.ai/pricing/
+
+- Home
+- › Pricing
+Pricing
+
+# Tutezy pricing
+Pay per minute a student is actually being taught. No seats, no per-student licence, no minimums. Prepaid credits, used across every course and every student.
+
+Rate card (September 2026)
+
+- ✦ Live lesson: ₹3 / $0.03 per learner-minute
+- ✦ With animated avatar shown: ₹5 / $0.05 per learner-minute
+- ✦ Teacher voice clone: ₹2,000 / $20 one-time per voice
+- ✦ Custom teacher avatar: ₹10,000 / $100 one-time per teacher (stock avatars free)
+- ✦ Lesson preparation: small one-time credit cost per slide, shown before you convert
+- ✦ Volume pricing above 1,000 students · INR prices exclude 18% GST
+
+## The rate card
+Item | INR | USD | Billed | Includes |
+
+Live lesson | ₹3 | $0.03 | per learner-minute | Whiteboard, voice or text, questions, hints, revisits, notes, insights |
+Live lesson with animated avatar | ₹5 | $0.05 | per learner-minute, only while the avatar is shown | Everything above plus the lip-synced teacher on screen |
+Teacher voice clone | ₹2,000 | $20 | one-time, per voice | 15-second sample, consent-gated, private to your institute, EN + HI |
+Custom teacher avatar | ₹10,000 | $100 | one-time, per teacher | Built from one photo with consent; stock avatars are free |
+Lesson preparation (compile) | small, per slide | one-time, shown before converting | Boards, diagrams, checks, hints, narration in EN + HI; recompiles are re-charged |
+
+## Worked examples
+Scenario | Minutes | INR | USD |
+
+One student, one 30-minute chapter | 30 | ₹90 | $0.90 |
+100 students × 30 minutes (one batch, one chapter) | 3,000 | ₹9,000 | $90 |
+100 students × 30 min/day × 22 days (a month of daily use) | 66,000 | ₹1,98,000 | $1,980 |
+500 students × 20 min post-test solution session | 10,000 | ₹30,000 | $300 |
+Same as above with the avatar on throughout | 10,000 | ₹50,000 | $500 |
+Compile a 40-slide course (typical) | — | under ₹200 | under $2.50 |
+
+For comparison, a human tutor in India charges roughly ₹300–₹1,500 per hour, or ₹5–₹25 a minute, for one student. Tutezy teaches every student in the batch at once for ₹3 a minute each, and the human teacher gets a report of who needs them in person. That comparison is laid out honestly, including where the human wins, on Tutezy vs human tutoring .
+
+## How to keep the bill small
+
+- Use the avatar selectively. Turn it on for younger learners or spoken-language practice; leave it off for revision and problem drills. Students can hide it themselves.
+- Compile once, review, then leave it. Preparation is a one-time cost; only recompiles are re-charged.
+- Set a session length per course. A 20-minute doubt session is often better than an open-ended one, and it caps spend per student.
+- Watch the itemised usage. Every credit — compile, lesson minute, avatar minute — is listed per course and per student, with a CSV export.
+
+## What is included at no extra charge
+
+- English and Hindi narration on every compiled slide, and the mid-lesson switch.
+- Stock teacher voices and stock avatars.
+- Notes written during the lesson and kept for the student.
+- Per-student and per-batch insights, weak-concept lists, minutes taught, CSV export.
+- Resume: a student who leaves mid-lesson picks up where they stopped.
+- Web, Android and iOS through the Vacademy learner app; no separate app.
+
+## How to buy
+Credits are bought inside the Vacademy admin, in INR or USD, with a GST invoice for Indian purchases. Institutes above 1,000 students get a volume quote on the demo. If you are not on Vacademy yet, the demo also covers onboarding; migration from an existing platform is included.
+
+## Frequently asked questions
+What counts as a minute?+
+A minute of live lesson for one student. The meter runs only while the student is in a session; it stops when they leave or the lesson ends. Reading notes afterwards is free.
+
+Is there a per-seat or per-student licence?+
+No. There are no seat licences, no per-student fees and no minimums. You buy credits and use them across every course and every student.
+
+What does lesson preparation (compiling) cost?+
+A small one-time credit cost per slide, shown before you convert anything. Slides with generated diagrams cost a little more than text-only ones. A 40-slide course typically compiles for under ₹200 in credits.
+
+Do credits expire?+
+Credits do not expire while your account is active.
+
+Is there volume pricing?+
+Yes, for institutes above 1,000 students. Ask for a quote on the demo.
+
+Is GST included?+
+INR prices exclude 18% GST. A GST invoice is issued for every credit purchase.
+
+What is the avatar surcharge for?+
+The lip-synced animated teacher costs more to render, so minutes with the avatar shown are billed at ₹5 / $0.05 instead of ₹3 / $0.03. Students can hide the avatar and you pay the base rate for those minutes.
+
+What does a voice clone include?+
+One teacher voice, cloned from a 15-second sample with recorded consent, usable across every course in your institute, in English and Hindi. ₹2,000 / $20 one-time.
+
+Can we try before buying credits?+
+Yes. There is a free, no-sign-up 3-minute lesson at learner.vacademy.io/try, and a 20-minute demo where we convert one of your own chapters live.
+
+Do we need to be on Vacademy?+
+Tutezy runs inside the Vacademy learner app, so an institute not yet on Vacademy is onboarded first; migration from an existing platform is included. Vacademy’s own pricing is at vacademy.io/pricing.
+
+## Before you buy
+
+- What is Tutezy? What is Tutezy? A live AI teacher from your own content
+- How it works How Tutezy works: compile once, teach every student live
+- Hindi AI tutor Hindi AI tutor: live lessons in हिंदी and English
+- FAQ Tutezy FAQ: 30 questions institutes ask
+- About About Tutezy and Vacademy
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp
+
+
+---
+
+# Hindi AI tutor: live lessons in हिंदी and English | Tutezy
+URL: https://tutezy.ai/hindi-ai-tutor/
+
+- Home
+- › Hindi AI tutor
+हिंदी · English
+
+# A Hindi AI tutor that teaches, not translates
+Tutezy compiles every lesson in Hindi and English, speaks it in a natural Hindi voice or your teacher’s own, understands answers in either language, and lets the student switch mid-lesson. Built for Hindi-medium and bilingual institutes.
+
+In short
+
+- ✦ Narration compiled in both Hindi and English for every concept — not machine-translated on the fly.
+- ✦ Student can switch language mid-lesson; the board and the voice follow instantly.
+- ✦ Spoken and typed answers accepted in Hindi, English or Hinglish; Devanagari and Roman script.
+- ✦ Teacher’s own voice, cloned once, usable in both languages.
+- ✦ Same price in either language: ₹3 per learner-minute.
+
+## Why bilingual matters for Indian institutes
+Most coaching batches, school sections and training cohorts in India are mixed: some students think in Hindi, some in English, most somewhere in between depending on the subject. A recorded video picks one. A human teacher code-switches naturally. Tutezy is built to do what the human does: explain a formula in English, restate the intuition in Hindi when the student asks, and take the answer in whichever language it comes.
+
+## How the Hindi lesson is produced
+
+- Compile. When a slide is converted, each concept’s spoken narration is written in both English and Hindi as part of the teaching plan. Technical vocabulary follows the source material, so a NEET biology term stays the term the textbook uses.
+- Speak. Narration is spoken by an Indian-accented neural voice for Hindi, or by the institute’s cloned teacher voice, which works in both languages from one sample.
+- Listen. Student speech is transcribed with a speech model built for Indian languages; Hindi, English and mixed answers are graded against the concept’s rubric.
+- Switch. Because both narrations already exist, switching language is instant and free of model calls. The board keeps its position; mastery carries over.
+
+## Who uses the Hindi mode
+
+- Hindi-medium coaching for NEET, JEE, state PSCs, SSC, banking and railways, where the source PDFs are in English but explanation in Hindi is what students need.
+- CBSE and state-board schools with bilingual sections, so the same chapter serves both.
+- Skill and vocational training where trainees are more comfortable in Hindi than in the language of the manual.
+- Corporate field-force training for sales, franchise and service staff across Hindi-speaking regions.
+
+## Try it in Hindi
+The free 3-minute lesson can be taken in Hindi: pick a topic, tell the teacher your name, and switch language with the toggle once the board is up. Then book a demo and we will convert one of your own Hindi-medium chapters live.
+
+## Frequently asked questions
+Does Tutezy teach fully in Hindi, or only translate?+
+Fully. Each concept’s narration is compiled in Hindi as well as English, and the teacher speaks it in a Hindi neural voice or the institute’s cloned voice. Boards are compiled in the course language; technical terms are kept as taught in the source material.
+
+Can a student switch language in the middle of a lesson?+
+Yes. The switch plays the other compiled narration from the same point, with no delay and no loss of position or mastery.
+
+Does the teacher understand Hindi answers?+
+Yes. Spoken answers in Hindi, English or a mix are transcribed and graded against the concept’s rubric. Typed answers in Devanagari or Roman script both work.
+
+Can our Hindi-medium teacher’s voice be cloned?+
+Yes. A 15-second sample with consent produces a voice usable in both languages. ₹2,000 / $20 one-time.
+
+Which other Indian languages are supported?+
+English and Hindi today. Other Indian languages are on the roadmap; tell us on the demo which ones matter to your students.
+
+Is Hindi priced differently?+
+No. ₹3 per learner-minute in either language, ₹5 with the avatar on.
+
+## Go deeper
+
+- What is Tutezy? What is Tutezy? A live AI teacher from your own content
+- How it works How Tutezy works: compile once, teach every student live
+- Pricing Tutezy pricing: ₹3 / $0.03 per learner-minute, no seats
+- FAQ Tutezy FAQ: 30 questions institutes ask
+- About About Tutezy and Vacademy
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp
+
+
+---
+
+# Tutezy FAQ: 30 questions institutes ask | Tutezy
+URL: https://tutezy.ai/faq/
+
+- Home
+- › FAQ
+FAQ
+
+# Tutezy: 30 questions institutes ask
+Straight answers, grouped. If yours is not here, WhatsApp us or ask on the demo.
+
+What it is Content The lesson Languages and voice Pricing Setup, apps and data
+
+## What it is
+What is Tutezy in one sentence?+
+Tutezy is a live AI tutor that turns an institute’s existing PDFs, videos and slides into one-to-one whiteboard lessons taught in the institute’s own teacher’s voice, with questions, hints, revisits and a report back — billed per learner-minute.
+
+Who makes Tutezy?+
+Vacademy (vacademy.io), an education operating system used by coaching institutes, schools, universities and training companies for courses, tests, live classes, fee collection and CRM. Tutezy is a Vacademy product and runs inside the Vacademy learner app.
+
+Does it replace our teachers?+
+No. It multiplies them. Your teachers’ content, name, voice and face teach every student one to one, while the teacher sees who is stuck where before the next live class.
+
+Is it a chatbot?+
+No. A chatbot waits to be asked. Tutezy teaches a planned lesson on a board, checks understanding after each concept, remediates, and moves the student on. Students can ask doubts, but the lesson has a plan compiled from your material.
+
+Is it a video?+
+No. Nothing is pre-rendered. The board is drawn live from a compiled plan and the conversation is live, which is why the teacher can react to a wrong answer or a doubt.
+
+## Content
+What content works?+
+PDFs (including scanned ones, which are OCR-ed), recorded videos (transcribed), slide decks and presentations, HTML documents and question banks. You see the credit cost before anything is converted.
+
+Do we have to rewrite anything?+
+No. There are no scripts to write. Tutezy compiles each slide into boards, examples, diagrams, checks and hints. You review the result and recompile anything you want tighter.
+
+Will the AI make things up?+
+The live model does not author boards; it plays a plan compiled from your content and reviewed by you. It is called only to grade answers, give hints, answer doubts about the material and adapt pace. It does not browse the web.
+
+Can we edit a compiled lesson?+
+You can preview any board exactly as a student will see it and recompile a slide, or edit the source slide and recompile. Concept ids are stable across recompiles so student mastery is not lost.
+
+What about maths, chemistry and diagrams?+
+Formulas are a first-class board element. Structural diagrams are generated as SVG so the teacher can point at parts of them (“look at the arrow”). Images are described in text so the teacher can refer to them.
+
+Does it work for non-academic training?+
+Yes. Onboarding, compliance, product and process training compile the same way from decks and videos, and the checks can be situational (“a customer says X — what do you do?”).
+
+## The lesson
+What does a student see?+
+A whiteboard that fills in as the teacher speaks, a question after each concept, hints when they are wrong, a revisit of weak concepts before moving on, and notes written as the lesson goes. Optionally, an animated teacher on screen.
+
+How do students answer?+
+By voice or by typing. Multiple choice, short answers and predict-then-reveal prompts are all supported. If a student goes quiet, the teacher nudges.
+
+Can students ask doubts?+
+Yes, at any point. The teacher answers against the material on the board and then returns to the lesson.
+
+Can students control the pace?+
+Yes: slower, slow, medium, fast. The setting is remembered per student.
+
+What if a student leaves mid-lesson?+
+Their position, mastery per concept and a rolling summary are saved. Reopening the chapter resumes with a short recap.
+
+How does it decide a student has understood?+
+Each check returns a structured score against a rubric, with capped remediation. Concepts below threshold are flagged weak, revisited before the topic closes, and carried into the next lesson’s recap.
+
+## Languages and voice
+Which languages?+
+English and Hindi today. Boards and narration are compiled in both, so a student can switch mid-lesson without losing the thread. More Indian languages are on the roadmap; ask on the demo. See the Hindi AI tutor page.
+
+Can it speak in our teacher’s voice?+
+Yes. A voice is cloned from a 15-second sample with recorded consent, is private to your institute, and can be disabled at any time. ₹2,000 / $20 one-time per voice.
+
+What is the avatar?+
+A lip-synced animated teacher built from one photo (₹10,000 / $100 one-time), or a free stock avatar. Minutes with the avatar shown are billed at ₹5 / $0.05 instead of ₹3 / $0.03. Students can hide it.
+
+Is the teacher’s likeness safe?+
+Voice clones and avatars are created only with recorded consent, are private to your institute, and nobody else on the platform can pick them. They can be deleted on request.
+
+## Pricing
+How does pricing work?+
+Prepaid credits. A live lesson costs ₹3 ($0.03) per student per minute, ₹5 ($0.05) with the animated avatar on. Voice cloning is ₹2,000 ($20) per voice and a custom avatar ₹10,000 ($100), one time. No seat licences. Full rate card and worked examples on the pricing page.
+
+Is there a minimum or a per-student licence?+
+No minimums, no seat licences. 100 students × 30 minutes costs ₹9,000 / $90.
+
+What does preparation cost?+
+A small one-time credit cost per slide, shown before you convert. A typical 40-slide course compiles for under ₹200.
+
+Do credits expire?+
+Not while your account is active.
+
+## Setup, apps and data
+Do students need a new app?+
+No. Tutezy runs inside the Vacademy learner app — web, Android and iOS — next to your courses, tests and live classes. If you are not on Vacademy yet, the demo covers onboarding.
+
+How long does setup take?+
+An afternoon. Turn on Tutor Mode (teacher, voice, languages, strictness), pick a course, see the cost, compile, review. No content team, no scripts, no new app for students.
+
+What reports do we get?+
+Per-student concept mastery, weak spots per batch, minutes taught, session summaries, notes, and a CSV export for the academic head. Every credit spent is itemised.
+
+Where is our data stored, and who can see it?+
+Your content, compiled plans, student transcripts and reports belong to your institute and are visible only to your institute’s admins. They are not used to train models for other customers.
+
+Can we try it first?+
+Yes. A free, no-sign-up 3-minute lesson is at learner.vacademy.io/try, and a 20-minute demo converts one of your own chapters live.
+
+## Go deeper
+
+- What is Tutezy? What is Tutezy? A live AI teacher from your own content
+- How it works How Tutezy works: compile once, teach every student live
+- Pricing Tutezy pricing: ₹3 / $0.03 per learner-minute, no seats
+- Hindi AI tutor Hindi AI tutor: live lessons in हिंदी and English
+- About About Tutezy and Vacademy
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp
+
+
+---
+
+# About Tutezy and Vacademy | Tutezy
+URL: https://tutezy.ai/about/
+
+- Home
+- › About
+About
+
+# About Tutezy and Vacademy
+Tutezy is the live AI teacher built by Vacademy, the education operating system used by coaching institutes, schools, universities and training companies for courses, tests, live classes, fee collection and CRM.
+
+At a glance
+
+- ✦ Product: Tutezy — a live AI tutor built from an institute’s own content.
+- ✦ Maker: Vacademy , headquartered in India, with customers in India, the Gulf, Australia and New Zealand.
+- ✦ Runs inside: the Vacademy learner app (web, Android, iOS) and admin console.
+- ✦ Contact: WhatsApp +91 99933 36616 · book a demo
+
+## Why we built it
+Vacademy has spent years building the plumbing institutes run on: courses, assessments, live classes, fee collection, admissions CRM, white-label apps. Across all of it, one thing never scaled: the teacher. A good teacher explains on a board, asks, waits, notices confusion and comes back to it. Recorded video does none of that; a chatbot does it without a syllabus. Tutezy is our answer: keep the institute’s content and the institute’s teacher at the centre, and let the teacher be in a hundred rooms at once — then tell the human, next morning, who needs them in person.
+
+## What Vacademy is
+An AI-powered education operating system that replaces the usual stack of a separate LMS, admissions CRM, live-class tool, assessment engine, payment gateway and branded-app vendor. It is white-label by default, priced as a flat licence with no revenue share, and includes an AI course builder, AI assessment generation, AI video, auto-evaluation of subjective answers and a grounded doubt-solving tutor. Tutezy is the live-teaching layer on top of that. Vacademy’s own site is at vacademy.io .
+
+## Principles behind the product
+
+- The teacher stays in charge. Name, voice, face, strictness and pace are the institute’s choices; likeness is consent-gated and private.
+- Compiled, reviewable lessons. Nothing is improvised on the fly that an academic head cannot preview first.
+- Pay for teaching, not seats. Per learner-minute pricing means a small institute pays for what it uses.
+- Honest comparisons. There are things a human tutor and a general chatbot do better; we say so on the compare pages .
+
+## Contact
+
+- WhatsApp: +91 99933 36616
+- Demo: the form on the home page (20 minutes; we convert one of your chapters live)
+- Free lesson: learner.vacademy.io/try
+- Parent company: vacademy.io · privacy policy
+
+## Learn more
+
+- What is Tutezy? What is Tutezy? A live AI teacher from your own content
+- How it works How Tutezy works: compile once, teach every student live
+- Pricing Tutezy pricing: ₹3 / $0.03 per learner-minute, no seats
+- Hindi AI tutor Hindi AI tutor: live lessons in हिंदी and English
+- FAQ Tutezy FAQ: 30 questions institutes ask
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp
+
+
+---
+
+# AI tutor for coaching institutes: NEET, JEE, UPSC | Tutezy
+URL: https://tutezy.ai/for/coaching-institutes/
+
+- Home
+- › Coaching & test-prep
+Coaching & test-prep
+
+# An AI tutor for coaching institutes
+NEET, JEE, UPSC, banking, SSC, CA, CUET: every student in the batch gets a one-to-one teacher for doubts, post-test solution sessions and revision, in your own faculty’s voice, at ₹3 per learner-minute.
+
+In short
+
+- ✦ Built from your modules, DPPs, test papers and recorded lectures; nothing generic.
+- ✦ Hindi and English, switchable mid-lesson — for Hindi-medium and bilingual batches.
+- ✦ Post-test sessions walk each student through their own wrong answers.
+- ✦ Faculty get a weak-concept list per batch before the next live class.
+- ✦ ₹3 / learner-minute; 500 students × 20 minutes = ₹30,000. No seats.
+
+## The problem
+A batch of 200 has one faculty member. Doubt-clearing hours serve the ten students who ask; the rest stay quiet. After every test the solution class covers the class average, not the mistakes each student actually made. Toppers get bored, weak students drop off, and parents ask why they are paying for a lecture their child could have watched on YouTube.
+The material to fix this already exists: the institute’s own modules, question banks, previous-year papers and recorded lectures. What is missing is a teacher with time for each student.
+
+## What you run on Tutezy
+
+### Chapter lessons
+Every module and DPP becomes a live one-to-one board lesson the student can question, paced to them.
+
+### Doubt-solving
+Students bring the doubt after class; the teacher explains on the board, checks they got it, and logs the concept for faculty.
+
+### Post-test solution sessions
+After a mock, each student is walked through the questions they got wrong: the trap, the fast method, and a fresh check.
+
+### Revision before exams
+Rapid-fire recap boards across the syllabus with quick checks, in the student’s language and pace.
+
+### Previous-year question drills
+Worked PYQs with predict-then-reveal prompts; the teacher asks the next step before showing it.
+
+### Interview and viva prep
+For UPSC, banking and CA: mock questions asked aloud, answers heard and graded, model answers on the board.
+
+## What each learner gets
+
+- A teacher who explains their wrong answers, not the class average’s.
+- Hints before answers; weak concepts revisited before moving on; a recap next time.
+- Hindi or English, switchable mid-lesson; slower or faster on demand.
+- Notes written during the lesson and kept.
+- The same faculty voice and face they know from live class.
+
+## What you get back
+
+- Weak concepts per batch, so the next live class targets what the cohort actually got wrong.
+- Concept mastery and minutes taught per student; the students who never ask are finally visible.
+- A retention story for parents: one-to-one teaching for every child, itemised.
+- CSV export for the academic head; every credit itemised per course and student.
+- No content team, no scripts, no new app; students use it inside the same Vacademy app.
+
+## A worked example
+A NEET institute with 500 students runs a full mock every Sunday. On Monday, instead of one solution lecture, every student opens a 20-minute Tutezy session on their own wrong answers: 10,000 learner-minutes, ₹30,000 for the week (₹60 per student). By Tuesday the faculty has a list of the ten concepts the batch missed most, and the live class that week covers those ten. Over a month that is ₹1,20,000 for 500 students — ₹240 per student per month — for four personalised solution sessions each.
+Compare a single human tutor at ₹500 an hour: the same 20 minutes for one student costs ₹167, and there are not 500 hours in a Monday.
+
+## Where Tutezy is not the answer
+
+- Institutes with no digital material at all. Tutezy compiles from PDFs, decks and recordings; if lectures exist only in the faculty’s head, record them first.
+- Replacing the live class. Tutezy is the one-to-one layer between live classes, not a substitute for the faculty on stage.
+- Ranking-style test analytics. Tutezy reports concept mastery; the Vacademy assessment module does percentile and section analysis.
+
+## How to start
+
+- Take the free 3-minute lesson to see the board, the voice and a check.
+- Book a 20-minute demo ; bring one chapter (PDF, video or deck) and we convert it live.
+- Turn on Tutor Mode, set the teacher and languages, compile one course, review, and open it to one batch.
+- Read the batch insights after a week and decide where to expand. Pricing is on the pricing page .
+
+## Frequently asked questions
+Can it teach from our own test papers and DPPs?+
+Yes. Question banks and papers compile into worked-solution lessons with predict-then-reveal checks, so the student is asked for the next step before it is shown.
+
+Will it use the same methods our faculty teach?+
+It teaches from your material, so shortcuts and methods in your modules are the ones it uses. If a method is only taught orally, record the lecture and Tutezy will transcribe and compile it.
+
+Does it work for Hindi-medium batches?+
+Yes. Narration is compiled in Hindi and English for every concept and the student can switch mid-lesson. See the Hindi AI tutor page.
+
+How does a post-test solution session know what each student got wrong?+
+Test results live in Vacademy, so the session opens on the questions that student missed and walks through those first.
+
+What does it cost for a batch?+
+₹3 per learner-minute. A 20-minute session for 500 students is ₹30,000; a 30-minute chapter for 100 students is ₹9,000. Full rate card on the pricing page.
+
+Will students stop coming to live class?+
+Institutes report the opposite: students arrive at the live class with their doubts already narrowed, and faculty walk in knowing the batch’s weak concepts.
+
+## Tutezy for other kinds of institutes
+
+- K-12 schools AI tutor for schools: one-to-one help for every child
+- Course creators AI tutor for course creators and platforms
+- Corporate & HR AI trainer for corporate and HR training
+- Independent tutors AI tutor for independent tutors and educators
+- Universities AI tutor for universities and colleges
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp
+
+
+---
+
+# AI tutor for schools: one-to-one help for every child | Tutezy
+URL: https://tutezy.ai/for/schools/
+
+- Home
+- › K-12 schools
+K-12 schools
+
+# An AI tutor for schools
+A patient one-to-one teacher for every child after the bell: homework help, practice and revision built from the school’s own material, in the class teacher’s voice, reported back to the staff room.
+
+In short
+
+- ✦ Compiled from the school’s own worksheets, textbook chapters and lesson decks.
+- ✦ Gentle, normal or strict teacher tone per class; pace set by the child.
+- ✦ Hindi and English; parents can follow the notes.
+- ✦ Teachers see which children are stuck on which concept, before the test.
+- ✦ ₹3 / learner-minute; a class of 40 × 20 minutes = ₹2,400.
+
+## The problem
+Thirty-five children, one teacher, forty minutes. The lesson moves at the pace of the middle of the room. The children who did not get it go home with homework they cannot start, and the ones who did are bored. Private tuition fills the gap for families who can afford it, in a voice and method that may contradict the classroom.
+The school already has the material: chapters, worksheets, question papers, the teacher’s own slides. What it lacks is thirty-five teachers.
+
+## What you run on Tutezy
+
+### Homework help
+The child opens today’s chapter; the teacher re-explains the part they are stuck on and checks with one question, then lets them try.
+
+### Practice and drills
+Tables, grammar, formulae, spellings — short checks with hints, in the order the school teaches them.
+
+### Revision before unit tests
+A recap board of the unit with quick questions; weak concepts flagged to the class teacher.
+
+### Reading and language practice
+Spoken English or Hindi practice with instant, kind correction — the teacher listens and replies by voice.
+
+### Catch-up after absence
+A child who missed a week is walked through what the class did, at their pace, without holding up the room.
+
+### Parent-visible notes
+Every lesson leaves notes the parent can read, so home support follows the school’s method, not a contradictory one.
+
+## What each learner gets
+
+- A teacher who waits, nudges kindly, and never sighs.
+- The same explanation and vocabulary as the classroom, so nothing contradicts the teacher.
+- Pace they choose; Hindi or English; a picture or diagram drawn when words are not enough.
+- Notes to show a parent.
+
+## What you get back
+
+- A per-child, per-concept picture before the unit test, not after.
+- A class-level weak-concept list for the next period.
+- A retention and fee story for parents: one-to-one support included, in the school’s own method.
+- Consent-gated teacher voices, private to the school; likeness can be disabled at any time.
+- No new app: it lives inside the school’s Vacademy learner app.
+
+## A worked example
+A CBSE school opens Tutezy for Classes 6–8 maths and science: 600 children, 20 minutes each on three evenings a week. That is 36,000 learner-minutes a week, ₹1,08,000 — ₹180 per child per week, or roughly ₹720 a month, against private tuition that starts at ₹2,000 a month and follows someone else’s method. Teachers open Monday with a list of the concepts each section missed.
+
+## Where Tutezy is not the answer
+
+- Early primary where the goal is reading readiness and motor skills; Tutezy is for children who can read a board and answer a question, roughly Class 4 upwards.
+- Replacing classroom teaching. It is the after-hours one-to-one layer.
+- Schools with no digital material; record or scan the chapters first — scanned PDFs are OCR-ed.
+
+## How to start
+
+- Take the free 3-minute lesson to see the board, the voice and a check.
+- Book a 20-minute demo ; bring one chapter (PDF, video or deck) and we convert it live.
+- Turn on Tutor Mode, set the teacher and languages, compile one course, review, and open it to one batch.
+- Read the batch insights after a week and decide where to expand. Pricing is on the pricing page .
+
+## Frequently asked questions
+Is it safe for children?+
+The teacher works only from the school’s compiled material and answers doubts about it; it does not browse the web. Sessions are logged and visible to school admins. Voices and avatars are consent-gated.
+
+Can the tone be adjusted for younger children?+
+Yes. Strictness (gentle, normal, strict) and pace are set per course, and the child can slow the teacher down.
+
+Do parents get anything?+
+Notes from each lesson are kept for the child and can be shared through the Vacademy parent app.
+
+Does it follow our textbook?+
+It compiles from whatever the school uploads: NCERT or board chapters, the school’s own worksheets and slides. Vocabulary follows the source.
+
+What does it cost per child?+
+₹3 per minute of lesson. Twenty minutes three times a week is about ₹720 a month per child. Full rate card on the pricing page.
+
+## Tutezy for other kinds of institutes
+
+- Coaching & test-prep AI tutor for coaching institutes: NEET, JEE, UPSC
+- Course creators AI tutor for course creators and platforms
+- Corporate & HR AI trainer for corporate and HR training
+- Independent tutors AI tutor for independent tutors and educators
+- Universities AI tutor for universities and colleges
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp
+
+
+---
+
+# AI tutor for course creators and platforms | Tutezy
+URL: https://tutezy.ai/for/course-creators/
+
+- Home
+- › Course creators
+Course creators & platforms
+
+# An AI tutor for course creators and course platforms
+Sell a recorded course with a live mentor included. Tutezy turns every chapter you already recorded into a lesson the student can question, in your voice, and tells you who finished, who understood and who is stuck.
+
+In short
+
+- ✦ Your recorded videos are transcribed and compiled; no re-recording.
+- ✦ The mentor speaks in your cloned voice; optional avatar from one photo.
+- ✦ A “learn with the teacher” button on every chapter of the course.
+- ✦ Completion and mastery per student, so you know who to follow up.
+- ✦ ₹3 / learner-minute, paid from credits; charge what you like for the tier.
+
+## The problem
+Recorded courses sell on the promise of the creator and die on completion rates. Students watch the first two modules, hit a concept they cannot get past, have nobody to ask, and quietly stop. Refund requests and low reviews follow. Cohort-based courses fix this with the creator’s live hours, which do not scale and cost the creator their evenings.
+The videos already contain the teaching. What is missing is someone who can pause, ask “did you get that?”, and explain it again differently.
+
+## What you run on Tutezy
+
+### Chapter lessons with a mentor
+Each recorded chapter becomes a live board lesson: the mentor explains, checks understanding, and answers doubts about that chapter.
+
+### Doubt-solving between modules
+Students ask the doubt that would have made them quit; the mentor answers from your material and logs the concept.
+
+### Practice and assignments
+Worked examples with predict-then-reveal prompts; the mentor asks for the next step before showing it.
+
+### Revision and recap
+Before a module quiz or certification, a recap board of the module with quick checks.
+
+### A premium tier
+Sell the same course at a higher price with the AI mentor included; pay ₹3 per minute students actually use.
+
+### Cohort support
+For cohort courses, Tutezy takes the repetitive one-to-one work so your live hours go to the hard questions.
+
+## What each learner gets
+
+- A mentor who sounds like the creator and teaches the creator’s method.
+- An answer to the question that would otherwise have ended the course.
+- Weak concepts revisited; a recap at the start of the next chapter; notes kept.
+- Pace and language they choose.
+
+## What you get back
+
+- Completion and mastery per student, per chapter — the data to run follow-ups and testimonials.
+- A premium tier without adding live hours.
+- Weak concepts across the cohort: the chapters that need re-recording become obvious.
+- Itemised credit usage per course; minutes only count while a student is in a lesson.
+- Everything inside the Vacademy learner app, white-labelled to the creator’s brand.
+
+## A worked example
+A creator sells a 12-module data-analysis course at ₹4,999. She adds a “with mentor” tier at ₹7,999. A student who uses the mentor for 20 minutes on each of 12 modules consumes 240 minutes — ₹720 in credits — against ₹3,000 of extra revenue. If completion rises from 15% to 40%, the review and referral effect is worth more than the tier.
+
+## Where Tutezy is not the answer
+
+- Courses that are pure entertainment or inspiration with nothing to check understanding against.
+- Creators who want a video generator; Tutezy is live and interactive, not pre-rendered.
+- Content that is only in the creator’s head; record it first, then compile.
+
+## How to start
+
+- Take the free 3-minute lesson to see the board, the voice and a check.
+- Book a 20-minute demo ; bring one chapter (PDF, video or deck) and we convert it live.
+- Turn on Tutor Mode, set the teacher and languages, compile one course, review, and open it to one batch.
+- Read the batch insights after a week and decide where to expand. Pricing is on the pricing page .
+
+## Frequently asked questions
+Do I have to re-record anything?+
+No. Existing videos are transcribed and compiled into board lessons. You review the boards and recompile any you want tighter.
+
+Can the mentor sound like me?+
+Yes. A 15-second sample with your consent clones your voice for ₹2,000 / $20 one-time; an animated avatar from one photo is ₹10,000 / $100. Both are private to your account.
+
+Can I charge students for it?+
+Yes. Many creators sell a higher tier with the mentor included. You pay ₹3 per minute students actually use, from prepaid credits.
+
+Does it run on my own branded app?+
+Yes, inside the white-label Vacademy learner app under your brand on web, Android and iOS.
+
+Will it answer questions outside my course?+
+It answers doubts about the material being taught and brings the lesson back to the plan. It does not browse the web or teach from other sources.
+
+## Tutezy for other kinds of institutes
+
+- Coaching & test-prep AI tutor for coaching institutes: NEET, JEE, UPSC
+- K-12 schools AI tutor for schools: one-to-one help for every child
+- Corporate & HR AI trainer for corporate and HR training
+- Independent tutors AI tutor for independent tutors and educators
+- Universities AI tutor for universities and colleges
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp
+
+
+---
+
+# AI trainer for corporate and HR training | Tutezy
+URL: https://tutezy.ai/for/corporate-training/
+
+- Home
+- › Corporate & HR
+Corporate & HR training
+
+# An AI trainer for corporate and HR training
+Onboarding, compliance, product knowledge and skills taught one to one by an AI trainer compiled from your own decks and videos — with situational practice and a record of who understood what, not just who clicked ‘complete’.
+
+In short
+
+- ✦ Compiled from existing PPTs, SOPs, policy PDFs and recorded sessions.
+- ✦ Situational checks: “a customer says X — what do you do?”, graded against your rubric.
+- ✦ Hindi and English for field, retail and franchise staff.
+- ✦ Mastery per employee and per team; CSV for L&D and audit.
+- ✦ ₹3 / learner-minute; 1,000 employees × 30 minutes = ₹90,000, no seat licences.
+
+## The problem
+Most corporate e-learning proves attendance, not understanding. Employees click through a deck, pass a five-question quiz they can retake, and the L&D team reports 98% completion to a business that still sees the same mistakes on the floor. Live trainers fix this for a cohort at a time, at a cost that rules out the field force and the franchise network.
+The decks, SOPs and recorded sessions already exist. What is missing is a trainer with time to ask each employee a real question.
+
+## What you run on Tutezy
+
+### Onboarding
+Company, product and process modules taught one to one in week one, at the new hire’s pace, in their language.
+
+### Compliance and policy
+POSH, safety, data handling, code of conduct: taught, checked with situational questions, and recorded per employee.
+
+### Product knowledge
+Every launch deck becomes a lesson for sales, support and partners, with objections practised aloud.
+
+### Skills practice
+Feedback conversations, customer handling, negotiation: the trainer sets a situation, the employee tries it, the trainer coaches the attempt.
+
+### Franchise and field training
+The same standard delivered to every outlet and every territory, in Hindi or English, on a phone.
+
+### Refreshers
+A 10-minute recap before an audit or a season, with the weak topics per team surfaced to the manager.
+
+## What each learner gets
+
+- A trainer who asks a real question and coaches the answer, rather than a deck to click through.
+- Practice in their own language and at their own pace, on a phone, between shifts.
+- Hints before answers; weak topics revisited; notes kept.
+
+## What you get back
+
+- Understanding per employee per topic, not completion percentages.
+- Weak topics per team, region or franchise before the audit or the launch.
+- A defensible compliance record: what was taught, what was asked, how each person answered.
+- One standard of training across every location, without a trainer’s travel budget.
+- Itemised usage and CSV export for L&D reporting.
+
+## A worked example
+A retail chain onboards 300 store staff a month with a 90-minute programme: 27,000 learner-minutes, ₹81,000 a month, ₹270 per hire, in Hindi or English on their own phones. The L&D head sees which stores’ staff miss the returns policy and sends the regional trainer there, instead of everywhere.
+
+## Where Tutezy is not the answer
+
+- Hands-on skills that need physical practice — machinery, lab technique — beyond the knowledge component.
+- Replacing a facilitator for team workshops; Tutezy is the one-to-one layer.
+- Content that changes daily; compile once, review, and recompile when the policy changes.
+
+## How to start
+
+- Take the free 3-minute lesson to see the board, the voice and a check.
+- Book a 20-minute demo ; bring one chapter (PDF, video or deck) and we convert it live.
+- Turn on Tutor Mode, set the teacher and languages, compile one course, review, and open it to one batch.
+- Read the batch insights after a week and decide where to expand. Pricing is on the pricing page .
+
+## Frequently asked questions
+Can it run situational or role-play checks?+
+Yes. A check can present a situation and grade the employee’s spoken or typed response against your rubric, with hints and a model answer on the board.
+
+Does it integrate with our HRMS or LMS?+
+Tutezy runs inside the Vacademy platform, which provides the learner app, reporting and CSV export. Ask on the demo about your specific integration.
+
+Is it suitable for compliance records?+
+Each session records what was taught, what was asked and how the employee answered, per employee, exportable to CSV.
+
+What languages?+
+English and Hindi today, switchable mid-lesson; more Indian languages on the roadmap.
+
+What does it cost?+
+₹3 per learner-minute; ₹5 with an animated trainer avatar. No seat licences. Full rate card on the pricing page.
+
+## Tutezy for other kinds of institutes
+
+- Coaching & test-prep AI tutor for coaching institutes: NEET, JEE, UPSC
+- K-12 schools AI tutor for schools: one-to-one help for every child
+- Course creators AI tutor for course creators and platforms
+- Independent tutors AI tutor for independent tutors and educators
+- Universities AI tutor for universities and colleges
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp
+
+
+---
+
+# AI tutor for independent tutors and educators | Tutezy
+URL: https://tutezy.ai/for/tutors/
+
+- Home
+- › Independent tutors
+Independent tutors
+
+# An AI tutor for independent tutors and educators
+You can teach twenty students an evening, not two hundred. Tutezy takes your notes and recordings and teaches the homework help, practice and revision in your voice, so your live hour goes to what needs you — and you know who that is.
+
+In short
+
+- ✦ Compiled from your own notes, worksheets and recorded classes.
+- ✦ Your cloned voice (₹2,000 one-time), optional avatar from one photo.
+- ✦ Students use it inside your own branded Vacademy app.
+- ✦ You see who is stuck on what before the live session.
+- ✦ ₹3 / learner-minute; 30 students × 20 minutes a day ≈ ₹1,800/day.
+
+## The problem
+A good tutor’s ceiling is the clock. Group batches dilute the one-to-one value that built the reputation; more one-to-one hours mean no evenings; recording videos loses the thing students pay for — the teacher noticing they are lost. Meanwhile the WhatsApp doubts keep coming at 11 pm.
+
+## What you run on Tutezy
+
+### Homework help in your voice
+Students open the chapter you taught; the teacher re-explains the part they are stuck on and checks with a question.
+
+### Practice between sessions
+Worked problems from your own sets with predict-then-reveal prompts; hints before answers.
+
+### Revision before exams
+Recap boards from your notes with quick checks; weak concepts listed for your next live hour.
+
+### Late-night doubts
+The 11 pm question gets answered by you-in-Tutezy, from your material, and logged for you to see in the morning.
+
+### A bigger batch without losing one-to-one
+Teach the live class to fifty; let Tutezy do the individual follow-up you used to do for ten.
+
+### Spoken-language practice
+For language tutors: conversation drills with instant correction, the teacher listening and replying by voice.
+
+## What each learner gets
+
+- Your voice, your method, your examples — available whenever they sit down to study.
+- A question after every concept and a hint before the answer.
+- Weak concepts revisited; notes kept; pace and language they choose.
+
+## What you get back
+
+- A list, every morning, of which students are stuck on what — so the live hour is spent well.
+- More students at the same personal standard, without more evenings.
+- A branded app your students open, with your name and voice on the teaching.
+- Itemised usage; you pay only for minutes actually taught.
+
+## A worked example
+A physics tutor with 60 students across three batches turns on Tutezy for daily practice: 60 × 20 minutes = 1,200 minutes a day, ₹3,600, or ₹60 per student per day. Charged at ₹1,500 a month per student for the “practice with sir” add-on, it pays for itself in the first week and returns the tutor’s evenings.
+
+## Where Tutezy is not the answer
+
+- Tutors with no written or recorded material; make notes or record a few classes first.
+- Replacing the live session; Tutezy is the practice and doubt layer around it.
+- Very young learners who cannot yet read a board and answer a question.
+
+## How to start
+
+- Take the free 3-minute lesson to see the board, the voice and a check.
+- Book a 20-minute demo ; bring one chapter (PDF, video or deck) and we convert it live.
+- Turn on Tutor Mode, set the teacher and languages, compile one course, review, and open it to one batch.
+- Read the batch insights after a week and decide where to expand. Pricing is on the pricing page .
+
+## Frequently asked questions
+I am one person. Is the setup heavy?+
+No. Upload notes or recordings, turn on Tutor Mode, set your name and voice, compile, review the boards. Most tutors are live the same afternoon.
+
+Do my students need to install something?+
+They use your branded Vacademy learner app on web, Android or iOS; Tutezy is a button on each chapter.
+
+Can I keep it to specific students?+
+Yes. Tutor Mode is switched on per course and per batch.
+
+What about my voice rights?+
+Your voice clone is created with your recorded consent, is private to your account and can be deleted on request.
+
+What does it cost me?+
+₹3 per learner-minute from prepaid credits, plus ₹2,000 one-time if you clone your voice. There are no seat licences; full rate card on the pricing page.
+
+## Tutezy for other kinds of institutes
+
+- Coaching & test-prep AI tutor for coaching institutes: NEET, JEE, UPSC
+- K-12 schools AI tutor for schools: one-to-one help for every child
+- Course creators AI tutor for course creators and platforms
+- Corporate & HR AI trainer for corporate and HR training
+- Universities AI tutor for universities and colleges
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp
+
+
+---
+
+# AI tutor for universities and colleges | Tutezy
+URL: https://tutezy.ai/for/universities/
+
+- Home
+- › Universities
+Universities & colleges
+
+# An AI tutor for universities and colleges
+A teaching assistant per subject, compiled from the faculty’s own notes, slides and recorded lectures, that teaches on a whiteboard, checks understanding and reports to the department — for every student in the cohort, not the few who visit office hours.
+
+In short
+
+- ✦ Compiled from lecture slides, notes, recorded lectures and past papers.
+- ✦ Faculty review every board before students see it; likeness is consent-gated.
+- ✦ Viva and practical-exam preparation with spoken questions and graded answers.
+- ✦ Mastery per student and per course for the department and accreditation files.
+- ✦ ₹3 / learner-minute; 2,000 students × 30 minutes = ₹1,80,000 per round.
+
+## The problem
+A first-year cohort of 800 has one professor and two TAs. Office hours reach the confident few. Everyone else learns from a friend’s notes and a YouTube channel that teaches a different notation. By the end-semester exam the department finds out who did not understand week three, and the remedial class starts too late.
+
+## What you run on Tutezy
+
+### Lecture companion
+Each lecture’s slides and recording become a one-to-one board lesson the student can question, in the professor’s notation.
+
+### Tutorial and problem sets
+Worked problems with predict-then-reveal prompts, hints before answers, and the method the department teaches.
+
+### Viva and practical preparation
+Spoken questions, answers heard and graded, model answers on the board — as many rounds as the student wants.
+
+### Bridge and remedial courses
+First-year gaps in maths or English closed at the student’s pace before they compound.
+
+### Exam revision
+Recap boards per unit with quick checks; weak concepts per cohort surfaced to the course coordinator.
+
+### Distance and online programmes
+A mentor for every enrolled learner, in Hindi or English, without more faculty hours.
+
+## What each learner gets
+
+- A TA who is available at midnight, uses the professor’s notation, and asks whether they understood.
+- Weak concepts revisited before moving on; a recap at the next session; notes kept.
+- Hindi or English, pace they choose.
+
+## What you get back
+
+- Mastery per student per course, weeks before the exam, to target remedial classes.
+- Cohort-level weak concepts per week for the course coordinator.
+- Evidence of learner engagement and support for accreditation and NAAC/NBA files.
+- Faculty control: every board reviewed; voice and likeness consent-gated and private.
+- Itemised usage per course; CSV export.
+
+## A worked example
+An engineering college opens Tutezy on first-year Mathematics and Physics for 1,200 students, 30 minutes a week each: 36,000 learner-minutes, ₹1,08,000 a week, ₹90 per student per week. By week four the department has, per section, the concepts the cohort is missing, and schedules two remedial sessions instead of discovering the gap in the end-semester results.
+
+## Where Tutezy is not the answer
+
+- Research supervision and open-ended project work; Tutezy teaches defined material with checkable understanding.
+- Replacing lectures or labs; it is the one-to-one layer around them.
+- Courses with no written or recorded material yet.
+
+## How to start
+
+- Take the free 3-minute lesson to see the board, the voice and a check.
+- Book a 20-minute demo ; bring one chapter (PDF, video or deck) and we convert it live.
+- Turn on Tutor Mode, set the teacher and languages, compile one course, review, and open it to one batch.
+- Read the batch insights after a week and decide where to expand. Pricing is on the pricing page .
+
+## Frequently asked questions
+Do faculty control what is taught?+
+Yes. Lessons are compiled from the faculty’s own material and every board can be previewed and recompiled before students see it. Voice and likeness are used only with recorded consent.
+
+Can it use our notation and methods?+
+It teaches from your slides and notes, so the notation is yours. If a method is taught only orally, the recorded lecture is transcribed and compiled.
+
+Does it integrate with our LMS or ERP?+
+Tutezy runs inside the Vacademy platform, which provides courses, assessments, the learner app and reporting. Ask on the demo about your specific integration.
+
+What does it cost at university scale?+
+₹3 per learner-minute with volume pricing above 1,000 students. A 30-minute weekly session for 2,000 students is ₹1,80,000 per week at list; ask for a volume quote.
+
+Is student data private?+
+Content, transcripts and reports belong to the institution, are visible only to its admins, and are not used to train models for other customers.
+
+## Tutezy for other kinds of institutes
+
+- Coaching & test-prep AI tutor for coaching institutes: NEET, JEE, UPSC
+- K-12 schools AI tutor for schools: one-to-one help for every child
+- Course creators AI tutor for course creators and platforms
+- Corporate & HR AI trainer for corporate and HR training
+- Independent tutors AI tutor for independent tutors and educators
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp
+
+
+---
+
+# Tutezy vs ChatGPT, Khanmigo, recorded courses, human tutors | Tutezy
+URL: https://tutezy.ai/compare/
+
+- Home
+- › Compare
+Compare
+
+# Tutezy compared with the alternatives
+Four honest comparisons: against a general chatbot, a consumer AI tutor, recorded video courses, and one-to-one human tutoring. Each one says where the alternative is the better choice.
+
+How Tutezy is positioned
+
+- ✦ Grounded in your content, not the open web or a fixed curriculum.
+- ✦ Teaches a plan on a whiteboard, with checks and remediation; it does not wait to be prompted.
+- ✦ Is your teacher: name, cloned voice, avatar, strictness — consent-gated and private.
+- ✦ Reports to the institute: mastery per student and per batch.
+- ✦ Priced per learner-minute (₹3 / $0.03), no seats.
+
+## The comparisons
+Tutezy vs ChatGPT A general chatbot answers what it is asked. Tutezy teaches a syllabus: your content, a whiteboard, questions, remediation, and reports to the institute. When each is the right tool. Tutezy vs Khanmigo Khanmigo tutors on Khan Academy's own curriculum for individual learners. Tutezy teaches an institute's own material in its teacher's voice and reports back. The difference, explained. Tutezy vs recorded courses A recorded course cannot ask a question or notice confusion. Tutezy turns the same material into a lesson that checks understanding and comes back to weak spots. Tutezy vs human tutoring Human tutors are irreplaceable for judgment and motivation, and expensive per hour. Tutezy covers the repetitive one-to-one work between live sessions at ₹3 a minute.
+
+## One table
+  | Tutezy | General chatbot | Consumer AI tutor | Recorded course | Human tutor |
+
+Teaches your material | Yes, compiled and reviewed | Only if pasted in each time | No, its own curriculum | Yes | Yes |
+Has a lesson plan | Yes | No | Yes, theirs | Yes, fixed | Yes |
+Asks and checks | Every concept, graded | If prompted | Yes | No | Yes |
+Reacts to a wrong answer | Hint, then answer, revisit later | Sometimes | Yes | No | Yes |
+Your teacher’s voice and face | Yes | No | No | Yes, recorded | Yes |
+Reports to the institute | Per student and batch | No | Limited, to the learner’s own school if enrolled | Views only | Verbal |
+Hindi and English | Both, switchable | Both | Mostly English | Whichever was recorded | Depends |
+Cost per student-hour | ₹180 / $1.80 | ₹0–₹1,700/month | ≈ ₹350/month | Near zero | ₹300–₹1,500+ |
+Scales to a batch | Yes | Per individual | Per individual | Yes | No |
+
+Third-party figures are approximate public list prices as of September 2026; check each product’s site.
+
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp
+
+
+---
+
+# Tutezy vs ChatGPT for teaching students | Tutezy
+URL: https://tutezy.ai/compare/tutezy-vs-chatgpt/
+
+- Home
+- › Compare
+- › Tutezy vs ChatGPT
+Comparison
+
+# Tutezy vs ChatGPT for teaching students
+ChatGPT is a superb general assistant, and many students already use it. It is not a teacher for your institute: it has no syllabus, no board, no idea what your faculty taught, and no report for you. Tutezy is built for exactly that gap.
+
+The short version
+
+- ✦ ChatGPT answers whatever a motivated student asks, from general knowledge, in a chat window.
+- ✦ Tutezy teaches your syllabus, on a whiteboard, in your teacher’s voice, checks understanding, and reports to you.
+- ✦ The honest overlap: doubt-answering. Tutezy answers doubts against your material; ChatGPT answers against the world.
+- ✦ For a self-directed adult learner, ChatGPT can be enough. For a batch of students an institute is responsible for, it is not.
+
+## What ChatGPT is
+ChatGPT is OpenAI’s general-purpose assistant. It can explain almost any topic, work through problems, and in its study-oriented mode will ask guiding questions instead of giving answers outright. It is available free with limits, or on paid plans for individuals. It knows nothing about your institute unless the student pastes material into the chat, and it produces nothing for the institute.
+
+## Side by side
+  | Tutezy | ChatGPT |
+
+Source of truth | Your PDFs, videos, slides and question banks, compiled and reviewed | General training data and, if enabled, the web; your material only if pasted in |
+Structure | A teaching plan per slide: topics, concepts, board steps, checks, hints | Whatever the student asks, in the order they ask it |
+Medium | Whiteboard drawn as the teacher speaks, plus voice; student answers by voice or text | Text chat; voice on some plans |
+Checks understanding | After every concept, graded against a rubric, with remediation and revisits | Only if the student asks it to, and grading is informal |
+Teacher identity | Your teacher’s name, cloned voice, optional avatar, strictness | A generic assistant |
+Language | English and Hindi compiled for every concept, switchable mid-lesson | Many languages, on request |
+Reports | Mastery per student and per batch, weak concepts, minutes, CSV | None for the institute |
+Consistency | Every student is taught the same reviewed board | Every conversation is different |
+Who pays | The institute, per learner-minute (₹3 / $0.03) | The student, per month, or free with limits |
+Drift and hallucination risk | Low: the live model works within a compiled, reviewed plan | Depends on the prompt and the topic; no review step |
+
+## Choose ChatGPT when
+
+- The learner is a self-directed adult who wants to explore beyond any syllabus.
+- The task is research, writing help or coding, not learning a defined course.
+- There is no institute, no batch and nobody who needs a report.
+
+## Choose Tutezy when
+
+- An institute is responsible for a batch learning a defined syllabus and needs to know who understood what.
+- The teaching must follow the faculty’s own material, method and notation.
+- Students need to be taught, checked and revisited, not just answered.
+- The institute wants its own teacher’s voice and face on the teaching, and control over what is said.
+- Hindi-medium or bilingual students need a proper switch, not a translated chat.
+
+## Why “just tell students to use ChatGPT” fails institutes
+Three reasons show up in every conversation with an academic head. First, nobody knows what was said: the institute cannot see the conversation, cannot check the method matches the faculty’s, and cannot see who is struggling. Second, the motivated ten use it and the quiet 190 do not — the same students who did not ask in doubt class do not open a chat window either. Third, a chat is not a lesson: there is no board, no pacing, no “did you get that?”, no coming back to what was missed.
+Tutezy fixes all three by design. Lessons are compiled from your material and reviewed; every student in the batch gets the same lesson, one to one, when they open the chapter; and the institute sees mastery per student. Students can still ask doubts — the teacher answers against the material on the board and returns to the plan. See how it works .
+Descriptions of third-party products reflect public information as of September 2026 and may change; check the product’s own site for current features and pricing.
+
+## Frequently asked questions
+Is Tutezy built on ChatGPT?+
+Tutezy uses large language models for compiling lessons and for live decisions (grading, hints, doubts), routed across providers by task. The product is the compile-and-teach system around those models, not any single model.
+
+Can students use both?+
+Of course. Tutezy is the institute’s teacher for the syllabus; a general assistant can remain the student’s own tool for everything else.
+
+Is Tutezy cheaper than ChatGPT?+
+They are priced differently. ChatGPT is a per-person monthly plan or free with limits; Tutezy is ₹3 per learner-minute paid by the institute, so a student who learns 30 minutes a day for a month costs the institute about ₹1,980.
+
+Does Tutezy browse the web?+
+No. It teaches from compiled institute content and answers doubts against it.
+
+## Other comparisons
+
+- Tutezy vs Khanmigo Tutezy vs Khanmigo: your content vs a fixed curriculum
+- Tutezy vs recorded courses Tutezy vs recorded video courses
+- Tutezy vs human tutoring Tutezy vs one-to-one human tutoring
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp
+
+
+---
+
+# Tutezy vs Khanmigo: your content vs a fixed curriculum | Tutezy
+URL: https://tutezy.ai/compare/tutezy-vs-khanmigo/
+
+- Home
+- › Compare
+- › Tutezy vs Khanmigo
+Comparison
+
+# Tutezy vs Khanmigo
+Khanmigo is Khan Academy’s AI tutor for its own curriculum, aimed at individual learners, parents and (mostly US) classroom teachers. Tutezy teaches an institute’s own material, in its own teacher’s voice, and reports back to the institute. They solve different problems.
+
+The short version
+
+- ✦ Khanmigo: a well-designed Socratic tutor on Khan Academy’s curriculum, for individuals and schools using that curriculum.
+- ✦ Tutezy: a live whiteboard teacher compiled from your content, for institutes that need it taught their way and reported back.
+- ✦ If your students learn Khan Academy’s syllabus, Khanmigo is excellent and cheap. If they learn yours, it cannot help.
+- ✦ Tutezy also speaks Hindi, clones your teacher’s voice and bills the institute per minute rather than the learner per month.
+
+## What Khanmigo is
+Khanmigo is the AI tutor and teaching assistant built by Khan Academy, a non-profit. It guides learners through Khan Academy’s own courses with Socratic questioning rather than answers, helps with practice problems on the platform, and gives teachers lesson-planning and grading assistance. It is priced for individual learners and families at a small monthly fee, and offered to teachers in some countries at no cost. It is tied to Khan Academy’s curriculum and interface; it does not ingest a third-party institute’s material.
+
+## Side by side
+  | Tutezy | Khanmigo |
+
+Curriculum | Yours: whatever you upload and compile | Khan Academy’s courses |
+Who it is sold to | Institutes, schools, creators, trainers; billed per learner-minute | Individual learners and families; teachers in some regions |
+Medium | Live whiteboard drawn as the teacher speaks, plus voice | Chat beside Khan Academy content and exercises |
+Teacher identity | Your teacher’s name, cloned voice, optional avatar | A Khan Academy character |
+Languages | English and Hindi, switchable mid-lesson | Primarily English, with some localisation |
+Checks and remediation | Rubric-graded checks per concept, hints, revisits, next-lesson recap | Socratic prompts on Khan exercises |
+Reports | Per student and per batch, to your institute, CSV | Learner progress within Khan Academy; teacher tools for Khan classrooms |
+Fit for Indian exam prep, corporate training, certification | Yes, from your own material | No — outside its curriculum |
+Price | ₹3 / $0.03 per learner-minute; no seats | Small monthly fee per learner (see khanmigo.ai) |
+
+## Choose Khanmigo when
+
+- The learner is studying Khan Academy’s courses and wants a tutor on them.
+- A parent wants an affordable, safe tutor for general school maths and science at home.
+- A school uses Khan Academy as its curriculum and wants its teacher tools.
+
+## Choose Tutezy when
+
+- The material is yours: coaching modules, school worksheets, a creator’s course, a corporate deck, a university’s notes.
+- The teaching must be in the institute’s teacher’s voice and method, and reviewed before students see it.
+- You need mastery reports per student and per batch back at the institute.
+- Students need Hindi, or a mid-lesson switch between Hindi and English.
+- You want to be billed for minutes taught, not per learner per month.
+
+## The real difference: whose content, whose teacher, whose report
+A consumer AI tutor comes with a curriculum, a persona and a learner account. That is exactly right for a family. An institute needs the opposite on all three counts: its own syllabus (down to the notation and shortcuts its faculty use), its own teacher’s identity on the teaching, and a report that lands with the academic head. Tutezy is built around those three: content is compiled from the institute’s material and reviewed, the teacher is the institute’s (name, cloned voice, avatar, strictness), and every session writes mastery per concept that rolls up per batch. See what Tutezy is .
+Descriptions of third-party products reflect public information as of September 2026 and may change; check the product’s own site for current features and pricing.
+
+## Frequently asked questions
+Can Tutezy teach Khan Academy content?+
+Only if you have the rights to upload it. Tutezy compiles from material the institute provides; it does not ship a curriculum of its own.
+
+Is Tutezy Socratic like Khanmigo?+
+Partly. Tutezy teaches first — board and narration — then asks; wrong answers get a hint before the answer, and predict-then-reveal prompts ask for the next step before showing it. It is a teacher with a plan rather than a pure questioning tutor.
+
+Which is cheaper?+
+For one child at home, Khanmigo’s monthly fee is hard to beat. For an institute, Tutezy’s ₹3 per learner-minute means 20 minutes a day for a month is about ₹1,300 per student, with no per-learner licence and your own content.
+
+Does Tutezy work for younger children?+
+From roughly Class 4 upwards — children who can read a board and answer a question. Strictness and pace are adjustable.
+
+## Other comparisons
+
+- Tutezy vs ChatGPT Tutezy vs ChatGPT for teaching students
+- Tutezy vs recorded courses Tutezy vs recorded video courses
+- Tutezy vs human tutoring Tutezy vs one-to-one human tutoring
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp
+
+
+---
+
+# Tutezy vs recorded video courses | Tutezy
+URL: https://tutezy.ai/compare/tutezy-vs-recorded-courses/
+
+- Home
+- › Compare
+- › Tutezy vs recorded courses
+Comparison
+
+# Tutezy vs recorded video courses
+Recorded video is cheap to deliver and impossible to interrupt. It cannot ask whether the student understood, cannot notice confusion, and cannot explain the same thing a second way. Tutezy takes the same recordings and turns them into a lesson that can.
+
+The short version
+
+- ✦ Recorded courses: zero marginal cost, high production polish, single pace, no interaction, completion rates typically under 20%.
+- ✦ Tutezy: the same content taught live one to one, with checks and remediation, at ₹3 a learner-minute.
+- ✦ Not either/or: Tutezy compiles from your recordings. The video stays; a “learn with the teacher” button appears beside it.
+
+## What recorded courses is
+A recorded course is a sequence of videos, often with PDFs and quizzes, delivered through an LMS or a course platform. It is the dominant format for online learning because it scales for free once made. Its weakness is well documented: without a person in the loop most learners stop partway, and nobody knows what the ones who finished actually understood.
+
+## Side by side
+  | Tutezy | recorded courses |
+
+Interaction | Teacher asks after every concept; student answers by voice or text; hints and revisits | None; play, pause, rewind |
+Pace | Slower, slow, medium, fast; chosen by the student, remembered | Playback speed only |
+Confusion | Detected by the check; remediated; revisited later | Invisible |
+Doubts | Answered against the material, then back to the lesson | Forum or WhatsApp, hours later, if at all |
+Language | English and Hindi compiled for every concept, switchable | Whichever language was recorded |
+Teacher presence | Cloned voice; optional avatar; name and strictness | The recording |
+What the institute learns | Mastery per concept per student; weak spots per batch | Watch time and completion |
+Marginal cost | ₹3 / $0.03 per learner-minute | Near zero |
+Production effort | Compile from existing recordings and PDFs; review boards | Script, shoot, edit, re-shoot when the syllabus changes |
+Updating content | Edit the source and recompile the slide | Re-record |
+
+## Choose recorded courses when
+
+- The content is inspirational or narrative rather than something with checkable understanding.
+- Learners are highly self-motivated and the institute does not need to know what they understood.
+- Marginal cost must be zero and interaction is not needed.
+
+## Choose Tutezy when
+
+- Completion and understanding matter — exam prep, certification, compliance, a course sold on outcomes.
+- The institute needs to know who is stuck on what.
+- Students need to ask, to be asked, and to go at their own pace.
+- A Hindi option is needed without re-recording.
+- The syllabus changes and re-shooting is not practical.
+
+## Keep the video. Add the teacher.
+The usual objection is sunk cost: “we spent a year recording”. Tutezy does not throw that away. Recordings are transcribed and compiled into board lessons; the original video stays in the course; the student gets a button on the same chapter. Institutes typically start with the chapters where completion drops and expand from there. Setup is described on the how it works page; the per-minute economics on the pricing page .
+Descriptions of third-party products reflect public information as of September 2026 and may change; check the product’s own site for current features and pricing.
+
+## Frequently asked questions
+Do we have to re-record anything?+
+No. Existing videos are transcribed and compiled; PDFs and decks are read directly. You review the boards and recompile any you want tighter.
+
+Does Tutezy replace the video?+
+No. It sits beside it. Students can still watch; the lesson button opens the one-to-one teacher on the same chapter.
+
+Is it pre-rendered like a video?+
+No. The board is drawn live from the compiled plan and the conversation is live, which is what lets it react to a wrong answer.
+
+What does it cost compared with video?+
+Video is free per view; Tutezy is ₹3 per learner-minute. A 30-minute chapter costs ₹90 per student. Most institutes charge for or fund it from the completion and retention gain.
+
+## Other comparisons
+
+- Tutezy vs ChatGPT Tutezy vs ChatGPT for teaching students
+- Tutezy vs Khanmigo Tutezy vs Khanmigo: your content vs a fixed curriculum
+- Tutezy vs human tutoring Tutezy vs one-to-one human tutoring
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp
+
+
+---
+
+# Tutezy vs one-to-one human tutoring | Tutezy
+URL: https://tutezy.ai/compare/tutezy-vs-human-tutoring/
+
+- Home
+- › Compare
+- › Tutezy vs human tutoring
+Comparison
+
+# Tutezy vs one-to-one human tutoring
+A good human tutor is the best form of teaching there is, and Tutezy is modelled on what they do. The human is also the scarcest resource in every institute. Tutezy is built to take the repetitive one-to-one work between live sessions, and to tell the human exactly where they are needed.
+
+The short version
+
+- ✦ Human tutor: judgment, motivation, relationship, improvisation. ₹300–₹1,500+ an hour, one student at a time, limited hours.
+- ✦ Tutezy: the explain–ask–check–revisit loop, in the teacher’s voice, for every student at once, ₹180 an hour each, any hour.
+- ✦ The design goal is not to replace the tutor but to multiply them and to route their hours to the students who need them.
+
+## What human tutoring is
+One-to-one human tutoring is a teacher and a student, live, working through material with immediate feedback. It is the reference standard: decades of research put one-to-one tutoring well ahead of classroom instruction. Its constraints are cost, availability and consistency — the best tutors are booked, the affordable ones vary, and no institute can give every student an hour a day.
+
+## Side by side
+  | Tutezy | human tutoring |
+
+Judgment and improvisation | Within a compiled plan; hints, revisits, doubt answers | Unlimited; reads the room, changes approach |
+Motivation and relationship | Familiar teacher voice and name; patient, never tired; no relationship | The main reason many students keep going |
+Consistency | Every student gets the same reviewed board | Varies by tutor and by day |
+Availability | Any hour, every student at once, resumes where they stopped | Booked slots; one student per slot |
+Language | English and Hindi, switchable mid-lesson | Depends on the tutor |
+Record of learning | Mastery per concept, transcript, notes, batch roll-up, CSV | The tutor’s memory and a verbal update |
+Cost | ₹3 / $0.03 per learner-minute (₹180 an hour) | ₹300–₹1,500+ an hour in India; more abroad |
+Scale | A batch of 500 at once | One |
+Handles the unexpected | Answers doubts about the material; returns to the plan | Anything |
+
+## Choose human tutoring when
+
+- The student needs mentoring, motivation or a relationship more than explanation.
+- The material is open-ended: research, projects, essays, portfolio work.
+- A student’s difficulty is not about the content — the human should have that conversation.
+- The budget allows an hour a day per student and the tutors are available.
+
+## Choose Tutezy when
+
+- Every student in a batch needs the explain–ask–check–revisit loop and there is one teacher.
+- The repetitive part of tutoring — homework help, practice, revision, solution sessions — is eating the human’s hours.
+- The institute wants to know, before the live session, who is stuck on what.
+- Students need help at 11 pm, on a phone, in Hindi or English.
+- The cost per student-hour must be a fraction of a human tutor’s.
+
+## How institutes use both
+The pattern that works: the human teaches the live class and keeps office hours; Tutezy takes the daily practice, the post-test solution sessions and the late-night doubts, in the teacher’s own voice; each morning the teacher sees the batch’s weak concepts and the individual students flagged, and spends the human hour on them. Faculty stop repeating the same explanation two hundred times and start doing the part only a human can. See the coaching institute and independent tutor pages for worked examples.
+Descriptions of third-party products reflect public information as of September 2026 and may change; check the product’s own site for current features and pricing.
+
+## Frequently asked questions
+Is Tutezy meant to replace teachers?+
+No. It multiplies them. Your teachers’ content, name, voice and face teach every student one to one, and the teacher sees who needs them in person.
+
+Can it motivate a discouraged student the way a person can?+
+Not the way a person can. It is patient, familiar-sounding and never sighs, which helps; but a student who needs a human conversation should get one, and Tutezy’s flags help the teacher find that student.
+
+How does the cost compare?+
+₹3 per learner-minute is ₹180 an hour, against ₹300–₹1,500 an hour for a human tutor in India. The bigger difference is that Tutezy teaches the whole batch at once.
+
+Do teachers resist it?+
+Less than expected once they see it uses their own material and voice, reports to them, and takes the repetitive work off their evenings. Likeness use is consent-gated and can be disabled at any time.
+
+## Other comparisons
+
+- Tutezy vs ChatGPT Tutezy vs ChatGPT for teaching students
+- Tutezy vs Khanmigo Tutezy vs Khanmigo: your content vs a fixed curriculum
+- Tutezy vs recorded courses Tutezy vs recorded video courses
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+
+Try a lesson → Book a demo WhatsApp

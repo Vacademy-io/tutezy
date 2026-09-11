@@ -37,4 +37,5 @@ for (const r of routes) {
   doc += `\n\n---\n\n# ${title}\nURL: ${SITE}${r}\n\n${textOf(html)}\n`;
 }
 writeFileSync(join(OUT, "llms-full.txt"), doc);
+writeFileSync("public/llms-full.txt", doc); // committed, so it ships even when the host runs plain `next build`
 console.log(`llms-full.txt: ${routes.length} routes, ${(doc.length / 1024).toFixed(0)} KB`);
