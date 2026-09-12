@@ -25,6 +25,17 @@ No environment variables. Demo requests post from the browser to the Vacademy CR
 - The animated lesson is `src/components/LessonDemo.tsx` (pure CSS/state, no video).
 - Illustration `public/hero-art.png` and OG image `public/og.png`.
 
+## US-first mode (2026-09-12)
+
+- `src/lib/site.ts`: `CALENDLY_URL` (empty = CTAs fall back to the form), `SALES_EMAIL`, `HOURS_COPY`.
+- Pricing defaults to USD; INR only when the visitor's timezone is Asia/Kolkata.
+- WhatsApp is footer-only. Demo form requires email, phone optional.
+- Tracking: `src/lib/track.ts` + `<Tracking/>` — utm_* captured to sessionStorage, attached to every
+  dataLayer event and appended to the CRM lead note (`src: source/medium/campaign`). Any element with
+  `data-track="<event>"` fires that event on click (`book_call`, `try_lesson`, `whatsapp`); Calendly
+  bookings fire `calendly_booked`. Configure triggers in GTM.
+- Case studies: `src/content/caseStudies.ts` — section is hidden while empty; real numbers only.
+
 ## Guard
 
 `postcss.config.mjs` must stay tiny (see the npm-worm note in the platform repo). Check before every push:

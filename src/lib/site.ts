@@ -6,6 +6,16 @@
 export const SITE = "https://tutezy.ai";
 export const SITE_NAME = "Tutezy by Vacademy";
 
+/**
+ * Calendly event link for "Book a call". Empty string = not set yet; every
+ * CTA then falls back to the demo form. Set once and every button follows.
+ */
+export const CALENDLY_URL = "";
+export const bookHref = () => CALENDLY_URL || "/#demo";
+export const SALES_EMAIL = "hello@tutezy.ai";
+/** Owner decision 2026-09-12: US-first. Calls are taken in this window, stated plainly. */
+export const HOURS_COPY = "We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.";
+
 export type PageGroup = "product" | "audience" | "compare";
 
 export interface SitePage {
@@ -25,6 +35,7 @@ export const PAGES: SitePage[] = [
   { path: "/pricing/", label: "Pricing", title: "Tutezy pricing: ₹3 / $0.03 per learner-minute, no seats", description: "Tutezy pricing in INR and USD: live lessons at ₹3 ($0.03) per learner-minute, ₹5 ($0.05) with the animated avatar, voice clone ₹2,000 ($20), custom avatar ₹10,000 ($100). Worked examples and what is included.", group: "product" },
   { path: "/hindi-ai-tutor/", label: "Hindi AI tutor", title: "Hindi AI tutor: live lessons in हिंदी and English", description: "Tutezy teaches in Hindi and English. Boards and narration are compiled in both, so a student can switch language mid-lesson without losing the thread. For Hindi-medium and bilingual institutes.", group: "product" },
   { path: "/faq/", label: "FAQ", title: "Tutezy FAQ: 30 questions institutes ask", description: "Straight answers on content, languages, pricing, teacher likeness and consent, student apps, data, accuracy, exams, and how Tutezy differs from a chatbot.", group: "product" },
+  { path: "/security/", label: "Security & consent", title: "Security, privacy and voice consent at Tutezy", description: "How Tutezy handles your content, student data and teacher likeness: data stays yours, no model training on customer data, voice cloning only with written consent and deletable on request, what the live model can and cannot do.", group: "product" },
   { path: "/about/", label: "About", title: "About Tutezy and Vacademy", description: "Tutezy is built by Vacademy, the education operating system used by coaching institutes, schools and training companies for courses, tests, live classes and CRM. Who we are and how to reach us.", group: "product" },
   // Audiences
   { path: "/for/coaching-institutes/", label: "Coaching & test-prep", title: "AI tutor for coaching institutes: NEET, JEE, UPSC", description: "Give every student in a coaching batch a one-to-one teacher for doubts, post-test solution sessions and revision, in the institute's own teacher's voice, at ₹3 per learner-minute.", group: "audience" },

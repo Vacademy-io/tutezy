@@ -3,12 +3,10 @@
 import Image from "next/image";
 import { useEffect, useRef, useState } from "react";
 import { LessonDemo } from "./LessonDemo";
-import { whatsappLink } from "@/lib/leadSubmit";
-import { HOME_ANCHORS } from "@/lib/site";
+import { HOME_ANCHORS, bookHref } from "@/lib/site";
 
 export const DEMO_HREF = "#demo";
 export const TRY_HREF = "https://learner.vacademy.io/try";
-const WA_TEXT = "Hi, I'd like a demo of Tutezy for my students.";
 
 export function Nav() {
   const [open, setOpen] = useState(false);
@@ -27,8 +25,8 @@ export function Nav() {
             </a>
           ))}
         </nav>
-        <a href={DEMO_HREF} className="btn-hard ms-auto rounded-full bg-signal px-4 py-2 font-display text-sm font-bold text-white md:ms-4">
-          Book a demo
+        <a href={bookHref()} data-track="book_call" data-track-label="nav" className="btn-hard ms-auto rounded-full bg-signal px-4 py-2 font-display text-sm font-bold text-white md:ms-4">
+          Book a call
         </a>
         <button type="button" className="rounded-md border-2 border-ink p-1.5 md:hidden" aria-label="Menu" aria-expanded={open} onClick={() => setOpen((v) => !v)}>
           <span className="block h-0.5 w-5 bg-ink" />
@@ -63,22 +61,14 @@ export function Hero() {
           <p className="mt-5 max-w-xl text-lg text-ink-700">
             Tutezy turns the content you already have into live whiteboard lessons: a teacher who speaks in
             <span className="font-semibold text-ink"> your voice and face</span>, asks, listens, corrects, and comes back to what each
-            student found hard. In English and Hindi. Paid per minute, not per seat.
+            student found hard. Paid per minute, not per seat.
           </p>
           <div className="mt-7 flex flex-wrap items-center gap-3">
-            <a href={DEMO_HREF} className="btn-hard rounded-full bg-signal px-6 py-3 font-display text-base font-bold text-white">
-              Book a 20-minute demo
+            <a href={bookHref()} data-track="book_call" data-track-label="hero" className="btn-hard rounded-full bg-signal px-6 py-3 font-display text-base font-bold text-white">
+              Book a 20-minute call
             </a>
-            <a href={TRY_HREF} className="btn-hard rounded-full bg-sticky px-5 py-3 font-display text-base font-bold text-ink">
+            <a href={TRY_HREF} data-track="try_lesson" data-track-label="hero" className="btn-hard rounded-full bg-sticky px-5 py-3 font-display text-base font-bold text-ink">
               Try a 3-minute lesson →
-            </a>
-            <a
-              href={whatsappLink(WA_TEXT)}
-              target="_blank"
-              rel="noreferrer"
-              className="btn-hard rounded-full bg-white px-5 py-3 font-display text-base font-bold text-ink"
-            >
-              WhatsApp us
             </a>
           </div>
           <p className="mt-6 inline-block rounded-md border-2 border-ink bg-white px-3 py-1.5 font-display text-sm font-bold">
@@ -96,7 +86,7 @@ export function Hero() {
           </span>
           <LessonDemo />
           <span className="float absolute -bottom-4 -end-2 rotate-[4deg] rounded-md bg-mint px-3 py-1.5 font-chalk text-sm font-bold text-ink shadow-hard-sm" style={{ ["--tilt" as string]: "4deg" }}>
-            ₹3 / min · no seats
+            $0.03 / min · no seats
           </span>
         </div>
       </div>
@@ -331,7 +321,7 @@ export function Audience() {
             training a workforce: Tutezy adds a mentor that stays with the learner through the whole journey.
           </p>
         </div>
-        <a href={DEMO_HREF} className="btn-hard rounded-full bg-signal px-5 py-2.5 font-display font-bold text-white">Book a demo</a>
+        <a href={bookHref()} data-track="book_call" data-track-label="core-idea" className="btn-hard rounded-full bg-signal px-5 py-2.5 font-display font-bold text-white">Book a call</a>
       </div>
     </section>
   );
@@ -504,7 +494,7 @@ export function TryBand() {
           <h2 className="mt-2 text-3xl font-extrabold sm:text-4xl">Don&apos;t take our word for it. Take a lesson.</h2>
           <p className="mt-2 text-ink-700">Tell the teacher your name, pick a topic, and she starts teaching — board, voice, questions and all. One free session per visitor.</p>
         </div>
-        <a href={TRY_HREF} className="btn-hard rounded-full bg-ink px-6 py-3 font-display text-base font-bold text-paper">Start my 3-minute lesson →</a>
+        <a href={TRY_HREF} data-track="try_lesson" data-track-label="try-band" className="btn-hard rounded-full bg-ink px-6 py-3 font-display text-base font-bold text-paper">Start my 3-minute lesson →</a>
       </div>
     </section>
   );
@@ -553,11 +543,11 @@ export function AskRiya() {
                 <div className="mt-4 rounded-2xl rounded-ss-sm border-2 border-ink bg-white px-4 py-3">
                   <p className="text-ink-700">{pick.reply}</p>
                   <div className="mt-3 flex flex-wrap gap-2">
-                    <a href={`${TRY_HREF}?topic=${encodeURIComponent(pick.topic)}`} className="btn-hard rounded-full bg-signal px-4 py-2 font-display text-sm font-bold text-white">
+                    <a href={`${TRY_HREF}?topic=${encodeURIComponent(pick.topic)}`} data-track="try_lesson" data-track-label={`ask-riya:${pick.k}`} className="btn-hard rounded-full bg-signal px-4 py-2 font-display text-sm font-bold text-white">
                       Try it now · 3 minutes, no sign-up
                     </a>
-                    <a href={DEMO_HREF} className="btn-hard rounded-full bg-white px-4 py-2 font-display text-sm font-bold text-ink">
-                      Book a demo on my content
+                    <a href={bookHref()} data-track="book_call" data-track-label="ask-riya" className="btn-hard rounded-full bg-white px-4 py-2 font-display text-sm font-bold text-ink">
+                      Book a call on my content
                     </a>
                   </div>
                 </div>

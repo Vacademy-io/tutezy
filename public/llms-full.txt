@@ -1,6 +1,6 @@
 # Tutezy by Vacademy — full site text
 
-Generated 2026-09-11 from https://tutezy.ai. Short summary: https://tutezy.ai/llms.txt
+Generated 2026-09-12 from https://tutezy.ai. Short summary: https://tutezy.ai/llms.txt
 
 
 ---
@@ -11,8 +11,8 @@ URL: https://tutezy.ai/
 Personalised learning · AI live classes
 
 # Every student gets a live teacher . Every minute.
-Tutezy turns the content you already have into live whiteboard lessons: a teacher who speaks in your voice and face , asks, listens, corrects, and comes back to what each student found hard. In English and Hindi. Paid per minute, not per seat.
-Book a 20-minute demo Try a 3-minute lesson → WhatsApp us
+Tutezy turns the content you already have into live whiteboard lessons: a teacher who speaks in your voice and face , asks, listens, corrects, and comes back to what each student found hard. Paid per minute, not per seat.
+Book a 20-minute call Try a 3-minute lesson →
 Your content + Tutezy AI = an interactive, personalised learning experience
 
 - ✓ Works with your videos, PDFs & slides
@@ -30,7 +30,7 @@ Namaste Priya! Today: what makes a force, and how we measure it.
 
 🎤 Answer Type or speak…
 
-₹3 / min · no seats
+$0.03 / min · no seats
 
 R Riya · your Tutezy teacher
 Hi! How do you want me to teach your courses, or your students?
@@ -256,51 +256,51 @@ The core idea
 Your content + Tutezy AI = an interactive, personalised learning experience.
 Move from content delivery to AI-powered learning. Selling courses, running a school, tutoring one to one, coaching for exams or training a workforce: Tutezy adds a mentor that stays with the learner through the whole journey.
 
-Book a demo
+Book a call
 
 ## Pay per minute. No seats, no minimums.
 Buy credits, use them across every course and every student. A minute only counts while a student is actually in a lesson.
 
-₹ INR $ USD
+$ USD ₹ INR
 
 Live lesson
-₹3 /min
+$0.03 /min
 Per student, per minute of lesson. Voice or text, whiteboard, checks, revisits, notes and insights included.
 
 With animated avatar
-₹5 /min
+$0.05 /min
 Everything above, plus a lip-synced teacher on screen. Students can hide it; you pay only while it is shown.
 
 Teacher voice clone
-₹2,000
+$20
 One-time, per voice. A 15-second sample; private to your institute.
 
 Custom teacher avatar
-₹10,000
+$100
 One-time, per teacher. Built from one photo, with consent. Stock avatars are free.
 
 What a batch costs
 100 students × 30 minutes of live lessons
-₹9,000
-3,000 minutes at ₹3/min. Lesson preparation is a small one-time cost per slide and is shown before you convert.
+$90
+3,000 minutes at $0.03/min. Lesson preparation is a small one-time cost per slide and is shown before you convert.
 
 - ✓ Credits never expire while your account is active
 - ✓ Live balance, itemised usage, CSV export
 - ✓ Volume pricing for institutes above 1,000 students
-Get a quote on the demo
+Get a quote on the call
 
 ## See Tutezy teach your chapter
-A 20-minute call. Bring one chapter — a PDF, a recording or slides — and we convert it live, in your teacher's voice if you like.
+A 20-minute call. Bring one chapter — a PDF, a recording or slides — and we convert it live, in your own voice if you like.
 
-- 1 We call you on WhatsApp within a working day to fix a slot.
+- 1 We email you within one US business day with two or three slots.
 - 2 On the call: your content in, a live lesson out, pricing for your numbers.
-- 3 Pilot with one batch. Credits to start are on us.
-Prefer WhatsApp? Message us →
+- 3 Pilot with one course or batch. Credits to start are on us.
+🕘 We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-### Book a demo
-Your name WhatsApp number India +91UAE +971US/CA +1UK +44Singapore +65Australia +61Nepal +977Bangladesh +880
-Email (optional) Institute / brand You are An institute / coachingA solo teacher / creatorSomething elseRoughly how many students? Pick oneUnder 100100 – 500500 – 2,0002,000+Anything we should prepare? (optional)
-Request my demo No spam. One WhatsApp message to fix the slot, that's it.
+### Book a call
+Your name Work email Phone (optional) US/CA +1UK +44Australia +61India +91UAE +971Singapore +65
+Company / brand You are A training / test-prep companyA course creatorA school, college or universityCorporate L&DSomething elseRoughly how many learners? Pick oneUnder 100100 – 500500 – 2,0002,000+Anything we should prepare? (optional)
+Request a call No newsletter, no drip. One email with slots, that's it.
 
 ## Questions institutes ask us
 Does it replace our teachers?+
@@ -333,6 +333,7 @@ Plain-language pages on what Tutezy is, what it costs, how it works for your kin
 - Pricing
 - Hindi AI tutor
 - FAQ
+- Security & consent
 - About
 
 ### Tutezy for your kind of institute
@@ -428,12 +429,13 @@ No. Tutezy runs inside the Vacademy learner app on web, Android and iOS, next to
 - Pricing Tutezy pricing: ₹3 / $0.03 per learner-minute, no seats
 - Hindi AI tutor Hindi AI tutor: live lessons in हिंदी and English
 - FAQ Tutezy FAQ: 30 questions institutes ask
+- Security & consent Security, privacy and voice consent at Tutezy
 - About About Tutezy and Vacademy
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call
 
 
 ---
@@ -523,12 +525,13 @@ Yes. When the teacher marks a slide done, the same learner-progress records the 
 - Pricing Tutezy pricing: ₹3 / $0.03 per learner-minute, no seats
 - Hindi AI tutor Hindi AI tutor: live lessons in हिंदी and English
 - FAQ Tutezy FAQ: 30 questions institutes ask
+- Security & consent Security, privacy and voice consent at Tutezy
 - About About Tutezy and Vacademy
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call
 
 
 ---
@@ -629,12 +632,13 @@ Tutezy runs inside the Vacademy learner app, so an institute not yet on Vacademy
 - How it works How Tutezy works: compile once, teach every student live
 - Hindi AI tutor Hindi AI tutor: live lessons in हिंदी and English
 - FAQ Tutezy FAQ: 30 questions institutes ask
+- Security & consent Security, privacy and voice consent at Tutezy
 - About About Tutezy and Vacademy
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call
 
 
 ---
@@ -702,12 +706,13 @@ No. ₹3 per learner-minute in either language, ₹5 with the avatar on.
 - How it works How Tutezy works: compile once, teach every student live
 - Pricing Tutezy pricing: ₹3 / $0.03 per learner-minute, no seats
 - FAQ Tutezy FAQ: 30 questions institutes ask
+- Security & consent Security, privacy and voice consent at Tutezy
 - About About Tutezy and Vacademy
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call
 
 
 ---
@@ -720,7 +725,7 @@ URL: https://tutezy.ai/faq/
 FAQ
 
 # Tutezy: 30 questions institutes ask
-Straight answers, grouped. If yours is not here, WhatsApp us or ask on the demo.
+Straight answers, grouped. If yours is not here, email hello@tutezy.ai or ask on the call.
 
 What it is Content The lesson Languages and voice Pricing Setup, apps and data
 
@@ -826,12 +831,113 @@ Yes. A free, no-sign-up 3-minute lesson is at learner.vacademy.io/try, and a 20-
 - How it works How Tutezy works: compile once, teach every student live
 - Pricing Tutezy pricing: ₹3 / $0.03 per learner-minute, no seats
 - Hindi AI tutor Hindi AI tutor: live lessons in हिंदी and English
+- Security & consent Security, privacy and voice consent at Tutezy
 - About About Tutezy and Vacademy
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call
+
+
+---
+
+# Security, privacy and voice consent at Tutezy | Tutezy
+URL: https://tutezy.ai/security/
+
+- Home
+- › Security & consent
+Security & consent
+
+# Security, privacy and voice consent
+What happens to your content, your students’ data and your teachers’ likeness when you use Tutezy — in plain language, including what we do not yet have.
+
+The commitments
+
+- ✦ Your content stays yours. We do not train models on it, sell it, or use it for any other customer.
+- ✦ Voice and likeness only with written consent, from the person concerned, recorded in the product; disable at any time, delete on request.
+- ✦ Lessons are reviewable before students see them. The live model works within a compiled plan; it does not browse the web.
+- ✦ Student data is private to your account and exportable by you.
+- ✦ Honest about gaps: no SOC 2 yet; practices and a data-processing summary available on request.
+
+## Your content
+
+- Uploaded PDFs, videos, slides and question banks are stored for your account only and used solely to compile and teach your lessons.
+- Compiled teaching plans are derived works of your content and belong to you. You can preview every board before a learner sees it and recompile or remove any of it.
+- We do not use customer content to train or fine-tune models, ours or anyone else’s.
+- On account closure, content and compiled plans are deleted on request.
+
+## Teacher voice and likeness
+This is the part US customers rightly ask about first, so the rules are strict and simple:
+
+- Consent is explicit and recorded. A voice is cloned only from a sample recorded or uploaded by the teacher or account holder themselves, after they accept a consent statement in the product. We keep the consent record with the voice.
+- We do not clone third parties. No public figures, no colleagues from found audio, no “can you make it sound like…”. Avatars are built only from a photo the person provides of themselves.
+- Private to your account. Nobody else on the platform can select your teacher’s voice or avatar.
+- Disable or delete at any time. Disabling in Tutor Mode settings switches lessons to a stock voice immediately. Deletion removes the voice model and the sample.
+- Stock voices need no consent. If you would rather not clone anyone, the stock voice set (including American English) is included at no charge.
+
+## Student and learner data
+
+- We store what the product needs to teach and report: position in the course, answers to checks, mastery per concept, session transcripts, notes, and minutes used.
+- Transcripts and reports are visible only to admins of your account. They are exportable (CSV) and deletable on request.
+- We do not sell or share learner data with advertisers or data brokers.
+- If your learners are minors, you are the party with the relationship to parents and school; tell us on the call and we will document the data flows for your records.
+
+## What the AI can and cannot do
+
+- The whiteboard is drawn from a compiled, reviewable plan using a fixed set of board operations. The live model never authors raw page content.
+- Narration is compiled ahead of time; the live model adapts pace and answers doubts against the material on the board.
+- The live model is used for grading answers, giving hints, answering doubts and adapting to the learner. It does not browse the internet or pull from other customers’ content.
+- Every session is logged, so an admin can read exactly what was said to a learner.
+
+## Infrastructure and access
+
+- Data is encrypted in transit. Production access is limited to the engineers who operate the service.
+- Language and speech models are provided by third-party AI providers under contract; content is sent to them only to perform the requested task and not retained by us for any other purpose. The current provider list and hosting region are available on request.
+- We do not currently hold SOC 2 or ISO 27001. We will say so on this page until we do.
+
+## Your rights and how to exercise them
+
+- Export your data: from the admin, or ask us and we send a CSV bundle.
+- Delete a voice, an avatar, a learner’s records, or the whole account: email hello@tutezy.ai from an admin address; we confirm in writing when it is done.
+- Report a security concern: same address, marked “security”. We answer within one business day.
+This page describes the product as of September 2026 and is updated when anything changes. The Vacademy privacy policy is the legal document behind it.
+
+## Frequently asked questions
+Do you train AI models on our content or our students’ data?+
+No. Your content, compiled lessons, transcripts and reports are used only to teach your learners and to produce your reports. They are not used to train models for Tutezy or for any other customer.
+
+Can you clone a voice without the person’s consent?+
+No. We clone only the voice of a teacher or account holder who has given written consent through the product, and we keep that consent record. We do not clone public figures, colleagues or anyone else from found audio.
+
+How do we delete a voice clone or avatar?+
+Disable it in Settings → Tutor Mode at any time (lessons fall back to a stock voice), or email us to delete it permanently. Deletion covers the voice model and the sample.
+
+Can the AI say something that is not in our material?+
+The whiteboard and narration come from a plan compiled from your content and reviewable by you before students see it. The live model is used only to grade answers, give hints, answer doubts about the material on the board and adapt pace. It does not browse the web.
+
+Who can see student transcripts?+
+Admins of your own account. Nobody outside your organisation, and no other Tutezy customer.
+
+Are you SOC 2 certified?+
+Not yet. We can share our current security practices and a data-processing summary on request, and we will state plainly on this page when a certification is in place.
+
+Where can I ask a question this page does not answer?+
+Email hello@tutezy.ai. Security questionnaires are welcome; we answer them honestly, including the gaps.
+
+## Learn more
+
+- What is Tutezy? What is Tutezy? A live AI teacher from your own content
+- How it works How Tutezy works: compile once, teach every student live
+- Pricing Tutezy pricing: ₹3 / $0.03 per learner-minute, no seats
+- Hindi AI tutor Hindi AI tutor: live lessons in हिंदी and English
+- FAQ Tutezy FAQ: 30 questions institutes ask
+- About About Tutezy and Vacademy
+See it teach
+Take a 3-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
+
+Try a lesson → Book a call
 
 
 ---
@@ -880,11 +986,12 @@ An AI-powered education operating system that replaces the usual stack of a sepa
 - Pricing Tutezy pricing: ₹3 / $0.03 per learner-minute, no seats
 - Hindi AI tutor Hindi AI tutor: live lessons in हिंदी and English
 - FAQ Tutezy FAQ: 30 questions institutes ask
+- Security & consent Security, privacy and voice consent at Tutezy
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call
 
 
 ---
@@ -992,9 +1099,9 @@ Institutes report the opposite: students arrive at the live class with their dou
 - Universities AI tutor for universities and colleges
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call
 
 
 ---
@@ -1097,9 +1204,9 @@ What does it cost per child?+
 - Universities AI tutor for universities and colleges
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call
 
 
 ---
@@ -1202,9 +1309,9 @@ It answers doubts about the material being taught and brings the lesson back to 
 - Universities AI tutor for universities and colleges
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call
 
 
 ---
@@ -1306,9 +1413,9 @@ What does it cost?+
 - Universities AI tutor for universities and colleges
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call
 
 
 ---
@@ -1408,9 +1515,9 @@ What does it cost me?+
 - Universities AI tutor for universities and colleges
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call
 
 
 ---
@@ -1511,9 +1618,9 @@ Content, transcripts and reports belong to the institution, are visible only to 
 - Independent tutors AI tutor for independent tutors and educators
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call
 
 
 ---
@@ -1556,9 +1663,9 @@ Third-party figures are approximate public list prices as of September 2026; che
 
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call
 
 
 ---
@@ -1637,9 +1744,9 @@ No. It teaches from compiled institute content and answers doubts against it.
 - Tutezy vs human tutoring Tutezy vs one-to-one human tutoring
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call
 
 
 ---
@@ -1716,9 +1823,9 @@ From roughly Class 4 upwards — children who can read a board and answer a ques
 - Tutezy vs human tutoring Tutezy vs one-to-one human tutoring
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call
 
 
 ---
@@ -1795,9 +1902,9 @@ Video is free per view; Tutezy is ₹3 per learner-minute. A 30-minute chapter c
 - Tutezy vs human tutoring Tutezy vs one-to-one human tutoring
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call
 
 
 ---
@@ -1874,6 +1981,6 @@ Less than expected once they see it uses their own material and voice, reports t
 - Tutezy vs recorded courses Tutezy vs recorded video courses
 See it teach
 Take a 3-minute lesson, then book a demo on your own content.
-No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
-Try a lesson → Book a demo WhatsApp
+Try a lesson → Book a call

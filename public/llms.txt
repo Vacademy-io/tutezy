@@ -58,6 +58,7 @@ and training companies, skill-development platforms.
 - [Pricing](https://tutezy.ai/pricing/): rates in INR and USD, worked examples
 - [Hindi AI tutor](https://tutezy.ai/hindi-ai-tutor/): bilingual teaching
 - [FAQ](https://tutezy.ai/faq/): 30 questions institutes ask
+- [Security & consent](https://tutezy.ai/security/): data ownership, no model training on customer data, voice consent and deletion
 - [About](https://tutezy.ai/about/): Vacademy, contact
 - [For coaching institutes](https://tutezy.ai/for/coaching-institutes/)
 - [For schools](https://tutezy.ai/for/schools/)
@@ -71,6 +72,6 @@ and training companies, skill-development platforms.
 ## Try and contact
 
 - Free 3-minute lesson, no sign-up: https://learner.vacademy.io/try
-- Book a 20-minute demo: https://tutezy.ai/#demo
-- WhatsApp: +91 99933 36616
+- Book a 20-minute call: https://tutezy.ai/#demo (calls 9:30 am–3:30 pm ET, Mon–Fri; team is in India)
+- Email: hello@tutezy.ai
 - Parent company: https://vacademy.io

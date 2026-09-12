@@ -8,6 +8,7 @@ const manrope = Manrope({ subsets: ["latin"], weight: ["400", "500", "600", "700
 const kalam = Kalam({ subsets: ["latin", "devanagari"], weight: ["400", "700"], variable: "--font-kalam", display: "swap" });
 
 import { SITE, SITE_NAME } from "@/lib/site";
+import { Tracking } from "@/components/Tracking";
 
 const GTM_ID = "GTM-5C4DDJ6W";
 
@@ -95,6 +96,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <noscript>
           <iframe src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`} height="0" width="0" style={{ display: "none", visibility: "hidden" }} title="gtm" />
         </noscript>
+        <Tracking />
         {children}
       </body>
     </html>

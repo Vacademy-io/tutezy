@@ -1,7 +1,7 @@
 "use client";
 
-import { useState } from "react";
-import { DEMO_HREF } from "./Sections";
+import { useEffect, useState } from "react";
+import { bookHref } from "@/lib/site";
 
 type Cur = "INR" | "USD";
 
@@ -11,7 +11,13 @@ const P = {
 };
 
 export function Pricing() {
-  const [cur, setCur] = useState<Cur>("INR");
+  // US-first (owner decision 2026-09-12): USD unless the visitor's clock says India.
+  const [cur, setCur] = useState<Cur>("USD");
+  useEffect(() => {
+    try {
+      if (Intl.DateTimeFormat().resolvedOptions().timeZone === "Asia/Kolkata") setCur("INR");
+    } catch {}
+  }, []);
   const p = P[cur];
   return (
     <section id="pricing" className="border-y-2 border-ink bg-white">
@@ -24,7 +30,7 @@ export function Pricing() {
             </p>
           </div>
           <div className="inline-flex rounded-full border-2 border-ink bg-paper p-1 font-display text-sm font-bold" role="group" aria-label="Currency">
-            {(["INR", "USD"] as Cur[]).map((c) => (
+            {(["USD", "INR"] as Cur[]).map((c) => (
               <button
                 key={c}
                 type="button"
@@ -75,8 +81,8 @@ export function Pricing() {
               <li>✓ Live balance, itemised usage, CSV export</li>
               <li>✓ Volume pricing for institutes above 1,000 students</li>
             </ul>
-            <a href={DEMO_HREF} className="btn-hard mt-auto inline-block self-start rounded-full bg-signal px-5 py-2.5 font-display font-bold text-white">
-              Get a quote on the demo
+            <a href={bookHref()} data-track="book_call" data-track-label="pricing" className="btn-hard mt-auto inline-block self-start rounded-full bg-signal px-5 py-2.5 font-display font-bold text-white">
+              Get a quote on the call
             </a>
           </div>
         </div>

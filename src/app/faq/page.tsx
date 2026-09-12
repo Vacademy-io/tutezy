@@ -79,7 +79,7 @@ export default function Page() {
       path={PATH}
       eyebrow="FAQ"
       heading="Tutezy: 30 questions institutes ask"
-      lede="Straight answers, grouped. If yours is not here, WhatsApp us or ask on the demo."
+      lede="Straight answers, grouped. If yours is not here, email hello@tutezy.ai or ask on the call."
       related={{ group: "product", title: "Go deeper" }}
     >
       <JsonLd data={schema} />

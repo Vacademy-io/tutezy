@@ -1,5 +1,6 @@
 import Image from "next/image";
-import { byGroup } from "@/lib/site";
+import { byGroup, HOURS_COPY, SALES_EMAIL } from "@/lib/site";
+import { whatsappLink } from "@/lib/leadSubmit";
 import { JsonLd } from "./JsonLd";
 
 const FAQ: Array<[string, string]> = [
@@ -95,6 +96,12 @@ export function Footer() {
         <div>
           <Image src="/logo-full.png" alt="tutezy.ai — Personalized Learning | AI Live Classes" width={600} height={240} className="h-16 w-auto rounded-lg bg-white px-3 py-1" />
           <p className="mt-3 max-w-sm text-sm text-ink-300">A product of Vacademy — the education OS used by institutes for courses, tests, live classes and CRM.</p>
+          <p className="mt-3 max-w-sm text-sm text-ink-300">{HOURS_COPY}</p>
+          <p className="mt-2 text-sm text-ink-300">
+            <a href={`mailto:${SALES_EMAIL}`} className="font-semibold hover:text-paper">{SALES_EMAIL}</a>
+            <span className="mx-2">·</span>
+            <a href={whatsappLink("Hi, I'd like a demo of Tutezy.")} target="_blank" rel="noreferrer" data-track="whatsapp" data-track-label="footer" className="font-semibold hover:text-paper">WhatsApp</a>
+          </p>
         </div>
         <div className="grid gap-8 text-sm sm:grid-cols-3">
           {([["Product", byGroup("product")], ["For", byGroup("audience")], ["Compare", byGroup("compare")]] as const).map(([title, pages]) => (
@@ -106,7 +113,7 @@ export function Footer() {
                 ))}
                 {title === "Product" && (
                   <>
-                    <li><a href="/#demo" className="font-semibold text-ink-300 hover:text-paper">Book a demo</a></li>
+                    <li><a href="/#demo" className="font-semibold text-ink-300 hover:text-paper">Book a call</a></li>
                     <li><a href="https://learner.vacademy.io/try" className="font-semibold text-ink-300 hover:text-paper">Try a 3-minute lesson</a></li>
                     <li><a href="https://vacademy.io" className="font-semibold text-ink-300 hover:text-paper">Vacademy</a></li>
                     <li><a href="https://vacademy.io/privacy-policy" className="font-semibold text-ink-300 hover:text-paper">Privacy</a></li>

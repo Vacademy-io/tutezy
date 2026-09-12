@@ -7,6 +7,8 @@
  * Same audience and field ids as vacademy.io's own forms.
  */
 
+import { utmNote } from "./track";
+
 const CRM_API_BASE = "https://backend-stage.vacademy.io";
 const CRM_AUDIENCE_ID = "530d6365-808a-424d-ba6c-80a05ec9b233";
 
@@ -27,7 +29,7 @@ export interface DemoLead {
   countryCode: string;
   email?: string;
   organisation?: string;
-  /** "institute" | "solo" | "other" */
+  /** "institute" | "solo" | "school" | "corporate" | "other" */
   kind: string;
   students?: string;
   message?: string;
@@ -48,14 +50,14 @@ function crmRejection(body: string): string | null {
 export async function submitDemoLead(lead: DemoLead): Promise<{ ok: boolean; note?: string }> {
   const name = lead.name.trim();
   const email = (lead.email || "").trim();
-  const fullPhone = `${lead.countryCode}${lead.phone}`.replace(/[^+\d]/g, "");
+  const fullPhone = lead.phone.trim() ? `${lead.countryCode}${lead.phone}`.replace(/[^+\d]/g, "") : "";
   const custom: Record<string, string> = {};
   custom[CRM_FIELD.fullName] = name;
   if (email) custom[CRM_FIELD.email] = email;
   if (fullPhone) custom[CRM_FIELD.phone] = fullPhone;
   if (lead.organisation) custom[CRM_FIELD.instituteName] = lead.organisation.trim();
-  const kindLabel = lead.kind === "institute" ? "Institute" : lead.kind === "solo" ? "Solo teacher" : "Other";
-  custom[CRM_FIELD.designation] = [kindLabel, lead.students ? `${lead.students} students` : "", lead.message?.trim() || ""]
+  const kindLabel = { institute: "Training/test-prep company", solo: "Course creator", school: "School/university", corporate: "Corporate L&D" }[lead.kind] ?? "Other";
+  custom[CRM_FIELD.designation] = [kindLabel, lead.students ? `${lead.students} students` : "", lead.message?.trim() || "", utmNote()]
     .filter(Boolean)
     .join(" · ")
     .slice(0, 500);

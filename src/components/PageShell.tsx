@@ -2,8 +2,7 @@ import type { Metadata } from "next";
 import type { ReactNode } from "react";
 import { Nav } from "./Sections";
 import { Footer } from "./FaqFooter";
-import { findPage, PAGES, SITE, SITE_NAME, type PageGroup } from "@/lib/site";
-import { whatsappLink } from "@/lib/leadSubmit";
+import { bookHref, findPage, HOURS_COPY, PAGES, SITE, SITE_NAME, type PageGroup } from "@/lib/site";
 import { JsonLd } from "./JsonLd";
 
 export { JsonLd };
@@ -76,12 +75,11 @@ export function CtaBand({ topic }: { topic?: string }) {
       <div className="max-w-xl">
         <p className="font-display text-xs font-bold uppercase tracking-wide text-signal">See it teach</p>
         <p className="mt-2 font-display text-2xl font-bold">Take a 3-minute lesson, then book a demo on your own content.</p>
-        <p className="mt-2 text-sm text-ink-300">No sign-up for the lesson. The demo is 20 minutes and we convert one of your chapters live.</p>
+        <p className="mt-2 text-sm text-ink-300">No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. {HOURS_COPY}</p>
       </div>
       <div className="flex flex-wrap gap-3">
-        <a href={tryHref} className="btn-hard rounded-full bg-sticky px-5 py-2.5 font-display font-bold text-ink">Try a lesson →</a>
-        <a href="/#demo" className="btn-hard rounded-full bg-signal px-5 py-2.5 font-display font-bold text-white">Book a demo</a>
-        <a href={whatsappLink("Hi, I'd like a demo of Tutezy for my students.")} target="_blank" rel="noreferrer" className="btn-hard rounded-full bg-white px-5 py-2.5 font-display font-bold text-ink">WhatsApp</a>
+        <a href={tryHref} data-track="try_lesson" data-track-label="cta-band" className="btn-hard rounded-full bg-sticky px-5 py-2.5 font-display font-bold text-ink">Try a lesson →</a>
+        <a href={bookHref()} data-track="book_call" data-track-label="cta-band" className="btn-hard rounded-full bg-signal px-5 py-2.5 font-display font-bold text-white">Book a call</a>
       </div>
     </div>
   );
