@@ -47,7 +47,7 @@ function crmRejection(body: string): string | null {
   return text;
 }
 
-export async function submitDemoLead(lead: DemoLead): Promise<{ ok: boolean; note?: string }> {
+export async function submitDemoLead(lead: DemoLead): Promise<{ ok: boolean; note?: string; duplicate?: boolean }> {
   const name = lead.name.trim();
   const email = (lead.email || "").trim();
   const fullPhone = lead.phone.trim() ? `${lead.countryCode}${lead.phone}`.replace(/[^+\d]/g, "") : "";
@@ -96,7 +96,9 @@ export async function submitDemoLead(lead: DemoLead): Promise<{ ok: boolean; not
   if (!res.ok) return { ok: false, note: `HTTP ${res.status}` };
   const rejection = crmRejection(text);
   if (rejection && !/duplicate|already/i.test(rejection)) return { ok: false, note: rejection };
-  return { ok: true, note: rejection || undefined };
+  // "You have already submitted your response for this campaign": the CRM
+  // dedups per audience by email, so a returning visitor creates no new row.
+  return { ok: true, note: rejection || undefined, duplicate: Boolean(rejection) };
 }
 
 export function whatsappLink(text: string): string {

@@ -22,6 +22,7 @@ const COUNTRY_CODES = [
 export function DemoForm() {
   const [form, setForm] = useState({ name: "", phone: "", countryCode: "+1", email: "", organisation: "", kind: "institute", students: "", message: "" });
   const [state, setState] = useState<"idle" | "sending" | "done" | "error">("idle");
+  const [duplicate, setDuplicate] = useState(false);
   const [error, setError] = useState("");
   const set = (k: keyof typeof form, v: string) => setForm((f) => ({ ...f, [k]: v }));
 
@@ -37,8 +38,9 @@ export function DemoForm() {
     try {
       const r = await submitDemoLead(form);
       if (!r.ok) throw new Error(r.note || "Could not send");
+      setDuplicate(Boolean(r.duplicate));
       setState("done");
-      track("tutezy_demo_request", { kind: form.kind, students: form.students });
+      track("tutezy_demo_request", { kind: form.kind, students: form.students, duplicate: Boolean(r.duplicate) });
     } catch (err) {
       setError(err instanceof Error ? err.message : `Could not send. Email us at ${SALES_EMAIL}.`);
       setState("error");
@@ -75,8 +77,12 @@ export function DemoForm() {
           {state === "done" ? (
             <div className="py-8 text-center">
               <span className="mx-auto grid size-16 place-items-center rounded-full border-2 border-ink bg-mint font-display text-3xl font-bold">✓</span>
-              <h3 className="mt-5 text-2xl font-bold">Got it, {form.name.split(" ")[0]}.</h3>
-              <p className="mt-2 text-ink-700">We&apos;ll email {form.email} within one US business day with slots for the call.</p>
+              <h3 className="mt-5 text-2xl font-bold">{duplicate ? `Welcome back, ${form.name.split(" ")[0]}.` : `Got it, ${form.name.split(" ")[0]}.`}</h3>
+              <p className="mt-2 text-ink-700">
+                {duplicate
+                  ? <>We already have {form.email} on file, so this didn&apos;t create a second request. If you haven&apos;t heard from us, email <a href={`mailto:${SALES_EMAIL}`} className="font-semibold underline">{SALES_EMAIL}</a> and we&apos;ll reply the same day.</>
+                  : <>We&apos;ll email {form.email} within one US business day with slots for the call.</>}
+              </p>
               {CALENDLY_URL ? (
                 <a href={CALENDLY_URL} target="_blank" rel="noreferrer" data-track="book_call" data-track-label="demo-done" className="btn-hard mt-6 inline-block rounded-full bg-signal px-5 py-2.5 font-display font-bold text-white">
                   Or pick a slot right now
