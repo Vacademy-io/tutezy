@@ -1,4 +1,4 @@
-import { AskRiya, Audience, CreateSteps, Features, Hero, HowItWorks, Nav, TeacherBand, Ticker, TryBand, UseCases } from "@/components/Sections";
+import { AskRiya, Audience, CreateSteps, Features, Hero, HowItWorks, LessonPeek, Nav, TeacherBand, Ticker, TryBand, UseCases } from "@/components/Sections";
 import { Pricing } from "@/components/Pricing";
 import { DemoForm } from "@/components/DemoForm";
 import { CaseStudies } from "@/components/CaseStudies";
@@ -10,6 +10,7 @@ export default function Page() {
       <Nav />
       <main>
         <Hero />
+        <LessonPeek />
         <AskRiya />
         <Ticker />
         <HowItWorks />

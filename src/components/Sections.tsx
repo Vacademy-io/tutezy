@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { useEffect, useRef, useState } from "react";
 import { LessonDemo } from "./LessonDemo";
+import { HeroVideo } from "./HeroVideo";
 import { HOME_ANCHORS, bookHref } from "@/lib/site";
 
 export const DEMO_HREF = "#demo";
@@ -84,10 +85,40 @@ export function Hero() {
           <span className="float absolute -start-3 -top-5 z-10 rotate-[-6deg] rounded-md bg-sticky px-3 py-1.5 font-chalk text-sm font-bold shadow-hard-sm" style={{ ["--tilt" as string]: "-6deg" }}>
             asks · listens · corrects
           </span>
-          <LessonDemo />
+          <HeroVideo />
           <span className="float absolute -bottom-4 -end-2 rotate-[4deg] rounded-md bg-mint px-3 py-1.5 font-chalk text-sm font-bold text-ink shadow-hard-sm" style={{ ["--tilt" as string]: "4deg" }}>
             $0.03 / min · no seats
           </span>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+/** The animated board mockup that used to sit in the hero — now the "what a lesson feels like" band below it. */
+export function LessonPeek() {
+  return (
+    <section className="border-t-2 border-ink bg-white" aria-label="What a lesson feels like">
+      <div className="wrap grid items-center gap-10 py-14 lg:grid-cols-[1fr_1.2fr] lg:py-20">
+        <div>
+          <p className="inline-block rounded-full bg-ink px-3 py-1 font-display text-xs font-bold uppercase tracking-wide text-paper">Inside a lesson</p>
+          <h2 className="mt-4 text-3xl font-extrabold sm:text-4xl">The board fills in as the teacher speaks</h2>
+          <p className="mt-4 text-ink-700">
+            No slide dump. A heading, then a line, then a diagram — at the pace a good teacher writes. After each concept the teacher asks,
+            waits for the student to answer by voice or text, and gives a hint before the answer. Every miss is remembered and revisited.
+          </p>
+          <ul className="mt-5 grid gap-2 text-sm font-semibold text-ink-700 sm:grid-cols-2">
+            <li>✓ Written live, sentence by sentence</li>
+            <li>✓ A question after every concept</li>
+            <li>✓ Hint first, then the answer, kept on the board</li>
+            <li>✓ Weak concepts revisited before moving on</li>
+          </ul>
+          <a href={TRY_HREF} data-track="try_lesson" data-track-label="lesson-peek" className="btn-hard mt-6 inline-block rounded-full bg-sticky px-5 py-2.5 font-display font-bold text-ink">
+            Take a 3-minute lesson yourself →
+          </a>
+        </div>
+        <div className="relative">
+          <LessonDemo />
         </div>
       </div>
     </section>
