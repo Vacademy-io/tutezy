@@ -69,7 +69,7 @@ export function Hero() {
               Book a 20-minute call
             </a>
             <a href={TRY_HREF} data-track="try_lesson" data-track-label="hero" className="btn-hard rounded-full bg-sticky px-5 py-3 font-display text-base font-bold text-ink">
-              Try a 3-minute lesson →
+              Try a 10-minute lesson →
             </a>
           </div>
           <p className="mt-6 inline-block rounded-md border-2 border-ink bg-white px-3 py-1.5 font-display text-sm font-bold">
@@ -114,7 +114,7 @@ export function LessonPeek() {
             <li>✓ Weak concepts revisited before moving on</li>
           </ul>
           <a href={TRY_HREF} data-track="try_lesson" data-track-label="lesson-peek" className="btn-hard mt-6 inline-block rounded-full bg-sticky px-5 py-2.5 font-display font-bold text-ink">
-            Take a 3-minute lesson yourself →
+            Take a 10-minute lesson yourself →
           </a>
         </div>
         <div className="relative">
@@ -515,7 +515,7 @@ export function CreateSteps() {
   );
 }
 
-/** The self-serve taste: three minutes with the teacher, no sign-up. */
+/** The self-serve taste: ten minutes with the teacher, no sign-up. */
 export function TryBand() {
   return (
     <section className="wrap py-10">
@@ -525,19 +525,20 @@ export function TryBand() {
           <h2 className="mt-2 text-3xl font-extrabold sm:text-4xl">Don&apos;t take our word for it. Take a lesson.</h2>
           <p className="mt-2 text-ink-700">Tell the teacher your name, pick a topic, and she starts teaching — board, voice, questions and all. One free session per visitor.</p>
         </div>
-        <a href={TRY_HREF} data-track="try_lesson" data-track-label="try-band" className="btn-hard rounded-full bg-ink px-6 py-3 font-display text-base font-bold text-paper">Start my 3-minute lesson →</a>
+        <a href={TRY_HREF} data-track="try_lesson" data-track-label="try-band" className="btn-hard rounded-full bg-ink px-6 py-3 font-display text-base font-bold text-paper">Start my 10-minute lesson →</a>
       </div>
     </section>
   );
 }
 
-/** The teacher asks first. A visitor says what they want; she answers and hands them the matching 3-minute lesson. */
+/** The teacher asks first. A visitor says what they want; she answers and hands them the matching 10-minute lesson. */
 export function AskRiya() {
   const wants = [
     { k: "chapters", label: "Teach my course chapters", topic: "photosynthesis", reply: "Give me any chapter — a PDF, a recording, slides — and I'll teach it on the board, one to one, in your teacher's voice. Try a chapter of mine first." },
     { k: "doubts", label: "Clear doubts after class", topic: "newton-second-law", reply: "Students bring the doubt, I explain it on the board, check they've got it, and note the concept for their teacher. Here's how I handle a physics one." },
     { k: "exam", label: "Walk through tough exam questions", topic: "neet-biology-tough", reply: "I take the question they got wrong, show the trap, then the fast method — and come back to it later. Watch me do a NEET one." },
-    { k: "interview", label: "Run mock interviews", topic: "aptitude-interview", reply: "I ask, I wait, I listen, then I give feedback and the model answer. Three questions in three minutes — want to try?" },
+    { k: "interview", label: "Run mock interviews", topic: "aptitude-interview", reply: "I ask, I wait, I listen, then I give feedback and the model answer. A full mock round in ten minutes — want to try?" },
+    { k: "speaking", label: "Build speaking confidence", topic: "public-speaking-opening", reply: "Students say it out loud, I listen, then I coach what they said — the opening, the structure, the confident wording — and show a stronger version. Try opening a talk with me." },
     { k: "revise", label: "Revise before exams", topic: "jee-maths-problem", reply: "Rapid boards, quick checks, at the pace the student picks — and I keep a list of what still needs work." },
     { k: "train", label: "Train my team", topic: "hr-training-feedback", reply: "Onboarding, compliance, skills: I set up a situation, your people try it, and I coach the attempt. Here's a feedback-skills practice round." },
     { k: "language", label: "Practise a language", topic: "spanish-basics", reply: "We talk. I correct as we go, and we build up to a real conversation. Start with your first Spanish coffee order." },

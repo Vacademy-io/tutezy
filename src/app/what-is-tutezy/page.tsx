@@ -124,9 +124,10 @@ export default function Page() {
 
       <h2>Try it before you read further</h2>
       <p>
-        There is a free, no-sign-up <a href="https://learner.vacademy.io/try">3-minute lesson</a> on one of ten sample topics — photosynthesis,
-        Newton’s second law, a tough NEET biology question, a JEE maths problem, Spanish basics, an HR feedback practice round and others. It
-        is the real product with a short timer, not a video.
+        There is a free, no-sign-up <a href="https://learner.vacademy.io/try">10-minute lesson</a> on one of the sample topics — photosynthesis,
+        Newton’s second law, a tough NEET biology question, a JEE maths problem, Spanish basics, an HR feedback practice round, and
+        speaking-skills practice — public speaking, presentations, confident introductions and storytelling — where the teacher listens
+        to what you say and coaches it. It is the real product with a timer, not a video.
       </p>
     </PageShell>
   );

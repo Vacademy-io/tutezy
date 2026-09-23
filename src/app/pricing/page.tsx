@@ -13,7 +13,7 @@ const faq: FaqItem[] = [
   ["Is GST included?", "INR prices exclude 18% GST. A GST invoice is issued for every credit purchase."],
   ["What is the avatar surcharge for?", "The lip-synced animated teacher costs more to render, so minutes with the avatar shown are billed at ₹5 / $0.05 instead of ₹3 / $0.03. Students can hide the avatar and you pay the base rate for those minutes."],
   ["What does a voice clone include?", "One teacher voice, cloned from a 15-second sample with recorded consent, usable across every course in your institute, in English and Hindi. ₹2,000 / $20 one-time."],
-  ["Can we try before buying credits?", "Yes. There is a free, no-sign-up 3-minute lesson at learner.vacademy.io/try, and a 20-minute demo where we convert one of your own chapters live."],
+  ["Can we try before buying credits?", "Yes. There is a free, no-sign-up 10-minute lesson at learner.vacademy.io/try, and a 20-minute demo where we convert one of your own chapters live."],
   ["Do we need to be on Vacademy?", "Tutezy runs inside the Vacademy learner app, so an institute not yet on Vacademy is onboarded first; migration from an existing platform is included. Vacademy’s own pricing is at vacademy.io/pricing."],
 ];
 

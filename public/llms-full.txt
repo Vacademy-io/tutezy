@@ -1,6 +1,6 @@
 # Tutezy by Vacademy — full site text
 
-Generated 2026-09-12 from https://tutezy.ai. Short summary: https://tutezy.ai/llms.txt
+Generated 2026-09-23 from https://tutezy.ai. Short summary: https://tutezy.ai/llms.txt
 
 
 ---
@@ -12,7 +12,7 @@ Personalised learning · AI live classes
 
 # Every student gets a live teacher . Every minute.
 Tutezy turns the content you already have into live whiteboard lessons: a teacher who speaks in your voice and face , asks, listens, corrects, and comes back to what each student found hard. Paid per minute, not per seat.
-Book a 20-minute call Try a 3-minute lesson →
+Book a 20-minute call Try a 10-minute lesson →
 Your content + Tutezy AI = an interactive, personalised learning experience
 
 - ✓ Works with your videos, PDFs & slides
@@ -31,7 +31,7 @@ No slide dump. A heading, then a line, then a diagram — at the pace a good tea
 - ✓ A question after every concept
 - ✓ Hint first, then the answer, kept on the board
 - ✓ Weak concepts revisited before moving on
-Take a 3-minute lesson yourself →
+Take a 10-minute lesson yourself →
 Physics · Force and motion · Board 1 of 4 Live
 
 Board is clear. Ready when you are.
@@ -45,7 +45,7 @@ Namaste Priya! Today: what makes a force, and how we measure it.
 
 R Riya · your Tutezy teacher
 Hi! How do you want me to teach your courses, or your students?
-Teach my course chapters Clear doubts after class Walk through tough exam questions Run mock interviews Revise before exams Train my team Practise a language
+Teach my course chapters Clear doubts after class Walk through tough exam questions Run mock interviews Build speaking confidence Revise before exams Train my team Practise a language
 
 Whiteboard lessons compiled from your content ✦ Voice lessons in English & हिंदी ✦ Checks, hints & remediation ✦ Weak-concept revisits ✦ Notes written as the lesson goes ✦ Your teacher's cloned voice ✦ Animated teacher avatar ✦ Insights & CSV export ✦ Pay per minute ✦ Whiteboard lessons compiled from your content ✦ Voice lessons in English & हिंदी ✦ Checks, hints & remediation ✦ Weak-concept revisits ✦ Notes written as the lesson goes ✦ Your teacher's cloned voice ✦ Animated teacher avatar ✦ Insights & CSV export ✦ Pay per minute ✦
 
@@ -116,7 +116,7 @@ No sign-up · 3 minutes · voice or text
 ## Don't take our word for it. Take a lesson.
 Tell the teacher your name, pick a topic, and she starts teaching — board, voice, questions and all. One free session per visitor.
 
-Start my 3-minute lesson →
+Start my 10-minute lesson →
 
 ## Not just courses. Every session an institute runs.
 Anything a teacher does one to one, Tutezy can do for every student — with a record of what each of them understood.
@@ -413,7 +413,7 @@ The full mechanism is on the how it works page; the setup screens are on the hom
 Tutezy is a module of Vacademy . Students use it inside the Vacademy learner app (web, Android, iOS), so an institute already on Vacademy adds it in an afternoon; an institute that is not gets onboarding covered on the demo. It is billed per learner-minute of live lesson — ₹3 or $0.03, ₹5 / $0.05 with the avatar on — from prepaid credits. There are no seat licences and no minimums. Details and worked examples are on the pricing page .
 
 ## Try it before you read further
-There is a free, no-sign-up 3-minute lesson on one of ten sample topics — photosynthesis, Newton’s second law, a tough NEET biology question, a JEE maths problem, Spanish basics, an HR feedback practice round and others. It is the real product with a short timer, not a video.
+There is a free, no-sign-up 10-minute lesson on one of the sample topics — photosynthesis, Newton’s second law, a tough NEET biology question, a JEE maths problem, Spanish basics, an HR feedback practice round, and speaking-skills practice — public speaking, presentations, confident introductions and storytelling — where the teacher listens to what you say and coaches it. It is the real product with a timer, not a video.
 
 ## Frequently asked questions
 Is Tutezy a chatbot?+
@@ -443,7 +443,7 @@ No. Tutezy runs inside the Vacademy learner app on web, Android and iOS, next to
 - Security & consent Security, privacy and voice consent at Tutezy
 - About About Tutezy and Vacademy
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -539,7 +539,7 @@ Yes. When the teacher marks a slide done, the same learner-progress records the 
 - Security & consent Security, privacy and voice consent at Tutezy
 - About About Tutezy and Vacademy
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -632,7 +632,7 @@ What does a voice clone include?+
 One teacher voice, cloned from a 15-second sample with recorded consent, usable across every course in your institute, in English and Hindi. ₹2,000 / $20 one-time.
 
 Can we try before buying credits?+
-Yes. There is a free, no-sign-up 3-minute lesson at learner.vacademy.io/try, and a 20-minute demo where we convert one of your own chapters live.
+Yes. There is a free, no-sign-up 10-minute lesson at learner.vacademy.io/try, and a 20-minute demo where we convert one of your own chapters live.
 
 Do we need to be on Vacademy?+
 Tutezy runs inside the Vacademy learner app, so an institute not yet on Vacademy is onboarded first; migration from an existing platform is included. Vacademy’s own pricing is at vacademy.io/pricing.
@@ -646,7 +646,7 @@ Tutezy runs inside the Vacademy learner app, so an institute not yet on Vacademy
 - Security & consent Security, privacy and voice consent at Tutezy
 - About About Tutezy and Vacademy
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -690,7 +690,7 @@ Most coaching batches, school sections and training cohorts in India are mixed: 
 - Corporate field-force training for sales, franchise and service staff across Hindi-speaking regions.
 
 ## Try it in Hindi
-The free 3-minute lesson can be taken in Hindi: pick a topic, tell the teacher your name, and switch language with the toggle once the board is up. Then book a demo and we will convert one of your own Hindi-medium chapters live.
+The free 10-minute lesson can be taken in Hindi: pick a topic, tell the teacher your name, and switch language with the toggle once the board is up. Then book a demo and we will convert one of your own Hindi-medium chapters live.
 
 ## Frequently asked questions
 Does Tutezy teach fully in Hindi, or only translate?+
@@ -720,7 +720,7 @@ No. ₹3 per learner-minute in either language, ₹5 with the avatar on.
 - Security & consent Security, privacy and voice consent at Tutezy
 - About About Tutezy and Vacademy
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -834,7 +834,7 @@ Where is our data stored, and who can see it?+
 Your content, compiled plans, student transcripts and reports belong to your institute and are visible only to your institute’s admins. They are not used to train models for other customers.
 
 Can we try it first?+
-Yes. A free, no-sign-up 3-minute lesson is at learner.vacademy.io/try, and a 20-minute demo converts one of your own chapters live.
+Yes. A free, no-sign-up 10-minute lesson is at learner.vacademy.io/try, and a 20-minute demo converts one of your own chapters live.
 
 ## Go deeper
 
@@ -845,7 +845,7 @@ Yes. A free, no-sign-up 3-minute lesson is at learner.vacademy.io/try, and a 20-
 - Security & consent Security, privacy and voice consent at Tutezy
 - About About Tutezy and Vacademy
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -945,7 +945,7 @@ Email hello@tutezy.ai. Security questionnaires are welcome; we answer them hones
 - FAQ Tutezy FAQ: 30 questions institutes ask
 - About About Tutezy and Vacademy
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -999,7 +999,7 @@ An AI-powered education operating system that replaces the usual stack of a sepa
 - FAQ Tutezy FAQ: 30 questions institutes ask
 - Security & consent Security, privacy and voice consent at Tutezy
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -1077,7 +1077,7 @@ Compare a single human tutor at ₹500 an hour: the same 20 minutes for one stud
 
 ## How to start
 
-- Take the free 3-minute lesson to see the board, the voice and a check.
+- Take the free 10-minute lesson to see the board, the voice and a check.
 - Book a 20-minute demo ; bring one chapter (PDF, video or deck) and we convert it live.
 - Turn on Tutor Mode, set the teacher and languages, compile one course, review, and open it to one batch.
 - Read the batch insights after a week and decide where to expand. Pricing is on the pricing page .
@@ -1109,7 +1109,7 @@ Institutes report the opposite: students arrive at the live class with their dou
 - Independent tutors AI tutor for independent tutors and educators
 - Universities AI tutor for universities and colleges
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -1185,7 +1185,7 @@ A CBSE school opens Tutezy for Classes 6–8 maths and science: 600 children, 20
 
 ## How to start
 
-- Take the free 3-minute lesson to see the board, the voice and a check.
+- Take the free 10-minute lesson to see the board, the voice and a check.
 - Book a 20-minute demo ; bring one chapter (PDF, video or deck) and we convert it live.
 - Turn on Tutor Mode, set the teacher and languages, compile one course, review, and open it to one batch.
 - Read the batch insights after a week and decide where to expand. Pricing is on the pricing page .
@@ -1214,7 +1214,7 @@ What does it cost per child?+
 - Independent tutors AI tutor for independent tutors and educators
 - Universities AI tutor for universities and colleges
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -1290,7 +1290,7 @@ A creator sells a 12-module data-analysis course at ₹4,999. She adds a “with
 
 ## How to start
 
-- Take the free 3-minute lesson to see the board, the voice and a check.
+- Take the free 10-minute lesson to see the board, the voice and a check.
 - Book a 20-minute demo ; bring one chapter (PDF, video or deck) and we convert it live.
 - Turn on Tutor Mode, set the teacher and languages, compile one course, review, and open it to one batch.
 - Read the batch insights after a week and decide where to expand. Pricing is on the pricing page .
@@ -1319,7 +1319,7 @@ It answers doubts about the material being taught and brings the lesson back to 
 - Independent tutors AI tutor for independent tutors and educators
 - Universities AI tutor for universities and colleges
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -1394,7 +1394,7 @@ A retail chain onboards 300 store staff a month with a 90-minute programme: 27,0
 
 ## How to start
 
-- Take the free 3-minute lesson to see the board, the voice and a check.
+- Take the free 10-minute lesson to see the board, the voice and a check.
 - Book a 20-minute demo ; bring one chapter (PDF, video or deck) and we convert it live.
 - Turn on Tutor Mode, set the teacher and languages, compile one course, review, and open it to one batch.
 - Read the batch insights after a week and decide where to expand. Pricing is on the pricing page .
@@ -1423,7 +1423,7 @@ What does it cost?+
 - Independent tutors AI tutor for independent tutors and educators
 - Universities AI tutor for universities and colleges
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -1496,7 +1496,7 @@ A physics tutor with 60 students across three batches turns on Tutezy for daily 
 
 ## How to start
 
-- Take the free 3-minute lesson to see the board, the voice and a check.
+- Take the free 10-minute lesson to see the board, the voice and a check.
 - Book a 20-minute demo ; bring one chapter (PDF, video or deck) and we convert it live.
 - Turn on Tutor Mode, set the teacher and languages, compile one course, review, and open it to one batch.
 - Read the batch insights after a week and decide where to expand. Pricing is on the pricing page .
@@ -1525,7 +1525,7 @@ What does it cost me?+
 - Corporate & HR AI trainer for corporate and HR training
 - Universities AI tutor for universities and colleges
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -1599,7 +1599,7 @@ An engineering college opens Tutezy on first-year Mathematics and Physics for 1,
 
 ## How to start
 
-- Take the free 3-minute lesson to see the board, the voice and a check.
+- Take the free 10-minute lesson to see the board, the voice and a check.
 - Book a 20-minute demo ; bring one chapter (PDF, video or deck) and we convert it live.
 - Turn on Tutor Mode, set the teacher and languages, compile one course, review, and open it to one batch.
 - Read the batch insights after a week and decide where to expand. Pricing is on the pricing page .
@@ -1628,7 +1628,7 @@ Content, transcripts and reports belong to the institution, are visible only to 
 - Corporate & HR AI trainer for corporate and HR training
 - Independent tutors AI tutor for independent tutors and educators
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -1673,7 +1673,7 @@ Scales to a batch | Yes | Per individual | Per individual | Yes | No |
 Third-party figures are approximate public list prices as of September 2026; check each product’s site.
 
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -1754,7 +1754,7 @@ No. It teaches from compiled institute content and answers doubts against it.
 - Tutezy vs recorded courses Tutezy vs recorded video courses
 - Tutezy vs human tutoring Tutezy vs one-to-one human tutoring
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -1833,7 +1833,7 @@ From roughly Class 4 upwards — children who can read a board and answer a ques
 - Tutezy vs recorded courses Tutezy vs recorded video courses
 - Tutezy vs human tutoring Tutezy vs one-to-one human tutoring
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -1912,7 +1912,7 @@ Video is free per view; Tutezy is ₹3 per learner-minute. A 30-minute chapter c
 - Tutezy vs Khanmigo Tutezy vs Khanmigo: your content vs a fixed curriculum
 - Tutezy vs human tutoring Tutezy vs one-to-one human tutoring
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call
@@ -1991,7 +1991,7 @@ Less than expected once they see it uses their own material and voice, reports t
 - Tutezy vs Khanmigo Tutezy vs Khanmigo: your content vs a fixed curriculum
 - Tutezy vs recorded courses Tutezy vs recorded video courses
 See it teach
-Take a 3-minute lesson, then book a demo on your own content.
+Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
 
 Try a lesson → Book a call

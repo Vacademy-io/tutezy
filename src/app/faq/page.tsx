@@ -61,7 +61,7 @@ const GROUPS: Array<[string, FaqItem[]]> = [
       ["How long does setup take?", "An afternoon. Turn on Tutor Mode (teacher, voice, languages, strictness), pick a course, see the cost, compile, review. No content team, no scripts, no new app for students."],
       ["What reports do we get?", "Per-student concept mastery, weak spots per batch, minutes taught, session summaries, notes, and a CSV export for the academic head. Every credit spent is itemised."],
       ["Where is our data stored, and who can see it?", "Your content, compiled plans, student transcripts and reports belong to your institute and are visible only to your institute’s admins. They are not used to train models for other customers."],
-      ["Can we try it first?", "Yes. A free, no-sign-up 3-minute lesson is at learner.vacademy.io/try, and a 20-minute demo converts one of your own chapters live."],
+      ["Can we try it first?", "Yes. A free, no-sign-up 10-minute lesson is at learner.vacademy.io/try, and a 20-minute demo converts one of your own chapters live."],
     ],
   ],
 ];

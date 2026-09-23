@@ -66,7 +66,7 @@ export function AudiencePage({ c }: { c: AudienceContent }) {
       <h2>How to start</h2>
       <ol>
         <li>
-          Take the free <a href="https://learner.vacademy.io/try">3-minute lesson</a> to see the board, the voice and a check.
+          Take the free <a href="https://learner.vacademy.io/try">10-minute lesson</a> to see the board, the voice and a check.
         </li>
         <li>
           <a href="/#demo">Book a 20-minute demo</a>; bring one chapter (PDF, video or deck) and we convert it live.

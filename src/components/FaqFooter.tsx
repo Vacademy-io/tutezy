@@ -114,7 +114,7 @@ export function Footer() {
                 {title === "Product" && (
                   <>
                     <li><a href="/#demo" className="font-semibold text-ink-300 hover:text-paper">Book a call</a></li>
-                    <li><a href="https://learner.vacademy.io/try" className="font-semibold text-ink-300 hover:text-paper">Try a 3-minute lesson</a></li>
+                    <li><a href="https://learner.vacademy.io/try" className="font-semibold text-ink-300 hover:text-paper">Try a 10-minute lesson</a></li>
                     <li><a href="https://vacademy.io" className="font-semibold text-ink-300 hover:text-paper">Vacademy</a></li>
                     <li><a href="https://vacademy.io/privacy-policy" className="font-semibold text-ink-300 hover:text-paper">Privacy</a></li>
                     <li><a href="/llms.txt" className="font-semibold text-ink-300 hover:text-paper">llms.txt</a></li>

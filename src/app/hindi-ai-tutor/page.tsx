@@ -80,7 +80,7 @@ export default function Page() {
 
       <h2>Try it in Hindi</h2>
       <p>
-        The free <a href="https://learner.vacademy.io/try">3-minute lesson</a> can be taken in Hindi: pick a topic, tell the teacher your name,
+        The free <a href="https://learner.vacademy.io/try">10-minute lesson</a> can be taken in Hindi: pick a topic, tell the teacher your name,
         and switch language with the toggle once the board is up. Then <a href="/#demo">book a demo</a> and we will convert one of your own
         Hindi-medium chapters live.
       </p>
