@@ -7,10 +7,10 @@ export const SITE = "https://tutezy.ai";
 export const SITE_NAME = "Tutezy by Vacademy";
 
 /**
- * Calendly event link for "Book a call". Empty string = not set yet; every
+ * Booking link (Google Calendar appointment page) for "Book a call". Empty string = not set yet; every
  * CTA then falls back to the demo form. Set once and every button follows.
  */
-export const CALENDLY_URL = "";
+export const CALENDLY_URL = "https://calendar.app.google/ZmH46Edm2SMWfce7A";
 export const bookHref = () => CALENDLY_URL || "/#demo";
 export const SALES_EMAIL = "hello@tutezy.ai";
 /** Owner decision 2026-09-12: US-first. Calls are taken in this window, stated plainly. */
