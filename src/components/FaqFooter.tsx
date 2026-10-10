@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { byGroup, HOURS_COPY, SALES_EMAIL } from "@/lib/site";
+import { postPath, postsByDate } from "@/content/posts";
 import { whatsappLink } from "@/lib/leadSubmit";
 import { JsonLd } from "./JsonLd";
 
@@ -60,17 +61,18 @@ export function Faq() {
 
 /** Home-page hand-off to the guide pages: the crawl path from the landing page to everything else. */
 export function Guides() {
-  const cols: Array<[string, ReturnType<typeof byGroup>]> = [
+  const cols: Array<[string, Array<{ path: string; label: string }>]> = [
     ["Understand Tutezy", byGroup("product")],
     ["Tutezy for your kind of institute", byGroup("audience")],
     ["Compared with the alternatives", byGroup("compare")],
+    ["From the blog", [...postsByDate().slice(0, 7).map((p) => ({ path: postPath(p.slug), label: p.title })), { path: "/blog/", label: "All posts →" }]],
   ];
   return (
     <section id="guides" className="border-t-2 border-ink bg-white">
       <div className="wrap py-14 lg:py-20">
         <h2 className="text-3xl font-extrabold sm:text-4xl">Read before you decide</h2>
         <p className="mt-3 max-w-2xl text-ink-700">Plain-language pages on what Tutezy is, what it costs, how it works for your kind of institute, and where it is not the right tool.</p>
-        <div className="mt-8 grid gap-6 md:grid-cols-3">
+        <div className="mt-8 grid gap-6 md:grid-cols-2 xl:grid-cols-4">
           {cols.map(([title, pages]) => (
             <div key={title} className="card-hard p-5">
               <h3 className="font-display text-lg font-bold">{title}</h3>

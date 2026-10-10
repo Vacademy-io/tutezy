@@ -4,6 +4,7 @@ import { Nav } from "./Sections";
 import { Footer } from "./FaqFooter";
 import { bookHref, findPage, HOURS_COPY, PAGES, SITE, SITE_NAME, type PageGroup } from "@/lib/site";
 import { JsonLd } from "./JsonLd";
+import { postPath, postsForPage } from "@/content/posts";
 
 export { JsonLd };
 
@@ -82,6 +83,28 @@ export function CtaBand({ topic }: { topic?: string }) {
         <a href={bookHref()} data-track="book_call" data-track-label="cta-band" className="btn-hard rounded-full bg-signal px-5 py-2.5 font-display font-bold text-white">Book a call</a>
       </div>
     </div>
+  );
+}
+
+/** Blog posts that support this guide page: the crawl path from a guide into the blog. */
+export function FromTheBlog({ path }: { path: string }) {
+  const posts = postsForPage(path);
+  if (!posts.length) return null;
+  return (
+    <nav className="not-prose mt-12" aria-label="From the blog">
+      <h2 className="text-2xl font-extrabold">From the blog</h2>
+      <ul className="mt-4 grid gap-3 sm:grid-cols-2">
+        {posts.map((p) => (
+          <li key={p.slug}>
+            <a href={postPath(p.slug)} className="card-hard block bg-white p-4 transition hover:bg-paper-2">
+              <span className="font-display text-xs font-bold uppercase tracking-wide text-signal">{p.category}</span>
+              <span className="mt-1 block font-display font-bold">{p.title}</span>
+              <span className="mt-1 block text-sm text-ink-700">{p.readMinutes} min read</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </nav>
   );
 }
 
@@ -172,6 +195,7 @@ export function PageShell({ path, eyebrow, heading, lede, parent, children, faq,
         <article className="wrap max-w-5xl py-10 lg:py-14">
           <div className="prose-t">{children}</div>
           {faq && <div className="prose-t"><FaqBlock items={faq} /></div>}
+          <FromTheBlog path={path} />
           {related && <Related group={related.group} except={path} title={related.title} />}
           <CtaBand topic={demoTopic} />
         </article>

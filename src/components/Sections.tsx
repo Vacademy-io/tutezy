@@ -11,32 +11,32 @@ export const TRY_HREF = "https://learner.vacademy.io/try";
 
 export function Nav() {
   const [open, setOpen] = useState(false);
-  const links = [...HOME_ANCHORS, ["/compare/", "Compare"]] as const;
+  const links = [...HOME_ANCHORS, ["/compare/", "Compare"], ["/blog/", "Blog"]] as const;
   return (
     <header className="sticky top-0 z-40 border-b-2 border-ink bg-paper/95 backdrop-blur">
       <div className="wrap flex items-center gap-4 py-3">
-        <a href="/" className="flex items-center gap-2" aria-label="Tutezy home">
+        <a href="/" className="flex shrink-0 items-center gap-2" aria-label="Tutezy home">
           <Image src="/logo.png" alt="tutezy.ai" width={520} height={150} className="h-10 w-auto sm:h-12" priority />
         </a>
-        <span className="hidden rounded-full border border-ink px-2 py-0.5 font-display text-[11px] font-semibold text-ink-700 md:inline">by Vacademy</span>
-        <nav className="ms-auto hidden items-center gap-6 md:flex" aria-label="Sections">
+        <span className="hidden shrink-0 rounded-full border border-ink px-2 py-0.5 font-display text-[11px] font-semibold text-ink-700 xl:inline">by Vacademy</span>
+        <nav className="ms-auto hidden items-center gap-5 lg:flex xl:gap-6" aria-label="Sections">
           {links.map(([href, label]) => (
-            <a key={href} href={href} className="text-sm font-semibold text-ink-700 hover:text-ink">
+            <a key={href} href={href} className="whitespace-nowrap text-sm font-semibold text-ink-700 hover:text-ink">
               {label}
             </a>
           ))}
         </nav>
-        <a href={bookHref()} data-track="book_call" data-track-label="nav" className="btn-hard ms-auto rounded-full bg-signal px-4 py-2 font-display text-sm font-bold text-white md:ms-4">
+        <a href={bookHref()} data-track="book_call" data-track-label="nav" className="btn-hard ms-auto shrink-0 whitespace-nowrap rounded-full bg-signal px-4 py-2 font-display text-sm font-bold text-white lg:ms-4">
           Book a call
         </a>
-        <button type="button" className="rounded-md border-2 border-ink p-1.5 md:hidden" aria-label="Menu" aria-expanded={open} onClick={() => setOpen((v) => !v)}>
+        <button type="button" className="rounded-md border-2 border-ink p-1.5 lg:hidden" aria-label="Menu" aria-expanded={open} onClick={() => setOpen((v) => !v)}>
           <span className="block h-0.5 w-5 bg-ink" />
           <span className="mt-1 block h-0.5 w-5 bg-ink" />
           <span className="mt-1 block h-0.5 w-5 bg-ink" />
         </button>
       </div>
       {open && (
-        <nav className="border-t-2 border-ink bg-paper px-4 py-3 md:hidden" aria-label="Sections">
+        <nav className="border-t-2 border-ink bg-paper px-4 py-3 lg:hidden" aria-label="Sections">
           {links.map(([href, label]) => (
             <a key={href} href={href} onClick={() => setOpen(false)} className="block py-2 font-semibold text-ink-700">
               {label}

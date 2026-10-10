@@ -67,7 +67,32 @@ and training companies, skill-development platforms.
 - [For independent tutors](https://tutezy.ai/for/tutors/)
 - [For universities](https://tutezy.ai/for/universities/)
 - [Compare](https://tutezy.ai/compare/): vs ChatGPT, Khanmigo, recorded courses, human tutoring
+- [Blog](https://tutezy.ai/blog/): guides on AI tutoring research, costs, buying and rollout
 - [Full text for language models](https://tutezy.ai/llms-full.txt)
+
+## Blog
+
+Guides on AI tutoring for course creators, test-prep and certification providers,
+tutoring businesses, schools and L&D teams. Index: https://tutezy.ai/blog/
+
+- [AI math tutors: teaching beyond the final answer](https://tutezy.ai/blog/ai-math-tutor-step-by-step/): Worked examples, targeted hints, error diagnosis and independent practice, with an algebra lesson and evaluation checklist.
+- [AI tutoring for STEM: from explanation to application](https://tutezy.ai/blog/ai-tutoring-for-stem-education/): Physics, biology and coding examples, content preparation and a practical STEM tutoring pilot.
+- [Diagnostic assessment for personalized learning](https://tutezy.ai/blog/diagnostic-assessment-personalized-learning/): Sample fraction questions and a process for turning evidence of learning gaps into targeted teaching.
+- [Socratic AI tutoring: questions that help students think](https://tutezy.ai/blog/socratic-ai-tutor-questioning/): A sample dialogue, a progressive hint ladder and rules for when to explain directly.
+- [Flipped classrooms with AI tutoring: a lesson plan](https://tutezy.ai/blog/flipped-classroom-ai-tutoring/): Preparation, a 50-minute classroom plan and targeted follow-up, with research context.
+- [Spaced repetition: a practical four-week study plan](https://tutezy.ai/blog/spaced-repetition-study-plan/): A revision calendar, retrieval tasks for different objectives and an actionable error log.
+- [Bloom's 2 sigma problem: can AI tutoring close the gap?](https://tutezy.ai/blog/blooms-2-sigma-problem-ai-tutoring/): What Bloom's 1984 tutoring study found, why later research shrank the effect, and what the newest AI tutoring trials say about one-to-one gains at scale.
+- [Checking for understanding: 12 techniques that work online](https://tutezy.ai/blog/checking-for-understanding-techniques/): Twelve ways to check for understanding online and 1:1, from hinge questions to predict-then-reveal, with examples, pitfalls and how an AI tutor uses them.
+- [How to improve online course completion rates](https://tutezy.ai/blog/improve-online-course-completion-rates/): Why most learners never finish an online course, which fixes the research supports, and a 30-day plan: shorter units, retrieval, deadlines and live help.
+- [How to choose AI tutoring software: 12 questions to ask](https://tutezy.ai/blog/how-to-choose-ai-tutoring-software/): A buyer's checklist for evaluating AI tutoring software: grounding, teaching method, voice, reports, data privacy, total cost, and how to run a two-week pilot.
+- [How much does an AI tutor cost? Pricing models compared](https://tutezy.ai/blog/ai-tutor-cost/): Per-seat, per-minute, build-your-own and human tutoring costs compared, with worked examples for a 100-student cohort and the hidden costs to budget for.
+- [Will an AI tutor make things up? Keeping it grounded](https://tutezy.ai/blog/ai-tutor-hallucinations-grounding/): Why AI tutors make things up, the design choices that keep one faithful to your own material, and a 10-minute test to run before students see it.
+- [How to add an AI tutor to your online course](https://tutezy.ai/blog/add-ai-tutor-to-online-course/): Three ways to add an AI tutor to your course: your platform's assistant, a custom GPT or Claude Project, or a live teaching tutor, and the trade-offs.
+- [Turn PDFs, slides and videos into interactive lessons with AI](https://tutezy.ai/blog/turn-pdf-slides-into-interactive-lessons/): How to convert the PDFs, slides and videos you already have into interactive lessons with checks, hints and diagrams, and what a human must still review.
+- [AI voice cloning for teachers: consent, quality and cost](https://tutezy.ai/blog/ai-voice-cloning-for-teachers/): Before cloning a teacher's voice for lessons: how much audio it takes, how to record consent, what to tell students, what US law says, and the cost.
+- [AI tutoring for certification exam prep: a playbook](https://tutezy.ai/blog/ai-tutoring-certification-exam-prep/): How nursing, accounting, PM and IT exam-prep providers can use AI tutoring for mock-test reviews and weak-area remediation without off-syllabus answers.
+- [How to scale a tutoring business with AI](https://tutezy.ai/blog/scale-tutoring-business-with-ai/): For tutoring companies and independent tutors: which work an AI tutor can take on, what must stay human, the margin math, and how to explain it to parents.
+- [AI-led employee onboarding training: a guide for L&D](https://tutezy.ai/blog/ai-employee-onboarding-training/): How L&D teams can teach onboarding, compliance and product knowledge one to one with an AI trainer built from existing decks, plus a 30-day rollout plan.
 
 ## Try and contact
 

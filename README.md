@@ -54,3 +54,14 @@ No environment variables. Demo requests post from the browser to the Vacademy CR
   `scripts/llms-full.mjs` as part of `pnpm build`.
 - After deploy: submit `https://tutezy.ai/sitemap.xml` in Google Search Console and Bing
   Webmaster Tools, and check Cloudflare → Security → Bots that "Block AI bots" is OFF.
+
+## Blog
+
+- Registry: `src/content/posts.ts` (title, description, category, keywords, dates, cover, and the guide pages each
+  post supports). Every folder under `src/app/blog/<slug>/` needs an entry; the registry drives `/blog/`, the sitemap,
+  `llms-full.txt`, the home "From the blog" column and the "From the blog" block on the guide pages listed in `pages`.
+- Template: `src/components/BlogShell.tsx` (`postMetadata`, BlogPosting + BreadcrumbList + FAQPage JSON-LD, takeaways,
+  table of contents, `Callout`, `Steps`, `Figure`, `WhereTutezyFits`, `Sources`).
+- Covers: `public/images/blog/<slug>.jpg`, 1376×768, seedream-5-0-pro via OpenRouter, flat brand palette, no text.
+  Never reuse a filename for a new image (Cloudflare caches it).
+- Add the new post to the Blog list in `public/llms.txt` by hand.

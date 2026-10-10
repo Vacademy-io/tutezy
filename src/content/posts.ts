@@ -1,0 +1,251 @@
+/**
+ * Blog registry. Every post folder under src/app/blog/<slug>/ must have an
+ * entry here: it feeds the /blog/ index, the sitemap, llms-full.txt, the
+ * "From the blog" links on guide pages and each post's metadata + schema.
+ */
+export type PostCategory = "Learning science" | "Buyer's guide" | "Course creators" | "Trust & safety" | "Exam prep" | "Tutoring business" | "Corporate training";
+
+export interface Post {
+  slug: string;
+  /** <title> and H1. Keep under ~60 characters; the layout adds " | Tutezy". */
+  title: string;
+  /** Meta description, ~150–160 characters. */
+  description: string;
+  category: PostCategory;
+  keywords: string[];
+  /** ISO dates. */
+  published: string;
+  updated?: string;
+  readMinutes: number;
+  /** Cover art, 1376×768, under /public. */
+  image: string;
+  imageAlt: string;
+  /** Guide pages this post supports; those pages link back to it. */
+  pages: string[];
+}
+
+export const POSTS: Post[] = [
+  {
+    slug: "ai-math-tutor-step-by-step",
+    title: "AI math tutors: teaching beyond the final answer",
+    description: "What to look for in an AI math tutor: worked examples, useful hints, error diagnosis and independent practice, with an algebra lesson schools can adapt.",
+    category: "Buyer's guide",
+    keywords: ["AI math tutor", "step by step math tutoring", "AI algebra tutor", "math tutoring for schools"],
+    published: "2026-10-10",
+    readMinutes: 5,
+    image: "/images/blog/how-to-choose-ai-tutoring-software.jpg",
+    imageAlt: "An educator comparing lesson screens with a checklist and magnifying glass",
+    pages: ["/for/schools/", "/for/tutors/", "/compare/tutezy-vs-chatgpt/"],
+  },
+  {
+    slug: "ai-tutoring-for-stem-education",
+    title: "AI tutoring for STEM: from explanation to application",
+    description: "A practical guide to AI tutoring for STEM education, with physics, biology and coding examples, lesson design checks and a plan for evaluating learning.",
+    category: "Course creators",
+    keywords: ["AI tutoring for STEM education", "AI science tutor", "AI physics tutor", "interactive STEM lessons"],
+    published: "2026-10-10",
+    readMinutes: 5,
+    image: "/images/blog/turn-pdf-slides-into-interactive-lessons.jpg",
+    imageAlt: "Course documents and videos flowing into an interactive whiteboard lesson",
+    pages: ["/for/universities/", "/for/schools/", "/for/course-creators/"],
+  },
+  {
+    slug: "diagnostic-assessment-personalized-learning",
+    title: "Diagnostic assessment for personalized learning",
+    description: "Build a diagnostic assessment that identifies learning gaps and leads to useful support, with sample fraction questions and a personalized learning plan.",
+    category: "Learning science",
+    keywords: ["diagnostic assessment", "personalized learning plan", "identify learning gaps", "AI tutoring assessment"],
+    published: "2026-10-10",
+    readMinutes: 5,
+    image: "/images/blog/checking-for-understanding-techniques.jpg",
+    imageAlt: "A learner answering a teacher's question on a laptop with question and check-mark bubbles",
+    pages: ["/for/schools/", "/for/coaching-institutes/", "/how-it-works/"],
+  },
+  {
+    slug: "socratic-ai-tutor-questioning",
+    title: "Socratic AI tutoring: questions that help students think",
+    description: "How to use Socratic questioning in AI tutoring, with a sample dialogue, a hint ladder and clear rules for when to explain instead of asking more questions.",
+    category: "Learning science",
+    keywords: ["Socratic AI tutor", "Socratic questioning examples", "AI tutoring hints", "teaching critical thinking with AI"],
+    published: "2026-10-10",
+    readMinutes: 5,
+    image: "/images/blog/blooms-2-sigma-problem-ai-tutoring.jpg",
+    imageAlt: "A tutor working individually with a student while a lecture hall sits in the background",
+    pages: ["/how-it-works/", "/for/tutors/", "/compare/tutezy-vs-chatgpt/"],
+  },
+  {
+    slug: "flipped-classroom-ai-tutoring",
+    title: "Flipped classrooms with AI tutoring: a lesson plan",
+    description: "Plan a flipped classroom with AI tutoring before class, collaborative practice during class and focused follow-up, including a sample 50-minute lesson.",
+    category: "Course creators",
+    keywords: ["flipped classroom AI", "AI tutoring blended learning", "flipped classroom lesson plan", "pre class learning"],
+    published: "2026-10-10",
+    readMinutes: 5,
+    image: "/images/blog/add-ai-tutor-to-online-course.jpg",
+    imageAlt: "A course creator preparing video material and a live tutoring lesson on two screens",
+    pages: ["/for/universities/", "/for/course-creators/", "/compare/tutezy-vs-recorded-courses/"],
+  },
+  {
+    slug: "spaced-repetition-study-plan",
+    title: "Spaced repetition: a practical four-week study plan",
+    description: "Combine spaced repetition and retrieval practice in a four-week revision plan, with examples for facts, calculations and explanations plus an error log.",
+    category: "Exam prep",
+    keywords: ["spaced repetition study plan", "retrieval practice examples", "exam revision schedule", "AI tutor for revision"],
+    published: "2026-10-10",
+    readMinutes: 5,
+    image: "/images/blog/ai-tutoring-certification-exam-prep.jpg",
+    imageAlt: "A learner revising with a laptop, practice papers and a calendar at a kitchen table",
+    pages: ["/for/coaching-institutes/", "/for/tutors/", "/for/universities/"],
+  },
+  {
+    slug: "blooms-2-sigma-problem-ai-tutoring",
+    title: "Bloom's 2 sigma problem: can AI tutoring close the gap?",
+    description: "What Bloom's 1984 tutoring study found, why later research shrank the effect, and what the newest AI tutoring trials say about one-to-one gains at scale.",
+    category: "Learning science",
+    keywords: ["Bloom's 2 sigma problem", "one-to-one tutoring effect size", "AI tutoring research", "mastery learning", "AI tutor studies"],
+    published: "2026-09-25",
+    readMinutes: 13,
+    image: "/images/blog/blooms-2-sigma-problem-ai-tutoring.jpg",
+    imageAlt: "A tutor working one to one with a student at a desk while a large lecture hall sits in the background",
+    pages: ["/how-it-works/", "/compare/tutezy-vs-human-tutoring/"],
+  },
+  {
+    slug: "checking-for-understanding-techniques",
+    title: "Checking for understanding: 12 techniques that work online",
+    description: "Twelve ways to check for understanding online and 1:1, from hinge questions to predict-then-reveal, with examples, pitfalls and how an AI tutor uses them.",
+    category: "Learning science",
+    keywords: ["checking for understanding strategies", "checking for understanding techniques", "formative assessment online", "hinge questions", "retrieval practice"],
+    published: "2026-09-25",
+    readMinutes: 13,
+    image: "/images/blog/checking-for-understanding-techniques.jpg",
+    imageAlt: "A student at a laptop answering a question from a teacher, with question and tick speech bubbles",
+    pages: ["/how-it-works/", "/for/schools/"],
+  },
+  {
+    slug: "improve-online-course-completion-rates",
+    title: "How to improve online course completion rates",
+    description: "Why most learners never finish an online course, which fixes the research supports, and a 30-day plan: shorter units, retrieval, deadlines and live help.",
+    category: "Course creators",
+    keywords: ["online course completion rates", "improve course completion", "online course engagement", "MOOC completion rate", "student retention online course"],
+    published: "2026-09-25",
+    readMinutes: 12,
+    image: "/images/blog/improve-online-course-completion-rates.jpg",
+    imageAlt: "Learners on a winding path, most stopping early, one helped towards the finish flag by a guide",
+    pages: ["/for/course-creators/", "/compare/tutezy-vs-recorded-courses/"],
+  },
+  {
+    slug: "how-to-choose-ai-tutoring-software",
+    title: "How to choose AI tutoring software: 12 questions to ask",
+    description: "A buyer's checklist for evaluating AI tutoring software: grounding, teaching method, voice, reports, data privacy, total cost, and how to run a two-week pilot.",
+    category: "Buyer's guide",
+    keywords: ["AI tutoring software", "AI tutor platform", "best AI tutor for schools", "evaluate AI tutor", "AI tutoring vendor checklist"],
+    published: "2026-09-25",
+    readMinutes: 12,
+    image: "/images/blog/how-to-choose-ai-tutoring-software.jpg",
+    imageAlt: "An education administrator comparing lesson screens on three tablets with a checklist and magnifying glass",
+    pages: ["/what-is-tutezy/", "/compare/", "/security/"],
+  },
+  {
+    slug: "ai-tutor-cost",
+    title: "How much does an AI tutor cost? Pricing models compared",
+    description: "Per-seat, per-minute, build-your-own and human tutoring costs compared, with worked examples for a 100-student cohort and the hidden costs to budget for.",
+    category: "Buyer's guide",
+    keywords: ["AI tutor cost", "AI tutoring pricing", "cost of AI tutor per student", "AI tutor vs human tutor cost", "per-minute AI tutor pricing"],
+    published: "2026-09-25",
+    readMinutes: 11,
+    image: "/images/blog/ai-tutor-cost.jpg",
+    imageAlt: "A balance scale weighing a stopwatch against coins next to a laptop showing a whiteboard lesson",
+    pages: ["/pricing/", "/compare/tutezy-vs-human-tutoring/"],
+  },
+  {
+    slug: "ai-tutor-hallucinations-grounding",
+    title: "Will an AI tutor make things up? Keeping it grounded",
+    description: "Why AI tutors make things up, the design choices that keep one faithful to your own material, and a 10-minute test to run before students see it.",
+    category: "Trust & safety",
+    keywords: ["AI tutor hallucinations", "AI tutor accuracy", "grounded AI tutor", "AI in education risks", "AI tutor trained on your content"],
+    published: "2026-09-25",
+    readMinutes: 11,
+    image: "/images/blog/ai-tutor-hallucinations-grounding.jpg",
+    imageAlt: "A whiteboard lesson on a laptop anchored by a rope to a stack of the institute's own books and slides",
+    pages: ["/how-it-works/", "/security/", "/compare/tutezy-vs-chatgpt/"],
+  },
+  {
+    slug: "add-ai-tutor-to-online-course",
+    title: "How to add an AI tutor to your online course",
+    description: "Three ways to add an AI tutor to your course: your platform's assistant, a custom GPT or Claude Project, or a live teaching tutor, and the trade-offs.",
+    category: "Course creators",
+    keywords: ["add AI tutor to online course", "AI tutor for course creators", "AI course assistant", "custom GPT for online course", "AI tutor for Teachable or Kajabi courses"],
+    published: "2026-09-25",
+    readMinutes: 12,
+    image: "/images/blog/add-ai-tutor-to-online-course.jpg",
+    imageAlt: "A course creator's desk with a video course on one screen and a teacher avatar tutoring a student on another",
+    pages: ["/for/course-creators/", "/compare/tutezy-vs-chatgpt/"],
+  },
+  {
+    slug: "turn-pdf-slides-into-interactive-lessons",
+    title: "Turn PDFs, slides and videos into interactive lessons with AI",
+    description: "How to convert the PDFs, slides and videos you already have into interactive lessons with checks, hints and diagrams, and what a human must still review.",
+    category: "Course creators",
+    keywords: ["convert PDF to interactive lesson", "turn slides into interactive lesson", "AI lesson generator from PDF", "interactive lessons from video", "repurpose course content with AI"],
+    published: "2026-09-25",
+    readMinutes: 11,
+    image: "/images/blog/turn-pdf-slides-into-interactive-lessons.jpg",
+    imageAlt: "PDFs, a slide deck and a film strip flowing into an interactive whiteboard lesson with a question bubble",
+    pages: ["/how-it-works/", "/for/course-creators/"],
+  },
+  {
+    slug: "ai-voice-cloning-for-teachers",
+    title: "AI voice cloning for teachers: consent, quality and cost",
+    description: "Before cloning a teacher's voice for lessons: how much audio it takes, how to record consent, what to tell students, what US law says, and the cost.",
+    category: "Trust & safety",
+    keywords: ["AI voice clone for teachers", "clone my voice for online course", "voice cloning consent", "AI voice for e-learning", "teacher voice AI"],
+    published: "2026-09-25",
+    readMinutes: 12,
+    image: "/images/blog/ai-voice-cloning-for-teachers.jpg",
+    imageAlt: "A teacher speaking into a studio microphone while her avatar teaches a student on a laptop, beside a signed consent form",
+    pages: ["/security/", "/pricing/"],
+  },
+  {
+    slug: "ai-tutoring-certification-exam-prep",
+    title: "AI tutoring for certification exam prep: a playbook",
+    description: "How nursing, accounting, PM and IT exam-prep providers can use AI tutoring for mock-test reviews and weak-area remediation without off-syllabus answers.",
+    category: "Exam prep",
+    keywords: ["AI tutor for exam prep", "AI tutoring for certification exams", "NCLEX prep AI tutor", "CPA exam AI tutor", "PMP exam prep AI", "test prep AI"],
+    published: "2026-09-25",
+    readMinutes: 12,
+    image: "/images/blog/ai-tutoring-certification-exam-prep.jpg",
+    imageAlt: "An adult learner studying at a kitchen table at night with a laptop lesson, practice papers and a calendar",
+    pages: ["/for/coaching-institutes/", "/for/course-creators/"],
+  },
+  {
+    slug: "scale-tutoring-business-with-ai",
+    title: "How to scale a tutoring business with AI",
+    description: "For tutoring companies and independent tutors: which work an AI tutor can take on, what must stay human, the margin math, and how to explain it to parents.",
+    category: "Tutoring business",
+    keywords: ["scale tutoring business", "AI for tutoring companies", "grow a tutoring business", "AI tutor for tutors", "hybrid tutoring model"],
+    published: "2026-09-25",
+    readMinutes: 11,
+    image: "/images/blog/scale-tutoring-business-with-ai.jpg",
+    imageAlt: "A tutor connected to many students learning on laptops and phones at home, with a parent reading a progress chart",
+    pages: ["/for/tutors/", "/compare/tutezy-vs-human-tutoring/"],
+  },
+  {
+    slug: "ai-employee-onboarding-training",
+    title: "AI-led employee onboarding training: a guide for L&D",
+    description: "How L&D teams can teach onboarding, compliance and product knowledge one to one with an AI trainer built from existing decks, plus a 30-day rollout plan.",
+    category: "Corporate training",
+    keywords: ["AI employee onboarding training", "AI for L&D", "AI corporate training", "AI compliance training", "AI trainer for employees"],
+    published: "2026-09-25",
+    readMinutes: 10,
+    image: "/images/blog/ai-employee-onboarding-training.jpg",
+    imageAlt: "A new employee with a headset taking a one-to-one lesson on a laptop whiteboard at an office desk",
+    pages: ["/for/corporate-training/"],
+  },
+];
+
+export const findPost = (slug: string) => POSTS.find((p) => p.slug === slug);
+export const postPath = (slug: string) => `/blog/${slug}/`;
+/** Newest first; registry order breaks ties. */
+export const postsByDate = () => [...POSTS].sort((a, b) => b.published.localeCompare(a.published));
+/** Posts that support a guide page (for its "From the blog" block). */
+export const postsForPage = (path: string) => POSTS.filter((p) => p.pages.includes(path));
