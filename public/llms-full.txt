@@ -1,6 +1,6 @@
 # Tutezy by Vacademy — full site text
 
-Generated 2026-10-10 from https://tutezy.ai. Short summary: https://tutezy.ai/llms.txt
+Generated 2026-10-13 from https://tutezy.ai. Short summary: https://tutezy.ai/llms.txt
 
 
 ---
@@ -368,13 +368,13 @@ Plain-language pages on what Tutezy is, what it costs, how it works for your kin
 
 ### From the blog
 
+- AI whiteboard tutors: what to look for in a lesson
+- AI speaking practice: a plan for clearer presentations
+- Learning analytics for teachers: from report to action
+- AI product knowledge training for sales and support
+- Turn a question bank into AI tutoring lessons
 - AI tutor vs LMS: what does your institute need?
 - Hindi-English AI tutoring: a bilingual lesson guide
-- Mock test analysis: turn mistakes into a study plan
-- Remedial teaching with AI: a practical classroom plan
-- AI homework help that builds independent thinking
-- AI math tutors: teaching beyond the final answer
-- AI tutoring for STEM: from explanation to application
 - All posts →
 
 
@@ -449,6 +449,7 @@ No. Tutezy runs inside the Vacademy learner app on web, Android and iOS, next to
 
 ## From the blog
 
+- Buyer's guide AI whiteboard tutors: what to look for in a lesson 5 min read
 - Buyer's guide AI tutor vs LMS: what does your institute need? 5 min read
 - Buyer's guide How to choose AI tutoring software: 12 questions to ask 12 min read
 
@@ -551,6 +552,9 @@ Yes. When the teacher marks a slide done, the same learner-progress records the 
 
 ## From the blog
 
+- Buyer's guide AI whiteboard tutors: what to look for in a lesson 5 min read
+- Learning science Learning analytics for teachers: from report to action 5 min read
+- Corporate training AI product knowledge training for sales and support 5 min read
 - Learning science Remedial teaching with AI: a practical classroom plan 5 min read
 - Learning science Diagnostic assessment for personalized learning 5 min read
 - Learning science Socratic AI tutoring: questions that help students think 5 min read
@@ -1012,7 +1016,7 @@ URL: https://tutezy.ai/blog/
 # The Tutezy blog
 Practical guides on AI tutoring for the people who run learning: course creators, test-prep and certification providers, tutoring businesses, schools and L&D teams. What the research says, what things cost, and how to roll it out without losing what learners pay for.
 
-Buyer's guide AI tutor vs LMS: what does your institute need? Compare an AI tutor with a learning management system: teaching, course delivery, assessments and reporting, plus a checklist for using them together. 5 min read Buyer's guide AI math tutors: teaching beyond the final answer What to look for in an AI math tutor: worked examples, useful hints, error diagnosis and independent practice, with an algebra lesson schools can adapt. 5 min read Course creators Hindi-English AI tutoring: a bilingual lesson guide Plan Hindi-English AI tutoring with consistent subject vocabulary, bilingual explanations and checks for understanding, plus a sample science lesson. 5 min read Course creators AI tutoring for STEM: from explanation to application A practical guide to AI tutoring for STEM education, with physics, biology and coding examples, lesson design checks and a plan for evaluating learning. 5 min read Course creators Flipped classrooms with AI tutoring: a lesson plan Plan a flipped classroom with AI tutoring before class, collaborative practice during class and focused follow-up, including a sample 50-minute lesson. 5 min read Exam prep Mock test analysis: turn mistakes into a study plan Use mock test analysis to separate concept gaps, slips and time pressure, then build a focused revision plan with an error log and AI tutoring support. 5 min read Exam prep Spaced repetition: a practical four-week study plan Combine spaced repetition and retrieval practice in a four-week revision plan, with examples for facts, calculations and explanations plus an error log. 5 min read Learning science Remedial teaching with AI: a practical classroom plan Design remedial teaching around a specific learning gap, with a worked fraction lesson, a two-week support plan and checks for independent progress. 5 min read Learning science Diagnostic assessment for personalized learning Build a diagnostic assessment that identifies learning gaps and leads to useful support, with sample fraction questions and a personalized learning plan. 5 min read Learning science Socratic AI tutoring: questions that help students think How to use Socratic questioning in AI tutoring, with a sample dialogue, a hint ladder and clear rules for when to explain instead of asking more questions. 5 min read Trust & safety AI homework help that builds independent thinking Design AI homework help around first attempts, targeted hints and independent checks, with a sample algebra exchange and a classroom policy template. 5 min read Buyer's guide How to choose AI tutoring software: 12 questions to ask A buyer's checklist for evaluating AI tutoring software: grounding, teaching method, voice, reports, data privacy, total cost, and how to run a two-week pilot. 12 min read Buyer's guide How much does an AI tutor cost? Pricing models compared Per-seat, per-minute, build-your-own and human tutoring costs compared, with worked examples for a 100-student cohort and the hidden costs to budget for. 11 min read Course creators How to improve online course completion rates Why most learners never finish an online course, which fixes the research supports, and a 30-day plan: shorter units, retrieval, deadlines and live help. 12 min read Course creators How to add an AI tutor to your online course Three ways to add an AI tutor to your course: your platform's assistant, a custom GPT or Claude Project, or a live teaching tutor, and the trade-offs. 12 min read Course creators Turn PDFs, slides and videos into interactive lessons with AI How to convert the PDFs, slides and videos you already have into interactive lessons with checks, hints and diagrams, and what a human must still review. 11 min read Exam prep AI tutoring for certification exam prep: a playbook How nursing, accounting, PM and IT exam-prep providers can use AI tutoring for mock-test reviews and weak-area remediation without off-syllabus answers. 12 min read Tutoring business How to scale a tutoring business with AI For tutoring companies and independent tutors: which work an AI tutor can take on, what must stay human, the margin math, and how to explain it to parents. 11 min read Corporate training AI-led employee onboarding training: a guide for L&D How L&D teams can teach onboarding, compliance and product knowledge one to one with an AI trainer built from existing decks, plus a 30-day rollout plan. 10 min read Learning science Bloom's 2 sigma problem: can AI tutoring close the gap? What Bloom's 1984 tutoring study found, why later research shrank the effect, and what the newest AI tutoring trials say about one-to-one gains at scale. 13 min read Learning science Checking for understanding: 12 techniques that work online Twelve ways to check for understanding online and 1:1, from hinge questions to predict-then-reveal, with examples, pitfalls and how an AI tutor uses them. 13 min read Trust & safety Will an AI tutor make things up? Keeping it grounded Why AI tutors make things up, the design choices that keep one faithful to your own material, and a 10-minute test to run before students see it. 11 min read Trust & safety AI voice cloning for teachers: consent, quality and cost Before cloning a teacher's voice for lessons: how much audio it takes, how to record consent, what to tell students, what US law says, and the cost. 12 min read
+Buyer's guide AI whiteboard tutors: what to look for in a lesson Evaluate an AI whiteboard tutor with a worked graph lesson, checks for diagram accuracy and a practical demo checklist for schools and course creators. 5 min read Course creators AI speaking practice: a plan for clearer presentations Build an AI speaking practice routine with short presentation prompts, a feedback rubric and repeat attempts, plus a sample opening learners can adapt. 5 min read Exam prep Turn a question bank into AI tutoring lessons Prepare a question bank for AI tutoring with concept tags, reviewed explanations and useful hints, plus a sample multiple-choice question teaching plan. 5 min read Corporate training AI product knowledge training for sales and support Turn product documentation into AI training for sales and support, with customer scenarios, an answer rubric and a review process for changing features. 5 min read Learning science Learning analytics for teachers: from report to action Use learning analytics to plan the next lesson: distinguish activity from understanding, review concept gaps and turn student reports into teaching actions. 5 min read Buyer's guide AI tutor vs LMS: what does your institute need? Compare an AI tutor with a learning management system: teaching, course delivery, assessments and reporting, plus a checklist for using them together. 5 min read Buyer's guide AI math tutors: teaching beyond the final answer What to look for in an AI math tutor: worked examples, useful hints, error diagnosis and independent practice, with an algebra lesson schools can adapt. 5 min read Course creators Hindi-English AI tutoring: a bilingual lesson guide Plan Hindi-English AI tutoring with consistent subject vocabulary, bilingual explanations and checks for understanding, plus a sample science lesson. 5 min read Course creators AI tutoring for STEM: from explanation to application A practical guide to AI tutoring for STEM education, with physics, biology and coding examples, lesson design checks and a plan for evaluating learning. 5 min read Course creators Flipped classrooms with AI tutoring: a lesson plan Plan a flipped classroom with AI tutoring before class, collaborative practice during class and focused follow-up, including a sample 50-minute lesson. 5 min read Exam prep Mock test analysis: turn mistakes into a study plan Use mock test analysis to separate concept gaps, slips and time pressure, then build a focused revision plan with an error log and AI tutoring support. 5 min read Exam prep Spaced repetition: a practical four-week study plan Combine spaced repetition and retrieval practice in a four-week revision plan, with examples for facts, calculations and explanations plus an error log. 5 min read Learning science Remedial teaching with AI: a practical classroom plan Design remedial teaching around a specific learning gap, with a worked fraction lesson, a two-week support plan and checks for independent progress. 5 min read Learning science Diagnostic assessment for personalized learning Build a diagnostic assessment that identifies learning gaps and leads to useful support, with sample fraction questions and a personalized learning plan. 5 min read Learning science Socratic AI tutoring: questions that help students think How to use Socratic questioning in AI tutoring, with a sample dialogue, a hint ladder and clear rules for when to explain instead of asking more questions. 5 min read Trust & safety AI homework help that builds independent thinking Design AI homework help around first attempts, targeted hints and independent checks, with a sample algebra exchange and a classroom policy template. 5 min read Buyer's guide How to choose AI tutoring software: 12 questions to ask A buyer's checklist for evaluating AI tutoring software: grounding, teaching method, voice, reports, data privacy, total cost, and how to run a two-week pilot. 12 min read Buyer's guide How much does an AI tutor cost? Pricing models compared Per-seat, per-minute, build-your-own and human tutoring costs compared, with worked examples for a 100-student cohort and the hidden costs to budget for. 11 min read Course creators How to improve online course completion rates Why most learners never finish an online course, which fixes the research supports, and a 30-day plan: shorter units, retrieval, deadlines and live help. 12 min read Course creators How to add an AI tutor to your online course Three ways to add an AI tutor to your course: your platform's assistant, a custom GPT or Claude Project, or a live teaching tutor, and the trade-offs. 12 min read Course creators Turn PDFs, slides and videos into interactive lessons with AI How to convert the PDFs, slides and videos you already have into interactive lessons with checks, hints and diagrams, and what a human must still review. 11 min read Exam prep AI tutoring for certification exam prep: a playbook How nursing, accounting, PM and IT exam-prep providers can use AI tutoring for mock-test reviews and weak-area remediation without off-syllabus answers. 12 min read Tutoring business How to scale a tutoring business with AI For tutoring companies and independent tutors: which work an AI tutor can take on, what must stay human, the margin math, and how to explain it to parents. 11 min read Corporate training AI-led employee onboarding training: a guide for L&D How L&D teams can teach onboarding, compliance and product knowledge one to one with an AI trainer built from existing decks, plus a 30-day rollout plan. 10 min read Learning science Bloom's 2 sigma problem: can AI tutoring close the gap? What Bloom's 1984 tutoring study found, why later research shrank the effect, and what the newest AI tutoring trials say about one-to-one gains at scale. 13 min read Learning science Checking for understanding: 12 techniques that work online Twelve ways to check for understanding online and 1:1, from hinge questions to predict-then-reveal, with examples, pitfalls and how an AI tutor uses them. 13 min read Trust & safety Will an AI tutor make things up? Keeping it grounded Why AI tutors make things up, the design choices that keep one faithful to your own material, and a 10-minute test to run before students see it. 11 min read Trust & safety AI voice cloning for teachers: consent, quality and cost Before cloning a teacher's voice for lessons: how much audio it takes, how to record consent, what to tell students, what US law says, and the cost. 12 min read
 See it teach
 Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
@@ -1173,6 +1177,7 @@ Institutes report the opposite: students arrive at the live class with their dou
 
 ## From the blog
 
+- Exam prep Turn a question bank into AI tutoring lessons 5 min read
 - Course creators Hindi-English AI tutoring: a bilingual lesson guide 5 min read
 - Exam prep Mock test analysis: turn mistakes into a study plan 5 min read
 - Learning science Diagnostic assessment for personalized learning 5 min read
@@ -1286,6 +1291,7 @@ What does it cost per child?+
 
 ## From the blog
 
+- Learning science Learning analytics for teachers: from report to action 5 min read
 - Course creators Hindi-English AI tutoring: a bilingual lesson guide 5 min read
 - Learning science Remedial teaching with AI: a practical classroom plan 5 min read
 - Trust & safety AI homework help that builds independent thinking 5 min read
@@ -1401,6 +1407,9 @@ It answers doubts about the material being taught and brings the lesson back to 
 
 ## From the blog
 
+- Buyer's guide AI whiteboard tutors: what to look for in a lesson 5 min read
+- Course creators AI speaking practice: a plan for clearer presentations 5 min read
+- Exam prep Turn a question bank into AI tutoring lessons 5 min read
 - Buyer's guide AI tutor vs LMS: what does your institute need? 5 min read
 - Course creators AI tutoring for STEM: from explanation to application 5 min read
 - Course creators Flipped classrooms with AI tutoring: a lesson plan 5 min read
@@ -1515,6 +1524,8 @@ What does it cost?+
 
 ## From the blog
 
+- Course creators AI speaking practice: a plan for clearer presentations 5 min read
+- Corporate training AI product knowledge training for sales and support 5 min read
 - Corporate training AI-led employee onboarding training: a guide for L&D 10 min read
 
 ## Tutezy for other kinds of institutes
@@ -1621,6 +1632,7 @@ What does it cost me?+
 
 ## From the blog
 
+- Exam prep Turn a question bank into AI tutoring lessons 5 min read
 - Exam prep Mock test analysis: turn mistakes into a study plan 5 min read
 - Learning science Remedial teaching with AI: a practical classroom plan 5 min read
 - Trust & safety AI homework help that builds independent thinking 5 min read
@@ -1734,6 +1746,8 @@ Content, transcripts and reports belong to the institution, are visible only to 
 
 ## From the blog
 
+- Course creators AI speaking practice: a plan for clearer presentations 5 min read
+- Learning science Learning analytics for teachers: from report to action 5 min read
 - Exam prep Mock test analysis: turn mistakes into a study plan 5 min read
 - Course creators AI tutoring for STEM: from explanation to application 5 min read
 - Course creators Flipped classrooms with AI tutoring: a lesson plan 5 min read
@@ -2132,6 +2146,477 @@ Less than expected once they see it uses their own material and voice, reports t
 - Tutezy vs ChatGPT Tutezy vs ChatGPT for teaching students
 - Tutezy vs Khanmigo Tutezy vs Khanmigo: your content vs a fixed curriculum
 - Tutezy vs recorded courses Tutezy vs recorded video courses
+See it teach
+Take a 10-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
+
+Try a lesson → Book a call
+
+
+---
+
+# AI whiteboard tutors: what to look for in a lesson | Tutezy
+URL: https://tutezy.ai/blog/ai-whiteboard-tutor/
+
+- Home
+- ›
+- Blog
+- ›
+- Buyer's guide
+Buyer's guide
+
+# AI whiteboard tutors: what to look for in a lesson
+An AI whiteboard tutor combines a visual explanation with questions and feedback. Evaluate whether its diagrams, equations and spoken explanations help learners follow a concept, then check whether they can use it independently. A polished animation alone does not demonstrate effective teaching.
+By the Tutezy team · October 13, 2026 · 5 min read
+
+Key takeaways
+
+- ✦ Ask the tutor to connect the diagram, words and calculation in one example.
+- ✦ Check axes, units and intermediate steps, not only the final answer.
+- ✦ Test how a lesson responds when the learner misunderstands the board.
+- ✦ Include a fresh independent question in every product trial.
+In this article
+
+- What the board should contribute
+- A distance-time graph lesson
+- Test the interaction
+- A demo checklist
+- Evaluate a real chapter
+
+## What should an AI whiteboard add to a lesson?
+A board gives a learner something to refer back to while the explanation develops. In algebra, that might be the operation applied to both sides of an equation. In science, it might be a labelled diagram whose arrows show a process. In a writing lesson, it could be a claim with the evidence placed underneath.
+The IES practice guide on instruction and study recommends combining graphical and verbal descriptions and linking concrete and abstract representations. These recommendations concern instructional design; they do not establish the effectiveness of a particular AI product.
+When evaluating a lesson, ask what each visual element helps the learner do. A diagram should support an explanation or question. Decorative motion can be attractive, but it should not crowd out labels or make an earlier step disappear before the student has used it.
+
+## A worked distance-time graph lesson
+Use a simple journey: a walker travels 10 metres in 5 seconds at constant speed, then stops for 3 seconds. The lesson objective is to interpret the slope of a distance-time graph. Specify that the walker continues along the same direction during the moving segment so the example remains unambiguous.
+Board step | Question to ask | Expected interpretation |
+
+Label time in seconds horizontally and distance in metres vertically. | Which value increases as the clock runs? | Time is represented on the horizontal axis. |
+Draw a straight line from (0, 0) to (5, 10). | How far does the walker travel each second? | 10 ÷ 5 = 2 metres per second. |
+Continue horizontally to (8, 10). | Does this segment mean the walker returned home? | No. Distance remains 10 metres while time passes. |
+Show a second line reaching 10 metres in 2 seconds. | Which moving segment represents the greater speed? | The steeper segment: 5 metres per second. |
+
+The board and explanation should refer to the same segment at the same moment. Ask the learner to predict a line before revealing it. Then provide a different graph and ask for an explanation without copying the completed example.
+This is a suggested evaluation exercise, not a claim that every whiteboard tutor supports every graph operation. Bring the example to a demo and inspect the actual output.
+
+## Test what happens when the learner is confused
+Submit a plausible misconception: “The flat part means the walker went back to the start.” Useful feedback directs attention to the unchanged distance and the continuing time. It should then ask a question that checks whether the learner has revised their interpretation.
+Try a second kind of difficulty: “I cannot read the vertical label.” That is a presentation problem, not evidence of weak physics knowledge. Review how the learner can inspect the board, adjust their experience or obtain clarification on the device they will use.
+Keep the student's view in the demo
+Test on a typical learner phone as well as a large screen. Check whether graph labels, fractions and earlier working remain readable. Record the actual issue instead of assuming every wrong answer reflects misunderstanding.
+
+## A practical checklist for comparing tutors
+
+- Are symbols, units and diagram labels consistent with the source material?
+- Does the explanation refer clearly to the visible part of the board?
+- Can learners answer by the input method available to them?
+- Does a hint address their mistake before the lesson reveals the solution?
+- Can teachers review the lesson and correct unclear material before release?
+- Does an interruption or resumed session preserve enough context to continue?
+Ask the same questions across products using your own chapter. A vendor's showcase topic may not expose the notation, language or diagram complexity of your course. The broader AI tutoring software checklist covers other purchasing considerations.
+
+## Evaluate one real chapter before expanding
+Select a chapter with a known misconception and a short independent assessment. Review the board, run a small learner trial and collect questions students could not resolve. Compare their independent explanations with the target objective, rather than relying on lesson completion alone.
+Keep teacher preparation time in the record. A useful pilot tells you both whether the lesson supports learning and how much effort is required to keep its visual material accurate. Our learning analytics guide explains how to turn those observations into follow-up teaching.
+Where Tutezy fits
+
+## What we built for this
+Tutezy builds live whiteboard lessons from your teaching material, with questions and hints. Explore how the lessons work and bring a diagram-heavy chapter to the demo so you can review the board in context.
+
+## Sources
+
+- IES, Organizing Instruction and Study to Improve Student Learning. ies.ed.gov/ncee/wwc/PracticeGuide/1
+
+## Frequently asked questions
+What is an AI whiteboard tutor?+
+It is a tutoring experience that uses a visual board alongside explanation and learner interaction. Useful examples include building a diagram, showing intermediate calculation steps and asking a student to interpret what is displayed.
+
+Is a whiteboard tutor the same as an AI video?+
+A video presents a prepared sequence. An interactive tutor can ask for a response and provide feedback during the lesson. Test the actual interaction: a moving board does not by itself make a lesson adaptive.
+
+Can every subject benefit from a whiteboard?+
+Use a board where a visible representation helps explain the task, such as a graph, argument structure or worked calculation. Some speaking or discussion activities need little visual material. Choose it for the learning objective.
+
+## Keep reading
+All posts →
+Course creators AI tutoring for STEM: from explanation to application A practical guide to AI tutoring for STEM education, with physics, biology and coding examples, lesson design checks and a plan for evaluating learning. 5 min read Buyer's guide AI math tutors: teaching beyond the final answer What to look for in an AI math tutor: worked examples, useful hints, error diagnosis and independent practice, with an algebra lesson schools can adapt. 5 min read Learning science Learning analytics for teachers: from report to action Use learning analytics to plan the next lesson: distinguish activity from understanding, review concept gaps and turn student reports into teaching actions. 5 min read
+See it teach
+Take a 10-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
+
+Try a lesson → Book a call
+
+
+---
+
+# AI speaking practice: a plan for clearer presentations | Tutezy
+URL: https://tutezy.ai/blog/ai-speaking-practice/
+
+- Home
+- ›
+- Blog
+- ›
+- Course creators
+Course creators
+
+# AI speaking practice: a plan for clearer presentations
+AI speaking practice gives learners a place to rehearse a short talk, get feedback and try again. Make each round specific: choose an audience, set one communication goal and review an observable part of the response. Finish with a new prompt and feedback from a person who represents the intended audience.
+By the Tutezy team · October 13, 2026 · 5 min read
+
+Key takeaways
+
+- ✦ Choose a concrete task, such as opening a presentation or explaining a project.
+- ✦ Give feedback on the message, structure and example before polishing wording.
+- ✦ Use a new prompt to check that improvement transfers beyond a memorized script.
+- ✦ Treat automated feedback as a coaching input that a teacher can review.
+In this article
+
+- Choose a speaking task
+- Use a simple rubric
+- Improve a presentation opening
+- A weekly practice routine
+- Review the feedback
+
+## Choose a task with an audience and an outcome
+“Improve my communication” gives a tutor little direction. “Explain our class project to a visiting parent in one minute” defines a situation that can be practised. The learner needs to decide what the audience knows, what matters to them and what they should remember afterwards.
+Useful starting tasks include introducing yourself to a new team, opening a class presentation, explaining a technical idea to a beginner or asking for a decision in a meeting. Keep the first round short enough to repeat without exhausting the learner.
+For a course, specify the expected language and the subject material the learner may use. A student who needs help organizing a clear explanation has a different goal from one learning new vocabulary. The bilingual lesson guide explains how to separate language choices from subject understanding.
+
+## Use a rubric the learner can understand
+The following is a suggested classroom rubric, not a validated speaking assessment. Use it to make feedback discussable. Mark each criterion as clear, partly clear or needing another attempt, with a concrete example from what the learner said.
+Criterion | Question for the reviewer | Useful feedback |
+
+Purpose | Can the listener identify the main point? | State the proposal in the first two sentences. |
+Structure | Do the ideas follow an understandable order? | Describe the problem before introducing the solution. |
+Specificity | Is there a concrete example supporting the point? | Replace “many issues” with one observed difficulty. |
+Audience fit | Are unfamiliar terms explained? | Explain the acronym before using it again. |
+Ending | Does the listener know the takeaway or requested action? | Finish with the decision you want the group to make. |
+
+Choose one or two criteria per round. A long list of corrections can leave the learner uncertain about what to change first. A teacher should also distinguish feedback based on recognized words from any claimed analysis of pace, pronunciation or vocal delivery.
+
+## A worked presentation opening
+Consider a fictional student presentation about improving the school library. The first attempt is: “Hello everyone, today I am going to talk about the library. It is very important, and there are many things we can do.” The topic is visible, but the listener does not yet know the problem or proposal.
+One targeted coaching prompt
+“Name one difficulty a student faces in the library, then tell us what change you propose. Keep the opening to two or three sentences.”
+
+A revised opening might be: “Finding a book is difficult when the shelf labels are missing. Our class proposes a labelled shelf map near the entrance. I will show a draft and ask for your feedback before we test it.” This example is invented for practice; students should use observations they can support in their own talks.
+Ask the learner what changed and why. Then provide a different situation, such as proposing a playground improvement. The next attempt should preserve the useful structure without copying the library sentences. A fluent recital alone does not show that the learner can organize a new message.
+
+## Plan a week of short speaking rounds
+
+- First session: choose an audience, deliver an initial response and select one improvement goal.
+- Second session: repeat the task with that change, then explain why the revision helps.
+- Third session: use a different prompt that needs the same skill.
+- Final session: present to a peer or teacher and answer one unexpected question.
+Keep a brief record of the prompt, feedback and chosen revision. Audio recordings are optional and should follow the course's agreed recording arrangements. A written reflection can also preserve what the learner plans to practise next.
+
+## Review whether the feedback matches the attempt
+If the tutor comments on something the learner did not say, inspect the recognized text where available. A transcription problem may explain the mismatch. Ask for the exact phrase behind a suggestion and let the teacher reject feedback that is inaccurate or irrelevant to the task.
+Assess progress using comparable prompts and the same criteria, then include a real listener. Do not promise a confidence score or a guaranteed improvement from a fixed number of sessions. Use the learner's actual attempts to decide which skill needs further practice.
+Where Tutezy fits
+
+## What we built for this
+Tutezy includes speaking-practice demos, including opening a public talk. Try the lesson linked below, then discuss how your course or university programme would supply prompts, examples and review criteria.
+
+## Frequently asked questions
+How can I practise speaking with an AI tutor?+
+Choose a short task and describe the audience. Speak your response, ask for feedback on one criterion and try again. Follow with a different prompt so you practise making decisions rather than repeating a supplied script.
+
+Can AI speaking practice replace presenting to people?+
+It can provide rehearsal between human sessions. Real listeners bring questions, reactions and context that should remain part of presentation practice. Include peer or teacher feedback before an important talk.
+
+Should students aim to remove their accent?+
+Set criteria around whether the intended audience can understand the message. Avoid treating an accent as a mistake. If pronunciation affects meaning, address the specific word or phrase rather than making a broad judgment about the speaker.
+
+## Keep reading
+All posts →
+Course creators Hindi-English AI tutoring: a bilingual lesson guide Plan Hindi-English AI tutoring with consistent subject vocabulary, bilingual explanations and checks for understanding, plus a sample science lesson. 5 min read Corporate training AI product knowledge training for sales and support Turn product documentation into AI training for sales and support, with customer scenarios, an answer rubric and a review process for changing features. 5 min read Learning science Socratic AI tutoring: questions that help students think How to use Socratic questioning in AI tutoring, with a sample dialogue, a hint ladder and clear rules for when to explain instead of asking more questions. 5 min read
+See it teach
+Take a 10-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
+
+Try a lesson → Book a call
+
+
+---
+
+# Learning analytics for teachers: from report to action | Tutezy
+URL: https://tutezy.ai/blog/learning-analytics-for-teachers/
+
+- Home
+- ›
+- Blog
+- ›
+- Learning science
+Learning science
+
+# Learning analytics for teachers: from report to action
+Learning analytics becomes useful when a teacher can connect a report to a teaching decision. Separate participation from demonstrated understanding, inspect the evidence behind a weak-concept label and choose a follow-up task. Check the learner's response again before deciding that the gap is closed.
+By the Tutezy team · October 13, 2026 · 5 min read
+
+Key takeaways
+
+- ✦ Minutes and completion describe participation, not independent understanding.
+- ✦ Read a concept score alongside the question, response and assistance used.
+- ✦ Distinguish a shared misconception from an isolated error or access problem.
+- ✦ Use reports to choose a next action and check whether it worked.
+In this article
+
+- Separate the report's signals
+- A class report example
+- A weekly review routine
+- Check the evidence
+- Keep an actionable record
+
+## Separate participation, performance and interpretation
+A dashboard can show that a learner spent twenty minutes in a chapter and finished every activity. That tells you they participated. Whether they can explain the chapter's central idea requires different evidence. Avoid combining the two into a single impression of “doing well.”
+Signal | What it can tell you | What to check next |
+
+Time in a lesson | The recorded duration of participation. | Was time spent working, waiting or dealing with an access issue? |
+Completion | The learner reached the recorded endpoint. | Can they explain or apply the content afterwards? |
+Correct response | An answer met the scoring rule. | Was it a first attempt, a guess or reached after hints? |
+Weak-concept label | The system flagged a possible support need. | Which question and reasoning produced the label? |
+Independent follow-up | Performance on a separate task under known conditions. | Does it confirm the earlier interpretation? |
+
+Ask vendors to explain what their labels mean. Two platforms may use the word “mastery” for different calculations. A teacher should be able to identify which learner actions contributed to a label and whether missing work is treated differently from incorrect work.
+
+## Turn a class report into a teaching decision
+Imagine a fictional class of 24 learners completing a lesson on percentages. Six responses treat a 20% increase followed by a 20% decrease as returning to the original value. Three learners have incomplete sessions. These are different situations even if both groups appear near the bottom of a dashboard.
+For the first group, inspect their working. Starting from 100 gives 120 after the increase, then 96 after decreasing 120 by 20%. A short follow-up lesson can focus on the changing base. Give a fresh example afterwards, such as increasing 200 by 10% and then decreasing the result by 10%; the final value is 198.
+For the incomplete sessions, first check whether the learners could access and finish the task. Do not infer that they share the percentage misconception. They need an opportunity to supply evidence before you select a subject intervention.
+If similar mistakes appear across much of a cohort, review the original question and teaching material as well as the students. An ambiguous instruction or an incorrect explanation can create a misleading pattern in an otherwise tidy report.
+
+## A weekly review routine for teachers
+
+- Choose the concepts needed for the next lesson instead of reviewing every available metric.
+- Inspect a few actual responses behind each recurring difficulty.
+- Group support by the mistake learners are making, not by a permanent ability label.
+- Assign one action: whole-class clarification, a small-group lesson or an individual check.
+- Use a new question later to determine whether the action addressed the difficulty.
+Keep this routine short enough to fit teaching preparation. A report that requires hours of interpretation every week may be difficult to sustain. Start with a single unit and expand only when staff can identify useful actions consistently.
+
+## Check the evidence before acting on a score
+Review the scoring rubric, especially for short explanations with several acceptable wordings. In spoken work, check whether recognition errors affected the response. Consider whether the question measured the intended concept or depended on vocabulary the learner had not been taught.
+Ask what is missing from the report
+A chart may omit learners who never started. Check the cohort list and the reporting period before describing a percentage as a class-wide result. Keep missing evidence visible rather than silently treating it as success or failure.
+
+The EEF feedback guidance emphasizes the principles that make feedback useful and notes that feedback can be unhelpful when poorly delivered. An analytics label only starts that process: teachers still need to decide what response will help the learner move forward.
+
+## Keep a record that supports the next lesson
+A practical note has four fields: concept, evidence, teaching action and follow-up result. For the percentage example, the evidence is the unchanged-base reasoning, the action is a comparison of two successive changes, and the result is the learner's explanation of the new example.
+Use that record to communicate progress without overstating certainty. “Applied the method independently on two new questions” says more than “mastered percentages.” The remedial teaching guide shows how to plan a longer support cycle when a difficulty persists.
+Where Tutezy fits
+
+## What we built for this
+Tutezy provides concept-level insights and reports for students and batches. Review the reporting workflow with your teachers and compare the signals with actual student work. Ask to see the fields available in the report or export before planning your review process around them.
+
+## Sources
+
+- EEF, Teacher Feedback to Improve Pupil Learning. educationendowmentfoundation.org.uk/education-evidence/guidance-reports/feedback
+
+## Frequently asked questions
+What are learning analytics for teachers?+
+They are information about learning activity and performance used to inform instruction. Useful analytics help a teacher see what evidence supports a judgment and what follow-up teaching or assessment is needed.
+
+Does a high lesson-completion rate prove learning?+
+No. Completion shows that a learner reached an endpoint in the activity. Check understanding with questions or tasks that require the learner to explain and apply the material, including work done without assistance.
+
+How should teachers use an AI tutor's mastery score?+
+Treat it as a signal to investigate. Check how it is calculated, which concepts and attempts it covers, and whether hints were involved. Confirm important decisions with independent work and teacher judgment.
+
+## Keep reading
+All posts →
+Learning science Diagnostic assessment for personalized learning Build a diagnostic assessment that identifies learning gaps and leads to useful support, with sample fraction questions and a personalized learning plan. 5 min read Learning science Remedial teaching with AI: a practical classroom plan Design remedial teaching around a specific learning gap, with a worked fraction lesson, a two-week support plan and checks for independent progress. 5 min read Learning science Checking for understanding: 12 techniques that work online Twelve ways to check for understanding online and 1:1, from hinge questions to predict-then-reveal, with examples, pitfalls and how an AI tutor uses them. 13 min read
+See it teach
+Take a 10-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
+
+Try a lesson → Book a call
+
+
+---
+
+# AI product knowledge training for sales and support | Tutezy
+URL: https://tutezy.ai/blog/ai-product-knowledge-training/
+
+- Home
+- ›
+- Blog
+- ›
+- Corporate training
+Corporate training
+
+# AI product knowledge training for sales and support
+AI product knowledge training turns approved documentation into explanations and customer scenarios that employees can practise. Start with a specific role, teach the decisions that role needs to make and review answers against current product facts. Keep an owner and a revision process for every lesson.
+By the Tutezy team · October 13, 2026 · 5 min read
+
+Key takeaways
+
+- ✦ Teach the decisions sales and support staff make, not only feature names.
+- ✦ Give each training scenario an approved answer and clear limits on claims.
+- ✦ Separate correct product knowledge from persuasive but inaccurate wording.
+- ✦ Update and review lessons when the underlying product information changes.
+In this article
+
+- Define the employee's task
+- Prepare approved material
+- A customer scenario and rubric
+- Run a practical pilot
+- Keep the lessons current
+
+## Define what the employee needs to do
+A product deck may describe everything the company wants to announce. A training lesson needs a narrower objective. For sales, that might be identifying whether a customer requires a feature the product does not offer. For support, it might be asking the right questions before choosing a troubleshooting step.
+Write the task in observable terms: explain a limitation accurately, identify an unsuitable use case or locate the current source for a commercial claim. “Know the new release” is too broad to assess with a useful scenario.
+Keep role-specific practice separate where the decisions differ. A shared introduction can cover the product's purpose and terminology. Sales and support can then work through different customer situations using the same approved facts.
+
+## Prepare a small set of approved source material
+Start with the current product overview, feature availability, known limitations and the process for resolving uncertainty. Remove conflicting drafts and outdated screenshots from the training set. Give every source a version or review date and a named owner.
+
+- State which customer needs the product is intended to address.
+- List available capabilities separately from roadmap ideas.
+- Include conditions and limitations alongside the feature they qualify.
+- Provide approved examples and responses to common misunderstandings.
+- Specify who should confirm a detail that the source does not answer.
+If employees need to discuss pricing, use the current approved commercial material and define who can authorize an exception. A training conversation should not invent a discount, delivery date or integration commitment to make a scenario feel complete.
+
+## A fictional customer scenario with an answer rubric
+Imagine a scheduling product that supports browser-based appointment booking but does not work offline. This is an invented product for the exercise, not a description of Tutezy. A customer says: “Our team sometimes loses connectivity. Can we keep creating bookings while the internet is down?”
+A suitable response acknowledges the need, states the offline limitation and asks how often the team faces it. The employee should avoid promising that the feature will arrive soon unless an approved source authorizes that statement.
+Criterion | Evidence of a useful answer | Problem to flag |
+
+Accuracy | Clearly states that offline booking is unavailable. | Claims bookings will automatically work without connectivity. |
+Clarification | Asks how the limitation affects the customer's workflow. | Moves to a sales pitch without understanding the requirement. |
+Boundaries | Checks uncertain details with the appropriate owner. | Invents a roadmap date or unsupported workaround. |
+Next step | Suggests evaluating fit using the confirmed requirements. | Promises the product will meet every need. |
+
+Ask the learner to explain why an inaccurate answer could cause a problem later. Then change the customer situation. For example, the customer has reliable connectivity but needs a feature not mentioned in the source. Check whether the employee asks for confirmation rather than assuming availability.
+Grade knowledge before sales polish
+A confident answer can still be wrong. Review factual accuracy and unsupported promises separately from tone, clarity and rapport. A polished response should not pass a critical product-knowledge check if its central claim is false.
+
+## Pilot the lesson with a real team
+Choose one product module and a small group from the intended role. Ask a subject expert to review the lesson and test several incorrect answers. Include an uncertainty case where the correct behavior is to ask for confirmation.
+After practice, use a new scenario without tutor hints. Have a manager review the response using the same rubric. Track inaccurate claims, useful clarifying questions and correct escalation decisions. Include staff preparation time and cases where the tutor's feedback needed correction.
+Connect the practice to the team's existing coaching routine. Our speaking practice guide offers a structure for improving how an employee explains a correct answer. For the wider new-hire sequence, see AI-led onboarding training .
+
+## Keep a change record for the lesson
+When a feature changes, identify the source, explanation, scenario and expected answer that depend on it. Revise those parts together. Updating the product deck while retaining an old rubric can lead the tutor to mark a newly correct response as wrong.
+Before release, test the changed scenario and an unchanged one to check for unintended differences. Tell managers which knowledge employees need to refresh. Keep the record simple: source version, lesson owner, review date and the decisions that changed.
+Where Tutezy fits
+
+## What we built for this
+Tutezy supports corporate lessons from existing decks and documents, including situational questions. Explore Tutezy for corporate training with one reviewed product module and its answer rubric. Confirm the content-update workflow before extending the programme.
+
+## Frequently asked questions
+What is AI product knowledge training?+
+It uses AI-supported lessons and practice to help employees explain a product and make appropriate decisions in customer situations. The content should come from reviewed product information and include limits, exceptions and escalation routes.
+
+Can the same lesson serve sales and support?+
+Some core facts can be shared, but the practice should reflect each role. Sales may need to establish fit and explain limitations; support may need to clarify a reported issue and choose the next troubleshooting or escalation step.
+
+How often should product training be updated?+
+Review a lesson whenever a relevant feature, price, policy or process changes. Assign an owner who can identify affected material, revise it and check the learner experience before it is used again.
+
+## Keep reading
+All posts →
+Corporate training AI-led employee onboarding training: a guide for L&D How L&D teams can teach onboarding, compliance and product knowledge one to one with an AI trainer built from existing decks, plus a 30-day rollout plan. 10 min read Course creators AI speaking practice: a plan for clearer presentations Build an AI speaking practice routine with short presentation prompts, a feedback rubric and repeat attempts, plus a sample opening learners can adapt. 5 min read Trust & safety Will an AI tutor make things up? Keeping it grounded Why AI tutors make things up, the design choices that keep one faithful to your own material, and a 10-minute test to run before students see it. 11 min read
+See it teach
+Take a 10-minute lesson, then book a demo on your own content.
+No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
+
+Try a lesson → Book a call
+
+
+---
+
+# Turn a question bank into AI tutoring lessons | Tutezy
+URL: https://tutezy.ai/blog/question-bank-to-ai-tutoring-lessons/
+
+- Home
+- ›
+- Blog
+- ›
+- Exam prep
+Exam prep
+
+# Turn a question bank into AI tutoring lessons
+A question bank becomes teaching material when each item includes the concept being checked, a reviewed explanation and support for likely mistakes. Prepare those parts before using AI to build lessons. Keep separate questions for checking whether students can apply the idea after the tutoring support is removed.
+By the Tutezy team · October 13, 2026 · 5 min read
+
+Key takeaways
+
+- ✦ An answer key alone does not supply a teaching explanation.
+- ✦ Use plausible wrong options to plan questions, not to diagnose a learner with certainty.
+- ✦ Write hints that point to a next step before revealing the whole solution.
+- ✦ Reserve fresh questions for independent assessment after practice.
+In this article
+
+- Audit the question bank
+- Prepare teaching fields
+- A worked multiple-choice item
+- Build a short lesson
+- Review before release
+
+## Audit the source before generating explanations
+Question banks often accumulate over several courses or exam cycles. Before converting one into lessons, check for duplicate items, inconsistent answer keys, missing diagrams and references to material that is no longer taught. Review a small topic set first rather than uploading a large unexamined collection.
+Choose material your team can explain and maintain. Give each item a stable identifier so a correction can be traced to the original question. If a source is scanned, inspect symbols, superscripts, minus signs and labels after extraction; a small transcription error can change the problem.
+Keep the intended course level and prerequisites visible. A solution that introduces an unfamiliar shortcut may answer the question correctly while making the tutoring lesson harder to follow.
+
+## Prepare teaching fields alongside each question
+Field | What to include | Why it matters |
+
+Concept | The specific knowledge or method being checked. | Connects an incorrect attempt to a focused lesson. |
+Prerequisite | What a learner needs before starting. | Helps a teacher choose an appropriate explanation. |
+Reviewed solution | Reasoning, intermediate steps and acceptable alternatives. | Provides more than the final answer. |
+Likely mistake | A possible explanation for a wrong step or option. | Suggests a clarifying question to ask the learner. |
+Hint sequence | A prompt, a more specific clue and a worked explanation. | Defines how support can increase when needed. |
+Follow-up item | A fresh problem using the same underlying idea. | Checks independent application. |
+
+These fields form an editorial checklist; they are not a claim about the import format of every platform. Confirm the supported format and how a tutor uses the supplied material before preparing a large migration.
+
+## A worked multiple-choice question
+Consider this illustrative item: “A shirt costs ₹800 before a 25% discount. What is its price after the discount?” The options are ₹200, ₹600, ₹775 and ₹1,000. The reviewed solution is: 25% of ₹800 is ₹200, so the remaining price is ₹800 − ₹200 = ₹600.
+A learner selecting ₹200 may have calculated the discount correctly but answered a different question. Selecting ₹775 may indicate subtracting 25 as a currency amount. Treat those as hypotheses. Ask the student to explain their choice before deciding which teaching response fits.
+
+- First hint: “Does the question ask for the amount saved or the amount still paid?”
+- Second hint: “Find one quarter of ₹800, then decide what to subtract.”
+- Worked explanation: show the discount and remaining price as separately labelled quantities.
+- Independent check: ask for the price of a ₹500 item after a 20% discount; the answer is ₹400.
+The important distinction is between the reduction and the remaining amount. A lesson that only repeats the correct option misses an opportunity to resolve that confusion. Include the unit and the meaning of each intermediate value in the explanation.
+
+## Build a short lesson around the question
+Start by stating the objective: distinguish a percentage reduction from the quantity left afterwards. Check that learners can find a simple percentage. Work through the reviewed example, invite a response and offer the planned support if needed. Finish with a new problem.
+The IES practice guide recommends alternating worked solutions with problem-solving exercises. The sequence here applies that idea to a question-bank lesson; it does not imply that generating more questions automatically improves learning.
+Keep the check separate from the explanation
+If students can see the worked answer while attempting the follow-up, record that support. For an independent check, remove the example and hints so the response tells you what the learner can do unaided.
+
+After a test, choose the relevant lesson using the learner's attempted working. Our mock-test analysis guide explains how to distinguish a conceptual gap from an execution slip or time-management problem.
+
+## Review the actual tutoring exchange
+Test a correct response with different wording, each wrong option and a student who asks why the rule works. Check that the feedback remains consistent with the reviewed solution. Verify that a missing diagram or unreadable equation does not leave the explanation referring to something the learner cannot see.
+Maintain a small review log containing the item identifier, issue, corrected source and release decision. When an answer key changes, revisit any lesson and assessment item that depends on it. Begin with one topic whose explanations a subject teacher can check thoroughly.
+Where Tutezy fits
+
+## What we built for this
+Tutezy can build lessons from existing course material, including question banks. Bring a reviewed topic set to discuss the conversion workflow and inspect the resulting explanations. Coaching institutes can start with questions that reveal a recurring concept gap.
+
+## Sources
+
+- IES, Organizing Instruction and Study to Improve Student Learning. ies.ed.gov/ncee/wwc/PracticeGuide/1
+
+## Frequently asked questions
+Can AI turn a question bank into tutoring lessons?+
+AI can help produce explanations and practice from supplied material, but the source needs review. Add concept labels, correct solutions and useful hints, then inspect the generated lesson before students use it.
+
+Is a list of correct options enough?+
+No. A letter such as B does not explain why an answer is correct, when the method applies or what the student should do after a mistake. Supply the reasoning and acceptable alternative methods.
+
+Should practice and assessment use the same questions?+
+Repeating an item can support review, but it cannot by itself show transfer to a new problem. Keep a separate set of questions for checking independent application after the lesson.
+
+## Keep reading
+All posts →
+Exam prep Mock test analysis: turn mistakes into a study plan Use mock test analysis to separate concept gaps, slips and time pressure, then build a focused revision plan with an error log and AI tutoring support. 5 min read Course creators Turn PDFs, slides and videos into interactive lessons with AI How to convert the PDFs, slides and videos you already have into interactive lessons with checks, hints and diagrams, and what a human must still review. 11 min read Buyer's guide AI whiteboard tutors: what to look for in a lesson Evaluate an AI whiteboard tutor with a worked graph lesson, checks for diagram accuracy and a practical demo checklist for schools and course creators. 5 min read
 See it teach
 Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
@@ -3356,7 +3841,7 @@ Used as an answer machine, it can hurt. In the Bastani et al. study published in
 
 ## Keep reading
 All posts →
-Learning science Remedial teaching with AI: a practical classroom plan Design remedial teaching around a specific learning gap, with a worked fraction lesson, a two-week support plan and checks for independent progress. 5 min read Learning science Diagnostic assessment for personalized learning Build a diagnostic assessment that identifies learning gaps and leads to useful support, with sample fraction questions and a personalized learning plan. 5 min read Learning science Socratic AI tutoring: questions that help students think How to use Socratic questioning in AI tutoring, with a sample dialogue, a hint ladder and clear rules for when to explain instead of asking more questions. 5 min read
+Learning science Learning analytics for teachers: from report to action Use learning analytics to plan the next lesson: distinguish activity from understanding, review concept gaps and turn student reports into teaching actions. 5 min read Learning science Remedial teaching with AI: a practical classroom plan Design remedial teaching around a specific learning gap, with a worked fraction lesson, a two-week support plan and checks for independent progress. 5 min read Learning science Diagnostic assessment for personalized learning Build a diagnostic assessment that identifies learning gaps and leads to useful support, with sample fraction questions and a personalized learning plan. 5 min read
 See it teach
 Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
@@ -3545,7 +4030,7 @@ Check whenever the next part of the lesson depends on the last one, which in one
 
 ## Keep reading
 All posts →
-Learning science Remedial teaching with AI: a practical classroom plan Design remedial teaching around a specific learning gap, with a worked fraction lesson, a two-week support plan and checks for independent progress. 5 min read Learning science Diagnostic assessment for personalized learning Build a diagnostic assessment that identifies learning gaps and leads to useful support, with sample fraction questions and a personalized learning plan. 5 min read Learning science Socratic AI tutoring: questions that help students think How to use Socratic questioning in AI tutoring, with a sample dialogue, a hint ladder and clear rules for when to explain instead of asking more questions. 5 min read
+Learning science Learning analytics for teachers: from report to action Use learning analytics to plan the next lesson: distinguish activity from understanding, review concept gaps and turn student reports into teaching actions. 5 min read Learning science Remedial teaching with AI: a practical classroom plan Design remedial teaching around a specific learning gap, with a worked fraction lesson, a two-week support plan and checks for independent progress. 5 min read Learning science Diagnostic assessment for personalized learning Build a diagnostic assessment that identifies learning gaps and leads to useful support, with sample fraction questions and a personalized learning plan. 5 min read
 See it teach
 Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
@@ -3729,7 +4214,7 @@ Track activation (the share of enrollees who start lesson one within a week), un
 
 ## Keep reading
 All posts →
-Course creators Hindi-English AI tutoring: a bilingual lesson guide Plan Hindi-English AI tutoring with consistent subject vocabulary, bilingual explanations and checks for understanding, plus a sample science lesson. 5 min read Course creators AI tutoring for STEM: from explanation to application A practical guide to AI tutoring for STEM education, with physics, biology and coding examples, lesson design checks and a plan for evaluating learning. 5 min read Course creators Flipped classrooms with AI tutoring: a lesson plan Plan a flipped classroom with AI tutoring before class, collaborative practice during class and focused follow-up, including a sample 50-minute lesson. 5 min read
+Course creators AI speaking practice: a plan for clearer presentations Build an AI speaking practice routine with short presentation prompts, a feedback rubric and repeat attempts, plus a sample opening learners can adapt. 5 min read Course creators Hindi-English AI tutoring: a bilingual lesson guide Plan Hindi-English AI tutoring with consistent subject vocabulary, bilingual explanations and checks for understanding, plus a sample science lesson. 5 min read Course creators AI tutoring for STEM: from explanation to application A practical guide to AI tutoring for STEM education, with physics, biology and coding examples, lesson design checks and a plan for evaluating learning. 5 min read
 See it teach
 Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
@@ -3886,7 +4371,7 @@ A chatbot waits for a question and answers it. A tutor follows a plan: it explai
 
 ## Keep reading
 All posts →
-Buyer's guide AI tutor vs LMS: what does your institute need? Compare an AI tutor with a learning management system: teaching, course delivery, assessments and reporting, plus a checklist for using them together. 5 min read Buyer's guide AI math tutors: teaching beyond the final answer What to look for in an AI math tutor: worked examples, useful hints, error diagnosis and independent practice, with an algebra lesson schools can adapt. 5 min read Buyer's guide How much does an AI tutor cost? Pricing models compared Per-seat, per-minute, build-your-own and human tutoring costs compared, with worked examples for a 100-student cohort and the hidden costs to budget for. 11 min read
+Buyer's guide AI whiteboard tutors: what to look for in a lesson Evaluate an AI whiteboard tutor with a worked graph lesson, checks for diagram accuracy and a practical demo checklist for schools and course creators. 5 min read Buyer's guide AI tutor vs LMS: what does your institute need? Compare an AI tutor with a learning management system: teaching, course delivery, assessments and reporting, plus a checklist for using them together. 5 min read Buyer's guide AI math tutors: teaching beyond the final answer What to look for in an AI math tutor: worked examples, useful hints, error diagnosis and independent practice, with an algebra lesson schools can adapt. 5 min read
 See it teach
 Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
@@ -4049,7 +4534,7 @@ The National Student Support Accelerator at Stanford says cost estimates for hig
 
 ## Keep reading
 All posts →
-Buyer's guide AI tutor vs LMS: what does your institute need? Compare an AI tutor with a learning management system: teaching, course delivery, assessments and reporting, plus a checklist for using them together. 5 min read Buyer's guide AI math tutors: teaching beyond the final answer What to look for in an AI math tutor: worked examples, useful hints, error diagnosis and independent practice, with an algebra lesson schools can adapt. 5 min read Buyer's guide How to choose AI tutoring software: 12 questions to ask A buyer's checklist for evaluating AI tutoring software: grounding, teaching method, voice, reports, data privacy, total cost, and how to run a two-week pilot. 12 min read
+Buyer's guide AI whiteboard tutors: what to look for in a lesson Evaluate an AI whiteboard tutor with a worked graph lesson, checks for diagram accuracy and a practical demo checklist for schools and course creators. 5 min read Buyer's guide AI tutor vs LMS: what does your institute need? Compare an AI tutor with a learning management system: teaching, course delivery, assessments and reporting, plus a checklist for using them together. 5 min read Buyer's guide AI math tutors: teaching beyond the final answer What to look for in an AI math tutor: worked examples, useful hints, error diagnosis and independent practice, with an algebra lesson schools can adapt. 5 min read
 See it teach
 Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
@@ -4187,7 +4672,7 @@ It depends on the subject and how it is used, so test the current version on you
 
 ## Keep reading
 All posts →
-Trust & safety AI homework help that builds independent thinking Design AI homework help around first attempts, targeted hints and independent checks, with a sample algebra exchange and a classroom policy template. 5 min read Trust & safety AI voice cloning for teachers: consent, quality and cost Before cloning a teacher's voice for lessons: how much audio it takes, how to record consent, what to tell students, what US law says, and the cost. 12 min read Buyer's guide AI tutor vs LMS: what does your institute need? Compare an AI tutor with a learning management system: teaching, course delivery, assessments and reporting, plus a checklist for using them together. 5 min read
+Trust & safety AI homework help that builds independent thinking Design AI homework help around first attempts, targeted hints and independent checks, with a sample algebra exchange and a classroom policy template. 5 min read Trust & safety AI voice cloning for teachers: consent, quality and cost Before cloning a teacher's voice for lessons: how much audio it takes, how to record consent, what to tell students, what US law says, and the cost. 12 min read Buyer's guide AI whiteboard tutors: what to look for in a lesson Evaluate an AI whiteboard tutor with a worked graph lesson, checks for diagram accuracy and a practical demo checklist for schools and course creators. 5 min read
 See it teach
 Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
@@ -4346,7 +4831,7 @@ Yes. Name it as an AI mentor on the sales page and inside the course, and do not
 
 ## Keep reading
 All posts →
-Course creators Hindi-English AI tutoring: a bilingual lesson guide Plan Hindi-English AI tutoring with consistent subject vocabulary, bilingual explanations and checks for understanding, plus a sample science lesson. 5 min read Course creators AI tutoring for STEM: from explanation to application A practical guide to AI tutoring for STEM education, with physics, biology and coding examples, lesson design checks and a plan for evaluating learning. 5 min read Course creators Flipped classrooms with AI tutoring: a lesson plan Plan a flipped classroom with AI tutoring before class, collaborative practice during class and focused follow-up, including a sample 50-minute lesson. 5 min read
+Course creators AI speaking practice: a plan for clearer presentations Build an AI speaking practice routine with short presentation prompts, a feedback rubric and repeat attempts, plus a sample opening learners can adapt. 5 min read Course creators Hindi-English AI tutoring: a bilingual lesson guide Plan Hindi-English AI tutoring with consistent subject vocabulary, bilingual explanations and checks for understanding, plus a sample science lesson. 5 min read Course creators AI tutoring for STEM: from explanation to application A practical guide to AI tutoring for STEM education, with physics, biology and coding examples, lesson design checks and a plan for evaluating learning. 5 min read
 See it teach
 Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
@@ -4518,7 +5003,7 @@ Generation itself is fast; the time goes into preparing sources and reviewing th
 
 ## Keep reading
 All posts →
-Course creators Hindi-English AI tutoring: a bilingual lesson guide Plan Hindi-English AI tutoring with consistent subject vocabulary, bilingual explanations and checks for understanding, plus a sample science lesson. 5 min read Course creators AI tutoring for STEM: from explanation to application A practical guide to AI tutoring for STEM education, with physics, biology and coding examples, lesson design checks and a plan for evaluating learning. 5 min read Course creators Flipped classrooms with AI tutoring: a lesson plan Plan a flipped classroom with AI tutoring before class, collaborative practice during class and focused follow-up, including a sample 50-minute lesson. 5 min read
+Course creators AI speaking practice: a plan for clearer presentations Build an AI speaking practice routine with short presentation prompts, a feedback rubric and repeat attempts, plus a sample opening learners can adapt. 5 min read Course creators Hindi-English AI tutoring: a bilingual lesson guide Plan Hindi-English AI tutoring with consistent subject vocabulary, bilingual explanations and checks for understanding, plus a sample science lesson. 5 min read Course creators AI tutoring for STEM: from explanation to application A practical guide to AI tutoring for STEM education, with physics, biology and coding examples, lesson design checks and a plan for evaluating learning. 5 min read
 See it teach
 Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
@@ -4691,7 +5176,7 @@ Check how each vendor charges, whether per voice, as part of a subscription or b
 
 ## Keep reading
 All posts →
-Trust & safety AI homework help that builds independent thinking Design AI homework help around first attempts, targeted hints and independent checks, with a sample algebra exchange and a classroom policy template. 5 min read Trust & safety Will an AI tutor make things up? Keeping it grounded Why AI tutors make things up, the design choices that keep one faithful to your own material, and a 10-minute test to run before students see it. 11 min read Buyer's guide AI tutor vs LMS: what does your institute need? Compare an AI tutor with a learning management system: teaching, course delivery, assessments and reporting, plus a checklist for using them together. 5 min read
+Trust & safety AI homework help that builds independent thinking Design AI homework help around first attempts, targeted hints and independent checks, with a sample algebra exchange and a classroom policy template. 5 min read Trust & safety Will an AI tutor make things up? Keeping it grounded Why AI tutors make things up, the design choices that keep one faithful to your own material, and a 10-minute test to run before students see it. 11 min read Buyer's guide AI whiteboard tutors: what to look for in a lesson Evaluate an AI whiteboard tutor with a worked graph lesson, checks for diagram accuracy and a practical demo checklist for schools and course creators. 5 min read
 See it teach
 Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
@@ -4874,7 +5359,7 @@ No. It takes the repetitive one-to-one work: explaining the same missed concept 
 
 ## Keep reading
 All posts →
-Exam prep Mock test analysis: turn mistakes into a study plan Use mock test analysis to separate concept gaps, slips and time pressure, then build a focused revision plan with an error log and AI tutoring support. 5 min read Exam prep Spaced repetition: a practical four-week study plan Combine spaced repetition and retrieval practice in a four-week revision plan, with examples for facts, calculations and explanations plus an error log. 5 min read Buyer's guide AI tutor vs LMS: what does your institute need? Compare an AI tutor with a learning management system: teaching, course delivery, assessments and reporting, plus a checklist for using them together. 5 min read
+Exam prep Turn a question bank into AI tutoring lessons Prepare a question bank for AI tutoring with concept tags, reviewed explanations and useful hints, plus a sample multiple-choice question teaching plan. 5 min read Exam prep Mock test analysis: turn mistakes into a study plan Use mock test analysis to separate concept gaps, slips and time pressure, then build a focused revision plan with an error log and AI tutoring support. 5 min read Exam prep Spaced repetition: a practical four-week study plan Combine spaced repetition and retrieval practice in a four-week revision plan, with examples for facts, calculations and explanations plus an error log. 5 min read
 See it teach
 Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
@@ -5046,7 +5531,7 @@ It depends on the product and the child. A tutor that teaches from reviewed mate
 
 ## Keep reading
 All posts →
-Buyer's guide AI tutor vs LMS: what does your institute need? Compare an AI tutor with a learning management system: teaching, course delivery, assessments and reporting, plus a checklist for using them together. 5 min read Course creators Hindi-English AI tutoring: a bilingual lesson guide Plan Hindi-English AI tutoring with consistent subject vocabulary, bilingual explanations and checks for understanding, plus a sample science lesson. 5 min read Exam prep Mock test analysis: turn mistakes into a study plan Use mock test analysis to separate concept gaps, slips and time pressure, then build a focused revision plan with an error log and AI tutoring support. 5 min read
+Buyer's guide AI whiteboard tutors: what to look for in a lesson Evaluate an AI whiteboard tutor with a worked graph lesson, checks for diagram accuracy and a practical demo checklist for schools and course creators. 5 min read Course creators AI speaking practice: a plan for clearer presentations Build an AI speaking practice routine with short presentation prompts, a feedback rubric and repeat attempts, plus a sample opening learners can adapt. 5 min read Learning science Learning analytics for teachers: from report to action Use learning analytics to plan the next lesson: distinguish activity from understanding, review concept gaps and turn student reports into teaching actions. 5 min read
 See it teach
 Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
@@ -5208,7 +5693,7 @@ Some can. Tutezy teaches in English and Hindi, and an employee can switch betwee
 
 ## Keep reading
 All posts →
-Buyer's guide AI tutor vs LMS: what does your institute need? Compare an AI tutor with a learning management system: teaching, course delivery, assessments and reporting, plus a checklist for using them together. 5 min read Course creators Hindi-English AI tutoring: a bilingual lesson guide Plan Hindi-English AI tutoring with consistent subject vocabulary, bilingual explanations and checks for understanding, plus a sample science lesson. 5 min read Exam prep Mock test analysis: turn mistakes into a study plan Use mock test analysis to separate concept gaps, slips and time pressure, then build a focused revision plan with an error log and AI tutoring support. 5 min read
+Corporate training AI product knowledge training for sales and support Turn product documentation into AI training for sales and support, with customer scenarios, an answer rubric and a review process for changing features. 5 min read Buyer's guide AI whiteboard tutors: what to look for in a lesson Evaluate an AI whiteboard tutor with a worked graph lesson, checks for diagram accuracy and a practical demo checklist for schools and course creators. 5 min read Course creators AI speaking practice: a plan for clearer presentations Build an AI speaking practice routine with short presentation prompts, a feedback rubric and repeat attempts, plus a sample opening learners can adapt. 5 min read
 See it teach
 Take a 10-minute lesson, then book a demo on your own content.
 No sign-up for the lesson. The call is 20 minutes and we convert one of your chapters live. We're in India. Calls run 9:30 am–3:30 pm ET (7 pm–1 am IST), Monday to Friday.
